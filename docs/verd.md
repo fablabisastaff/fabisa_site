@@ -1,12 +1,15 @@
-# Verðskrá
+# Verð á efni
 
 Aðgangur að Fab Lab Ísafirði er öllum að kostnaðarlausu. Engin gjöld eru innheimt af notkun tölva né annara tækja.
 
 Hinsvegar eru rukkuð efnisgjöld, verð á helstu hráefnum má sjá hér að neðan:
 
 ## Vínyll
-Efni	Verð
-Vínilfilma even 808	1500 kr/m
+
+|Efni      |tegund	|Verð|
+|:---:|:---:|:---:|
+|Vínilfilma |cast777	|1500 kr/m|
+
 
 ## Laser plötur
 
@@ -15,7 +18,9 @@ Vínilfilma even 808	1500 kr/m
 |3mm |plexyplata| 2500kr   |        
 |5mm |plexyplata| 3500kr   |        
 
-## 3D prentun 50 kr start gjald
+## 3D prentun 
+
+*50 kr start gjald*
 
 |Efni	| Verð    |
 |:-----:|:-------:|
@@ -26,11 +31,16 @@ Vínilfilma even 808	1500 kr/m
 |ABS	| 10 kr/gr|
 
 ## Rafrásarfræs
-Efni	Verð
-Koparplata	500 kr
+
+| Efni	|Verð|
+|:-:|:-:|
+|Koparplata	|500 kr|
+
+*Til að viðhalda fræsitönnum tökum við 500/klst. ef eigin fræsitennur eru nottaðar er ekkert gjald.*
 
 
 ## Rafbúnaður / íhlutir
+
 Rafmagnsíhlutir eru ekki ókeypis. Miðað er við upprunalegt verð erlendis, að viðbættu sendingar- og umsýslugjaldi og virðisauka.
 
 Verðin er hægt að finna með eftirfarandi formúlu
@@ -46,6 +56,9 @@ Verð á Digikey	Umsýslugjald	Virðisauki	Heildarverð
 
 
 ## Stór fræsivél (Shopbot)
+
 Fer eftir verkefnum, notendur Fab Lab geta komið með eigin efni í samráði við starfsmenn.
 
-til að viðhalda fræsitönnum er 1000kr gjald / klst.
+Til að viðhalda fræsitönnum er 1000kr gjald / klst.
+
+Ef eigin fræsitennur eru notaðar er ekkert gjald.
