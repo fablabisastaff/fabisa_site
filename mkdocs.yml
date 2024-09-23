@@ -1,1 +1,75 @@
-site_name: My Docs
+site_name: Fab Lab Ísafjörður
+#site_url: https://www.fabisa.is
+theme:
+  name: material
+  custom_dir: overrides
+  logo: assets/img/logo/fabisa_logo.png
+  favicon: assets/img/logo/favicon.png
+#  font:
+#    text: Sofadi One
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top 
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: is
+  palette: 
+    - scheme: default
+      toggle:
+        icon: material/lightbulb
+        name: Switch to dark mode
+      primary: teal
+      accent: yellow 
+    - scheme: slate 
+      toggle:
+        icon: material/lightbulb-outline 
+        name: Switch to light mode    
+      primary: teal
+      accent: yellow
+
+plugins:
+#  - social
+  - search
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/fablabisa
+    #- icon: fontawesome/brands/gitlab
+    #  link: https://gitlab.com/hanndoddi
+    #- icon: fontawesome/brands/twitter
+    #  link: https://twitter.com/hanndoddi
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/hanndoddi
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/fablabisa
+    - icon: fontawesome/brands/facebook
+      link: https://www.instagram.com/fablabisa
+  extra:
+  generator: false
+    
+
+
+extra_javascript:
+  - javascripts/jquery.min.js
+  - javascripts/jquery.scrollex.min.js
+  - javascripts/jquery.scrolly.min.js
+  - javascripts/browser.min.js
+  - javascripts/breakpoints.min.js
+  - javascripts/main.js
+  - javascripts/util.js
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - md_in_html
+
+copyright: |
+  &copy; 2024 <a href="https://github.com/fablabisa"  target="_blank" rel="noopener">FabIsa</a>  
