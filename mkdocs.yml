@@ -1,4 +1,6 @@
 site_name: Fab Lab Ísafjörður
+site_description: >- 
+  Heimasíða Fab Lab Ísafjarðar
 #site_url: https://www.fabisa.is
 theme:
   name: material
@@ -6,7 +8,7 @@ theme:
   logo: assets/img/logo/fabisa_logo.png
   favicon: assets/img/logo/favicon.png
 #  font:
-#    text: Sofadi One
+#    text: Sofadi One # hægt að setja custom font
   features:
     - navigation.tabs
     - navigation.sections
@@ -33,7 +35,7 @@ theme:
       accent: yellow
 
 plugins:
-#  - social
+#  - social  # socail kort sem hægt er að virkja
   - search
 
 extra:
@@ -53,8 +55,7 @@ extra:
   extra:
   generator: false
     
-
-
+    
 extra_javascript:
   - javascripts/jquery.min.js
   - javascripts/jquery.scrollex.min.js

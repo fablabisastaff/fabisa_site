@@ -1,6 +1,6 @@
 # Alþjóðasáttmáli
 
-![vantar mynd af fab charter](image.png)
+![vantar mynd af fab charter](assets/img/images/kaffihorn.png)
 
 ## Um sáttmálan
 
