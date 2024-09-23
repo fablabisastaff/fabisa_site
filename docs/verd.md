@@ -8,17 +8,22 @@ Hinsvegar eru rukkuð efnisgjöld, verð á helstu hráefnum má sjá hér að n
 Efni	Verð
 Vínilfilma even 808	1500 kr/m
 
-## Plexy plötur
+## Laser plötur
 
-2000 kr/plata
+|þykt|  efni    |   verð   |       
+|:--:|:--------:|:--------:|       
+|3mm |plexyplata| 2500kr   |        
+|5mm |plexyplata| 3500kr   |        
 
 ## 3D prentun 50 kr start gjald
-Efni	Verð
-PLA	15 kr/gr
-HTPLA	15 kr/gr
-PETG	15 kr/gr
-TPU	20 kr/gr
-ABS	10 kr/gr
+
+|Efni	| Verð    |
+|:-----:|:-------:|
+|PLA	| 15 kr/gr|
+|HTPLA	| 15 kr/gr|
+|PETG	| 15 kr/gr|
+|TPU	| 20 kr/gr|
+|ABS	| 10 kr/gr|
 
 ## Rafrásarfræs
 Efni	Verð
