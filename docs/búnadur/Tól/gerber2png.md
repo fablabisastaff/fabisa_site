@@ -1,6 +1,6 @@
 # Gerber 2 png
 
-Verkfæri sem gerir okkur kleyppt að taka gerber skrá úr KiCad og breytta í PNG mynd sem við nottum til að fræsa rafrásir.
+Verkfæri sem gerir okkur kleift að taka gerber skrá úr KiCad og breytta í PNG mynd sem við nottum til að fræsa rafrásir.
 
 
 [Hlekkur á gerber2png](https://gerber2png.fablabkerala.in/)
