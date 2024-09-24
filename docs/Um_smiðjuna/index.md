@@ -1,0 +1,3 @@
+# Um smiðjuna
+
+Fab Lab Ísafjörður hefur starfað frá 2012. Starfólk smiðjunnar hefur víðtæka þekkingu á nýsköpunarumhverfinu og frumgerðasmíðum. Við aðstoðum frumkvöðla, kennara og nemendur við að finna ýmsar lausnir. Á þriðjudögum og fimmtudögum er smiðjan opin hverjum sem er frá 15 - 19. Utan þess er þó sjálfsagt að kíkja við. Fyrir stærri nýsköpunarverkefni er best að senda póst og við munum finna út hvernig við getum aðstoðað.
