@@ -20,17 +20,19 @@ theme:
     - content.code.annotation
     - content.code.copy
   language: is
-  palette: 
-    - scheme: default
+  palette:
+    - media: "(prefers-color-scheme: light)"  # System preference for light mode
+      scheme: default
       toggle:
         icon: material/lightbulb
         name: Switch to dark mode
       primary: teal
-      accent: yellow 
-    - scheme: slate 
+      accent: yellow
+    - media: "(prefers-color-scheme: dark)"   # System preference for dark mode
+      scheme: slate
       toggle:
-        icon: material/lightbulb-outline 
-        name: Switch to light mode    
+        icon: material/lightbulb-outline
+        name: Switch to light mode
       primary: teal
       accent: yellow
 
