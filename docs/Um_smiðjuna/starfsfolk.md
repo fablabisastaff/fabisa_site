@@ -19,10 +19,14 @@ blockquote {
 }
 </style>
 
+<!--
+
 |Þórarinn Bjartur Breiðfjörð|Svavar Konráðsson|
 |:---:|:---:|
 |![alt text](../assets/img/images/tbbg.png)|![alt text](../assets/img/images/sk.png)|
 |<div class="sketchfab-embed-wrapper"> <iframe title="DjOddi" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="640" height="480" src="https://sketchfab.com/models/ee9372ef321e405aa8503d4f69141c68/embed?autospin=1&autostart=1&preload=1&dnt=1"> </iframe> </div>|<div class="sketchfab-embed-wrapper"> <iframe title="Scaniverse 2022-06-10 142722" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="640" height="480" src="https://sketchfab.com/models/820d6e8c1d7744989cd0e9c1dabb1729/embed?autospin=1&autostart=1&preload=1&dnt=1"> </iframe> </div>|
+
+-->
 
 
 
