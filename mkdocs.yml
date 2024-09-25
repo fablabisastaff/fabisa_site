@@ -27,7 +27,7 @@ theme:
         icon: material/lightbulb
         name: Switch to dark mode
       primary: teal
-      accent: yellow
+      accent: indigo
     - media: "(prefers-color-scheme: dark)"   # System preference for dark mode
       scheme: slate
       toggle:
