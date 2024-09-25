@@ -2406,23 +2406,48 @@
           </section>
         <!-- CTA -->
         <section id="cta" class="wrapper style4">
-            <div class="inner">
+            <div class="innerbrands brands">
               <header>
                 <h2>Fjármagnað af</h2>
-                <p>Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla.</p>
-				<div><a href="#" ><img src="https://www.stjornarradid.is/library/04-Raduneytin/Mennta--og-barnamalaraduneytid/logo-MRN-fotur-vef.png" alt="Ráðuneyti Image" style="width: 50%;" ></a></div>
-				<div><a href="#" ><img src="https://www.stjornarradid.is/library/04-Raduneytin/Mennta--og-barnamalaraduneytid/logo-MRN-fotur-vef.png" alt="Ráðuneyti Image" style="actions stacked; height: 40%; vertical-align: middle; margin-right: 10px;" >Ráðuneyti</a></div>
-              
+                <!--p>Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla.</p-->
+            
 			</header>
-              <ul class="actions stacked">
-                <!--li><a href="#" class="button fit primary">Activate</a></li-->
-				<li><a href="#" class="button fit">Ráðuneyti</a></li>
-				<li><a href="#" class="button fit">Sveitafélag</a></li>
-				<li><a href="#" class="button fit">Sveitafélag</a></li>
-				<li><a href="#" class="button fit">Sveitafélag</a></li>
-				<li><a href="#" class="button fit">Menntaskóli</a></li>
-              </ul>
+
             </div>
+			<div class="innerbrands">
+				<ul class="brands">
+					<li class="brands__item">
+					  <a href="#">
+						<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3zU9mrFM4QctcDKQTrAwRG-VGKTP6pzz_2w&s" alt="" />
+					  </a>
+					</li>
+					<li class="brands__item">
+						<a href="#">
+							<img src="https://www.stjornarradid.is/library/X-Honnunarstadall-STJR/Merki-raduneytanna/Merkin--islenska-i-PMG/HVIN_IS_2L_sRGB_2022.png" alt="" />
+						</a>
+					</li>
+					<li class="brands__item">
+						<a href="#">
+						  <img src="https://www.stjornarradid.is/library/04-Raduneytin/Mennta--og-barnamalaraduneytid/logo-MRN-fotur-vef.png" alt="" />
+						</a>
+					</li>
+					<li class="brands__item">
+						<a href="#">
+						  <img src="https://www.bolungarvik.is/media/2016//rhg78vdx.jpg" alt="" />
+						</a>
+					</li>
+					<li class="brands__item">
+						<a href="#">
+						  <img src="https://lh6.googleusercontent.com/mOTmvre-K16qaJrKPNG_wPtgWkvBj1hbmSJxcbCO09A1pPekAHaPQWnZJ5mcLZcL4VFoEacdLiWTq9CUAUyEJiUxC2MfFzVK4hgGPKQK9YG4HalrGu6z24u4J99Yo--uiw=w1280" alt="" />
+						</a>
+					</li>
+					<li class="brands__item">
+						<a href="#">
+						  <img src="https://lh5.googleusercontent.com/1f7O0TOW29tGYEchr31MbIjcDiqPeL9VlsUCSYLgjg-3j0PaVVSgOAIqUfOmhUkk2zxEYOzcDeiDCibwrIOJXpgonX754Tod8GyLMZGaBLTnANvxgeCvjdz6YZxTMyFaAQ=w1280" alt="" />
+						</a>
+					</li>
+				</ul>				
+			</div>
           </section>
 
   
@@ -2440,7 +2465,77 @@
   
 </body>
 
+<style>
 
+	/* style.css */
+
+	.brands {
+	  display: grid;
+	  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+	  grid-gap: 1rem;
+	  padding: 0px;
+
+	}
+
+
+
+	.brands__item {
+	  background: #EEEEEECC;
+
+	}
+
+	.brands__item:hover {
+	  background: #eee;
+	  box-shadow: 0px 0px 10px #fff;
+
+	}
+
+
+	.brands__item img {
+  width: 400px;
+  height: 150px;
+  object-fit: contain;
+  mix-blend-mode: multiply;
+  padding: 10px;
+}
+
+	#cta .innerbrands {
+			
+			padding: 0 10rem 0 10rem;
+	}
+
+	.brands {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.brands__item {
+  flex: 0 0 50%;
+}
+
+@media (min-width: 700px) {
+  .brands__item {
+    flex: 0 0 33.33%;
+  }
+}
+
+@media (min-width: 1100px) {
+  .brands__item {
+    flex: 0 0 25%;
+  }
+}
+
+.brands__item a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+	
+
+</style>
 
 
   
