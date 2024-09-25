@@ -43,21 +43,22 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/fablabisa
-    #- icon: fontawesome/brands/gitlab
-    #  link: https://gitlab.com/hanndoddi
-    #- icon: fontawesome/brands/twitter
-    #  link: https://twitter.com/hanndoddi
+      link: https://github.com/FabLabIsafjordur
+    - icon: fontawesome/brands/code-commit
+      link: https://github.com/fablabisastaff/fabisa_site
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/hanndoddi
+      link: https://www.linkedin.com/company/fablabisa/
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/fablabisa
     - icon: fontawesome/brands/facebook
-      link: https://www.instagram.com/fablabisa
+      link: https://www.facebook.com/FabLabIsafjordur
+    - icon: fontawesome/brands/map
+      link: https://fablabs.io/labs/fablabisafjordur
+
+      
   extra:
   generator: false
-    
-    
+      
 extra_javascript:
   - javascripts/jquery.min.js
   - javascripts/jquery.scrollex.min.js
