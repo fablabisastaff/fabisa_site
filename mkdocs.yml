@@ -44,7 +44,7 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/FabLabIsafjordur
-    - icon: fontawesome/brands/code-commit
+    - icon: fontawesome/brands/github-alt
       link: https://github.com/fablabisastaff/fabisa_site
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/company/fablabisa/
@@ -52,7 +52,7 @@ extra:
       link: https://www.instagram.com/fablabisa
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/FabLabIsafjordur
-    - icon: fontawesome/brands/map
+    - icon: fontawesome/brands/gitlab
       link: https://fablabs.io/labs/fablabisafjordur
 
       
