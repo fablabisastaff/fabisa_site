@@ -12,4 +12,4 @@ Hér er listi yfir helstu forrit sem við nottum.
 
 Hér er list yfir annarskonar búnað sem við erum með.
 
-[Annar búnaður](bunadur.md)
+[Annar búnaður](verkbunadur.md)
