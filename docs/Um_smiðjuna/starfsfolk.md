@@ -32,7 +32,7 @@ blockquote {
 
 <div class="grid cards" markdown>
 
--   :fontawesome-solid-cat:{ .lg .middle } __Þórarinn Bjartur Breiðfjörð - Forstöðumaður__
+-   :cat:{ .lg .middle } __Þórarinn Bjartur Breiðfjörð - Forstöðumaður__
 
 
 
@@ -63,7 +63,7 @@ blockquote {
 
 
 
--   :fontawesome-solid-clipboard-user:{ .lg .middle } __Svavar Konráðsson - Verkefnastjóri__
+-   :elephant:{ .lg .middle } __Svavar Konráðsson - Verkefnastjóri__
 
     ---
     ![alt text](../assets/img/images/sk.png){ align=left }
