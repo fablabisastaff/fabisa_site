@@ -78,6 +78,20 @@ KiCad er notað mikkið í smiðjuni til að hanna og búa til rafrásir. Forrit
 
 ---
 
+### LTspice
+
+Rafrásar hermir sem er notaður til að líkja eftir og greina rafrásir.
+
+![ltspice](https://upload.wikimedia.org/wikipedia/commons/1/1e/Simulation_in_LTspice_of_a_three-phase_three-wire_wye-connected_unbalanced_ungrounded_non-linear_time-variant_device_supplied_by_a_three-phase_wye-connected_balanced_voltage_source_with_positive_phase_sequence.png)
+
+### DS view
+
+forrit sem er notað til að greina stafrænar rásir og lesa ýmsa samskipta staðla eins og I2C, UART, SPI, USB, CAN og fleiri.
+
+![ds view](https://www.dreamsourcelab.com/wp-content/uploads/2017/06/LA-key-en.png)
+
+---
+
 ### Altium Designer
 
 Forrit sem við þekjum ekki vel en lítið mál að exporta gerber skrám og vinna með þær
