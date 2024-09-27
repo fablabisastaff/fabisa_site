@@ -2,6 +2,8 @@
 
 Aðgangur að Fab Lab Ísafirði er öllum að kostnaðarlausu. Engin gjöld eru innheimt af notkun tölva né annara tækja.
 
+![efni](../assets/img/annad/efni.jpg)
+
 Hinsvegar eru rukkuð efnisgjöld, verð á helstu hráefnum má sjá hér að neðan:
 
 ## Vínyll
