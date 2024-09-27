@@ -4,11 +4,14 @@
 
 ## Um sáttmálan
 
-Fab Lab smiðjur um allan heim fylgja sáttmála sem kallast Fab charter og var búinn til 2007. allar smiðjur hafa sama vegvísi til að tryggja samræmt starf í öllum smiðjum.
-í kaffi horninu á smiðjuni má sjá sáttmálan á ýmsum tungumálum.
+Fab Lab smiðjur um allan heim fylgja sáttmála sem kallast Fab charter og var búinn til 2007.<br> Allar smiðjur hafa sama vegvísi til að tryggja samræmt starf í öllum smiðjum.
+<br>Í kaffi horninu á smiðjuni má sjá sáttmálan á ýmsum tungumálum.
 
+<br>
 
-### Fab sáttmálinn - Fab charter
+## **Fab sáttmálinn - Fab charter**
+
+---
 
 ## Hvað er Fab Lab - What is a fab lab?
 
@@ -18,6 +21,7 @@ uppfinninga með því að veita aðgang að búnaði fyrir stafræna framleiðs
 Fab labs are a global network of local labs, <br>
 enabling invention by providing access to tools for digital fabrication.
 
+---
 
 ## Hvað felst í Fab Lab - What’s in a fab lab?
 
@@ -27,6 +31,7 @@ Hún er í sífelldri þróun og stuðlar að því að þekkingu og verkefnum s
 Fab labs share an evolving inventory of core capabilities <br>
 to make (almost) anything, allowing people and projects to be shared.
 
+---
 
 ## Hvað býður Fab Lab netið upp á - What does the fab lab network provide?
 
@@ -36,6 +41,7 @@ og ferla umfram það sem ein smiðja getur veitt.
 Operational, educational, technical, financial, and <br>
 logistical assistance beyond what’s available within one lab.
 
+---
 
 ## Hverjir geta notað Fab Lab smiðjur - Who can use a fab lab?
 
@@ -45,16 +51,16 @@ upp á opið aðgengi fyrir einstaklinga jafnt sem skipulagða starfsemi.
 Fab labs are available as a community resource, offering <br>
 open access for individuals as well as scheduled access for programs
 
+---
 
 ## Hver er þín ábyrgð - What are your responsibilities?
 
-|                                                            |                 |                                                              |  |
+|  **Öryggi:** | Að skaða hvorki fólk né búnað.                             | **Safety:**     | Not hurting people or machines..                             |
 | ------------ | ---------------------------------------------------------- | --------------- | ------------------------------------------------------------ |
-| **Öryggi:**              | Að skaða hvorki fólk né búnað.                                                                                       | **Safety:**                    | Not hurting people or machines..                                                                                         |
-| **Rekstur:**             | Að aðstoða við tiltekt, viðhald og endurbætur á smiðjunni.                                                           | **Operations:**                | Assisting with cleaning, maintaining, and improving the lab.                                                             |
-| **Þekking:**             | Að leggja þitt af mörkum við skráningu og leiðsögn.                                                                  | **Knowledge:**                 | Contributing to documentation and instruction.                                                                           |
-|                          |                                                                                                                      |                                |                                                                                                                          |
-
+| **Rekstur:** | Að aðstoða við tiltekt, viðhald og endurbætur á smiðjunni. | **Operations:** | Assisting with cleaning, maintaining, and improving the lab. |
+| **Þekking:** | Að leggja þitt af mörkum við skráningu og leiðsögn.        | **Knowledge:**  | Contributing to documentation and instruction.               |
+ 
+---
 
 ## Hver á Fab Lab uppfinningar - Who owns fab lab inventions?
 
@@ -66,6 +72,7 @@ Designs and processes developed in fab labs can be <br>
 protected and sold however an inventor chooses, <br>
 but should remain available for individuals to use and learn from.
 
+---
 
 ## Hvernig geta fyrirtæki nýtt sér Fab Lab - How can businesses use a fab lab?
 
@@ -79,4 +86,5 @@ Commercial activities can be prototyped and incubated in a fab lab,<br>
   than within the lab, and they are expected to benefit the inventors, <br>
   labs, and networks that contribute to their success.
 
+---
 
