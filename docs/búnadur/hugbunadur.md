@@ -1,7 +1,9 @@
 # Hugbúnaður
 
-Við nýtum fjölbreyttan hugbúnað við stafræna framleiðsluferlið til að hanna og leysa fjölbreytt verkefni. Við notum opinn hugbúnað eins og Ondsel og Blender mikkið fyrir 3D hönnun, ásamt KiCad fyrir rafeindahönnun. Inkscape og GIMP eru notuð fyrir vektor- og myndvinnslu, og Cura fyrir sneiðingu 3D-prentunar. Til að stýra CNC-vélum notum við hugbúnað eins og VCarve og FlatCam. Hugbúnaðurinn sem við notum er bæði sveigjanlegur og notendavænn, hannaður til að hjálpa notendum að búa til og framleiða sín eigin verk.
+Við nýtum fjölbreyttan hugbúnað við stafræna framleiðsluferlið til að hanna og leysa fjölbreytt verkefni. Við notum opinn hugbúnað eins og [Ondsel](#ondsel) og [Blender](#blender-3d) mikkið fyrir 3D hönnun, ásamt [KiCad](#kicad) fyrir rafeindahönnun. [Inkscape](#inkscape) og [GIMP](#gimp) eru notuð fyrir vektor- og myndvinnslu, og [Cura](#cura) fyrir sneiðingu 3D-prentunar. Til að stýra CNC-vélum notum við hugbúnað eins og [VCarve](#vcarve) og [FlatCam](#flatcam). Hugbúnaðurinn sem við notum er bæði sveigjanlegur og notendavænn, hannaður til að hjálpa notendum að búa til og framleiða sín eigin verk.
+
 Hér fyrir neðan eru öll þau forrit sem við vitum af, og við uppfærum listann reglulega.
+
 
 
 ## Vector forrit
