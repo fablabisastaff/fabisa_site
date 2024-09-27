@@ -49,7 +49,7 @@ Ondsel er byggt ofan á FreeCAD og hefur reynst vel með þægilegu viðmóti. F
 
 thinker Cad er sértaklega gott fyrir krakka það sem viðmótið er mjög einfalt og gott 3D forrit til að byrja í.
 
-![alt text](../assets/img/hugbun/thinkercad.png)
+![thinkercad](../assets/img/hugbun/thinkercad.png)
 
 ---
 

@@ -2,7 +2,7 @@
 
 Mods er viðmót sem við notum til að vinna með og stýra tækjum.
 
-[Hlekkur á mods CE](https://modsproject.org)
+[Hlekkur á mods CE](https://modsproject.org){:rel="nofollow"}
 
 ![mods](https://gitlab.fabcloud.org/pub/project/mods/-/raw/master/mods.webp)
 
