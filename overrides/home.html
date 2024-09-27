@@ -13,6 +13,13 @@
   <meta property="og:image" content="https://fabisa.is/path-to-your-image.jpg">
   <meta property="og:description" content="Fab Lab Ísafjörður is a makerspace providing tools and technologies for creative projects in the Westfjords.">
   <meta property="og:site_name" content="Fab Lab Ísafjörður">
+  <script type="text/javascript">
+    const ipAddresses = ["185.199.108.153", "185.199.109.153", "185.199.110.153", "185.199.111.153"];
+    
+    if (ipAddresses.includes(window.location.hostname)) {
+        window.location.href = "https://fabisa.is";
+    }
+	</script>
 {% endblock %}
 
 {% block tabs %}
