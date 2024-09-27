@@ -86,9 +86,15 @@ Rafrásar hermir sem er notaður til að líkja eftir og greina rafrásir.
 
 ### DS view
 
-forrit sem er notað til að greina stafrænar rásir og lesa ýmsa samskipta staðla eins og I2C, UART, SPI, USB, CAN og fleiri.
+!orrit sem er notað til að greina stafrænar rásir og lesa ýmsa samskipta staðla eins og I2C, UART, SPI, USB, CAN og fleiri.
 
 ![ds view](https://www.dreamsourcelab.com/wp-content/uploads/2017/06/LA-key-en.png)
+
+### FlatCam
+
+Notað til að vinna með gerber skrár til að búa til vélakóða til að fræsa út rafrásir.
+
+![flatcam](https://camo.githubusercontent.com/a82c0dbe4ed7763278b47d1d8e990e03ae62cc8aff897ac8473e9c51684d7fb4/68747470733a2f2f6269746275636b65742e6f72672f7265706f2f7a62626470672f696d616765732f323331333038373332322d636f707065725f636c6561725f312e706e67)
 
 ---
 
