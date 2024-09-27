@@ -13,3 +13,5 @@ Hér er listi yfir helstu forrit sem við nottum.
 Hér er list yfir annarskonar búnað sem við erum með.
 
 [Annar búnaður](verkbunadur.md)
+
+![verkfæri](../assets/img/smidja/verkfaeri.jpg)

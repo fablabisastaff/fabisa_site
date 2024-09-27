@@ -64,7 +64,7 @@ Forrit sem við þekjum ekki vel en lítið mál að exporta gerber skrám og vi
 
 Fínt forrit til myndvinnslu. Svavar þekkir ágætlega á forritið.
 
-![gimp](../assets/img/hugbun/gimp.jpg)
+![gimp](../assets/img/hugbun/gimp.png)
 
 ### Photopea
 
