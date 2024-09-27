@@ -1,4 +1,4 @@
-# Forrit
+# Hugbúnaður
 
 ## Vector forrit
 
@@ -104,6 +104,24 @@ Forrit sem við þekjum ekki vel en lítið mál að exporta gerber skrám og vi
 
 ---
 
+## Forritun
+
+### VS code
+
+Texta editor sem býður upp á góða möguleika til að vinna með forritun. Við mælum alltaf með því að læra inn á markdown sem við notum fyrir allt skipulag í kring um smiðjuna og vefsíðan okkar notar markdown sem vinur vel með HTML.
+
+---
+
+### Arduino IED
+
+---
+
+### Git
+
+Heldur utan um breytingar á skrám og er mikið notað með Github og Gitlab. Git er notað mjög mikið í Fab Akademíuni.
+
+---
+
 ## Myndvinnsu forrit
 
 ---
@@ -127,5 +145,19 @@ Fínt forrit sem keyrir í vefvafra og er mjög líkt photoshop. Þórarinn nota
 ### Potoshop
 
 Smiðjan er ekki með photoshop og við kunnum takmarkað að vinna með það en fyrir fólk sem er vant að nota það er lítið mál að nota það í smiðjuni.
+
+---
+
+### Resolve
+
+Notað til að vinna með video og býr yfir mjög mörgum góðum verkfærum til að klippa saman og búa til myndbönd.
+
+---
+
+## önnun forrit
+
+### OBS - Open Broadcaster Software
+
+Frábært streymi forrit sem býður upp á góða möguleika
 
 ---
