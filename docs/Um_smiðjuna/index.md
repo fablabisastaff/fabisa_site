@@ -1,6 +1,6 @@
 # Um smiðjuna
 
-## Fab Lab Ísafjörður
+## **Fab Lab Ísafjörður**
 
 ![shopbot folk](../assets/img/smida_folk/shopbot_folk.jpg){: align=left style="height:50%;width:50%"}
 
@@ -9,7 +9,8 @@ Fab Lab Ísafjörður hefur starfað frá 2012. Starfólk smiðjunnar hefur ví�
 Utan þess er þó sjálfsagt að kíkja við. Fyrir stærri nýsköpunarverkefni er best að senda póst og við munum finna út hvernig við getum aðstoðað.
 
 
-## Hvað er Fab Lab?
+
+## **Hvað er Fab Lab?**
 
 ![vetur isa](../assets/img/smidja/isafjordurvetur.jpg){: align=right style="height:50%;width:50%"}
 

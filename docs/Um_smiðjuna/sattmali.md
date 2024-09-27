@@ -1,13 +1,11 @@
 # Alþjóðasáttmáli
 
-![vantar mynd af fab charter](../assets/img/images/kaffihorn.png)
-
 ## Um sáttmálan
 
 Fab Lab smiðjur um allan heim fylgja sáttmála sem kallast Fab charter og var búinn til 2007.<br> Allar smiðjur hafa sama vegvísi til að tryggja samræmt starf í öllum smiðjum.
 <br>Í kaffi horninu á smiðjuni má sjá sáttmálan á ýmsum tungumálum.
 
-<br>
+![vantar mynd af fab charter](../assets/img/images/kaffihorn.png){: style="height:70%;width:70%"}
 
 ## **Fab sáttmálinn - Fab charter**
 

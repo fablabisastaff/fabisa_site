@@ -2,9 +2,15 @@
 
 # Starfsfólk
 
+---
 
+Fab Lab Ísafjörður er tveggja manneskna teymi sem leggur áherslu á nýsköpun, sköpun, hönnun, framkvæmd og stuðning við menntakerfið, atvinnulífið, frumkvöðla og samfélagið í gegnum stafræna framleiðslutækni.<br> 
 
-## Starfsfólk smiðjunnar
+Þórarinn Bjartur Breiðfjörð, forstöðumaður smiðjunnar, leiðir starfsemina, ásamt því að styðja notendur við fjölbreytt verkefni. <br> 
+
+Svavar Konráðsson er verkefnastjóri og kemur með reynslu sína í vélaverkfræði og frumkvöðlastarfsemi inn í smiðjuna. Hann hefur unnið að mörgum nýsköpunarverkefnum, þar á meðal 3D-prentun og hönnun báta.
+
+---
 
 <style>
 table {
