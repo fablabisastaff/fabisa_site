@@ -10,6 +10,10 @@ Fab Lab Ísafjörður er tveggja manneskna teymi sem leggur áherslu á nýsköp
 
 Svavar Konráðsson er verkefnastjóri og kemur með reynslu sína í vélaverkfræði og frumkvöðlastarfsemi inn í smiðjuna. Hann hefur unnið að mörgum nýsköpunarverkefnum, þar á meðal 3D-prentun og hönnun báta.
 
+## Staðsetning, tölvupóstur og símanúmer smiðjunar
+
+|  Torfnes 400 Ísafjörður   |   info hjá fabisa.is   |   +354 450 4408  |
+
 ---
 
 <style>
