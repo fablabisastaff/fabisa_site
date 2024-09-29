@@ -18,7 +18,7 @@ Insckape er öflugt vector forrit sem við notum mikkið til að hanna ýmis ver
 
 ---
 
-### Ilustrator
+### Illustrator
 
 Illustrator er eitt af öflugustu verkfærunum til vektorhönnunar og er mikið notað til að undirbúa hönnun fyrir laserskurð og vinylskurð. Þrátt fyrir að smiðjan sé ekki með aðgang að Illustrator, þá þekkjum við það vel og kunnum að vinna með skrár úr því, t.d. með því að flytja út í sniðum eins og SVG eða DXF sem henta vélum okkar.
 
