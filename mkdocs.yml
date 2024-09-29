@@ -77,3 +77,7 @@ markdown_extensions:
 
 copyright: |
   &copy; 2024 <a href="https://github.com/fablabisa"  target="_blank" rel="noopener">FabIsa   |  Torfnes 400 Ísafjörður   |   info hjá fabisa.is   |   +354 450 4408  |</a>  
+
+google_analytics:
+  - !!python/object/apply:os.getenv ["GOOGLE_ANALYTICS_KEY"]
+  - auto  
