@@ -31,7 +31,7 @@ Run direcly from https://modsproject.org
 
 **WebUSB in Windows:** you need to **install Zagid utility** https://zadig.akeo.ie/. Connect the machine you want to use. In Zagid utility, select and **replace the machine driver** with WinUSB driver.
 
-To use the **Modela MDX** with Linux, Mac and Windows, it is recommended to make this [serial cable (DB25 to DB9)](http://fabacademy.org/archives/2015/doc/millingPCBs.html){:rel="nofollow"} and [serial to USB adapter.](https://www.startech.com/en-us/cards-adapters/icusb232v2){:rel="nofollow"}
+To use the **Modela MDX** with Linux, Mac and Windows, it is recommended to make this [serial cable (DB25 to DB9)](https://fabacademy.org/archives/2015/doc/millingPCBs.html){:rel="nofollow"} and [serial to USB adapter.](https://www.startech.com/en-us/cards-adapters/icusb232v2){:rel="nofollow"}
 
 ### Local Installation (optional)
 
