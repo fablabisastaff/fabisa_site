@@ -15,6 +15,12 @@
   <meta property="og:site_name" content="Fab Lab Ísafjörður">
 {% endblock %}
 
+{% block content %}
+  <body class="landing is-preload">
+    {{ super() }}
+  </body>
+{% endblock %}
+
 {% block tabs %}
   <!-- Add scripts that need to run before here -->
   {{ super() }}
@@ -2072,7 +2078,7 @@
 	
 </style>
 
-<body class="landing is-preload">
+
     <!-- Page Wrapper -->
       <div id="page-wrapper">
         <!-- Banner -->
@@ -2225,7 +2231,7 @@
       <script src="docs/javascripts/main.js"></script>
       <script src="docs/javascripts/util.js"></script>  
   
-</body>
+
 
 <style>
 
