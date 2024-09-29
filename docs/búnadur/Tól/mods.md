@@ -16,7 +16,7 @@ Just like `mods`, but cooler :sunglasses:
 
 ### What is `mods`?
 
-[mods CE](https://modsproject.org) (community edition) is a fork of [CBA mods research project](https://gitlab.cba.mit.edu/pub/mods). `mods` is a modular cross platform tool for fablabs. It is based on independent but interrelated modules. `mods` could potentially be used for CAD, CAM, machine control, automation, building UI, read input devices, react to to physical models, and much more. The possibilies are endless.
+[mods CE](https://modsproject.org){:rel="nofollow"} (community edition) is a fork of [CBA mods research project](https://gitlab.cba.mit.edu/pub/mods){:rel="nofollow"}. `mods` is a modular cross platform tool for fablabs. It is based on independent but interrelated modules. `mods` could potentially be used for CAD, CAM, machine control, automation, building UI, read input devices, react to to physical models, and much more. The possibilies are endless.
 
 The goal of the community edition is to provide documentation, support and help the community engage in the project and foster the development/exchange of new modules.
 
@@ -31,7 +31,7 @@ Run direcly from https://modsproject.org
 
 **WebUSB in Windows:** you need to **install Zagid utility** https://zadig.akeo.ie/. Connect the machine you want to use. In Zagid utility, select and **replace the machine driver** with WinUSB driver.
 
-To use the **Modela MDX** with Linux, Mac and Windows, it is recommended to make this [serial cable (DB25 to DB9)](http://fabacademy.org/archives/2015/doc/millingPCBs.html) and [serial to USB adapter.](https://www.startech.com/en-us/cards-adapters/icusb232v2)
+To use the **Modela MDX** with Linux, Mac and Windows, it is recommended to make this [serial cable (DB25 to DB9)](http://fabacademy.org/archives/2015/doc/millingPCBs.html){:rel="nofollow"} and [serial to USB adapter.](https://www.startech.com/en-us/cards-adapters/icusb232v2){:rel="nofollow"}
 
 ### Local Installation (optional)
 

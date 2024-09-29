@@ -5,7 +5,7 @@ Verkfæri sem gerir okkur kleift að taka gerber skrá úr KiCad og breytta í P
 
 [Hlekkur á gerber2png](https://gerber2png.fablabkerala.in/){:rel="nofollow"}
 
-![gerber2png](gerber2png.png)
+![gerber2png](../../assets/img/annad/gerber2png.png)
 
 ## Leiðbeiningar á ensku
 
