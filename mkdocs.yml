@@ -58,6 +58,9 @@ extra:
       
   extra:
   generator: false
+  analytics:
+    provider: google
+    property: G-XXXXXXXXXX
       
 extra_javascript:
   - javascripts/jquery.min.js
@@ -79,6 +82,8 @@ copyright: |
   &copy; 2024 <a href="https://github.com/fablabisa"  target="_blank" rel="noopener">FabIsa   |  Torfnes 400 Ísafjörður   |   info hjá fabisa.is   |   +354 450 4408  |</a>  
 
 ## not working something to look into ##
+## added in extra ##
 #google_analytics:
 #  - !!python/object/apply:os.getenv ["GOOGLE_ANALYTICS_KEY"]
 #  - auto  
+
