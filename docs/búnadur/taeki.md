@@ -1,13 +1,18 @@
 # Tækjabúnaður
 
+Í smiðjunni eru ýmsar tölvustýrðar vélar sem hafa mismunandi eignileka. Vélanar eru valdar til að bæði henta vel í kennslu og frumgerðasmíði.
+
+Hér fyrir neðan eru allar þær vélar sem við höfum upp á að bjóða:
 
 ### Fræsarar
 
 ---
 
-#### modela mdx
+#### Roland Modela mdx20
 
 lítil fræsari sem við notum mikið til að gera frumgerðir af rafrásum.
+
+![mdx20](../assets/img/taeki/mdx20.webp){: style="height:60%;width:60%"}
 
 Dæmi
 
@@ -16,6 +21,8 @@ Dæmi
 #### Carvey
 
 Litil fræsari sem er afar hentugur fyrir byrjendur og til kennslu.
+
+![carvey](../assets/img/taeki/carvey.webp){: style="height:60%;width:60%"}
 
 Dæmi
 
@@ -38,7 +45,7 @@ Dæmi:
 
 Leisir skeri sem fljólegt er að skera í 2D og einig hægt að merkja í hluti. Mikkið notaður með bylgju pappa til að prófa frumgerðir.
 
-![laser](../assets/img/taeki/laser.jpg){: style="height:60%;width:60%"}
+![laser epilog](../assets/img/taeki/epilogmini.webp){: style="height:60%;width:60%"}
 
 
 ---
@@ -47,18 +54,18 @@ Leisir skeri sem fljólegt er að skera í 2D og einig hægt að merkja í hluti
 
 Vínilskeri sem er mikið notaður við kennslu í grunskólum til að læra á stafræn verkefni þar sem nemendur hanna verkefnin í tölvu og læra að koma hönnun úr tölvu í tæki. Mest notum við vínil filmur en við skerum líka pappír og sveigjanlegar rafrásir.
 
-![rolandcam](../assets/img/taeki/vilil.jpeg){: style="height:60%;width:60%"}
-
+![alt text](../assets/img/taeki/rolandcamm.webp){: style="height:60%;width:60%"}
 
 ---
 
 ### 3D prentarar
 
-![ultimaker](../assets/img/taeki/ultimaker.jpg){: style="height:40%;width:40%"}
+![alt text](../assets/img/taeki/ultimakers.webp){: style="height:60%;width:60%"}
+
 
 #### Ultimaker 2 
 
-3D prentarar eru mikið notaðir til að búa til flókin form og í kennslu til að læra inn á 3D forrit eins og [Blender 3d]() og [Ondsel]()
+3D prentarar eru mikið notaðir til að búa til flókin form og í kennslu til að læra inn á 3D forrit eins og [Blender 3d](/búnadur/hugbunadur/#blender-3d) og [Ondsel](/búnadur/hugbunadur/#ondsel)
 
 #### Ultimaker 3
 

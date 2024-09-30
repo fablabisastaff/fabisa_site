@@ -72,7 +72,7 @@ blockquote {
 
     :fontawesome-solid-screwdriver-wrench: **Sérþekking:** Vélaverkfræði
 
-    :fontawesome-regular-star: **Uppáhalds forrit**: Ondsel
+    :fontawesome-regular-star: **Uppáhalds forrit**: Ondsel og KiCad
 
     ---
 
