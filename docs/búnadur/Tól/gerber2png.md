@@ -14,19 +14,6 @@ GerberViewer
 
 GerberViewer is an open-source web application that serves as a versatile tool for viewing Gerber files and streamlining the conversion of Gerber files into PNG images. 
 
-## Table of Contents
-
-- [Gerber 2 png](#gerber-2-png)
-  - [Leiðbeiningar á ensku](#leiðbeiningar-á-ensku)
-  - [Table of Contents](#table-of-contents)
-  - [Features](#features)
-  - [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
-  - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [License](#license)
-
 ## Features
 
 - Convert Gerber files to PNG images.

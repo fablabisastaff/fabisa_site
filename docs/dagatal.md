@@ -5,7 +5,7 @@
 - Þriðjudagar 15-19
 - Fimmtudagar 15-19
 
-Á þriðjudögum og fimmtudögum er opið frá 15-19. Öllum er velkomið að kíkja við með verkefni og hugmyndir til að fá aðstoð. Það auðvita líka velkomið að kíkja við og skoða og kynnast starfseminni. Svavar og Þórarinn Skiptast á að sjá um opnunartíman og eru við aðra hverja viku ef fólk vill sérstaklega nýa sérþekingu þeirra. sérþekkingu þeirra má sjá [hér](Um-smiðjuna/starfsfolk). á dagatalinu hér fyrir neðan má sjá hver sér um opnunartíman.
+Á þriðjudögum og fimmtudögum er opið frá 15-19. Öllum er velkomið að kíkja við með verkefni og hugmyndir til að fá aðstoð. Það auðvita líka velkomið að kíkja við og skoða og kynnast starfseminni. Svavar og Þórarinn Skiptast á að sjá um opnunartíman og eru við aðra hverja viku ef fólk vill sérstaklega nýa sérþekingu þeirra. sérþekkingu þeirra má sjá [hér](Um-smiðjuna/starfsfolk.md). á dagatalinu hér fyrir neðan má sjá hver sér um opnunartíman.
 
 ## dagatal
 
