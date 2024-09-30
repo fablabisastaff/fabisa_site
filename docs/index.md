@@ -1,6 +1,6 @@
 ---
 template: home.html
-title: Nýsköpunarsmiðja á vesturhjara veraldar
+title: Forsíða
 theme:
   font:
     text: Sofadi One
