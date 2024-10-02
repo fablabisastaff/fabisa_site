@@ -10,7 +10,7 @@ Nemandi í Fab Academy þarf að prófa ansi marga hluti í fyrsta skipti á stu
 - Skoða [Fab Lab Inventory](https://inventory.fabcloud.io/) og meta hvað þú þarft að panta fyrir Fab Academy
 - Setja fram hugmynd að lokaverkefni
 
-Ráð fŕá fyrri Fab Academy nemendum:
+Ráð frá fyrri Fab Academy nemendum:
 
 ### Svavar
 
