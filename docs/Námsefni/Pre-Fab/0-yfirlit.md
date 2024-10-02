@@ -1,14 +1,20 @@
 # Undirbúningur fyrir Fab Academy
 
-Nemandi í Fab Academy þarf að prófa ansi marga hluti í fyrsta skipti á stuttum tíma. Það er gott að kynnast ákveðnum þáttum áður en námskeiðið sjálft hefst, til þess að geta komist hratt af stað. Á þessu undirbúningsnámskeiði prófar þú að
+Nemandi í Fab Academy þarf að prófa ansi marga hluti í fyrsta skipti á örstuttum tíma. Til þess að það verði ekki of yfirþyrmandi er gott að kynnast ákveðnum þáttum áður en námskeiðið sjálft hefst. 
 
-- Setja upp heimasíðu til að skrásetja allt sem þú gerir
+Við höfum vikulega fjarfundi og verkefni sem tilvonandi Fab Academy nemendurnir fara í gegnum. Tilgangurinn er að nemandendurnir komist strax af stað þegar Fab Academy hefst í janúar. Þetta er eftir fyrirmynd Pre-Fab námskeiða sem hafa verið haldin á nokkrum stöðum í heiminum (dæmi [1](https://ganeshgopal.github.io/index.html), [2](https://fabacademy.org/2023/labs/charlotte/students/ryan-kim/assignments/PreFab/), [3](https://fabacademy.org/2023/labs/charlotte/students/dariyah-strachan/assignments/week0.5/), [4](http://akshaim.github.io/Fablab/Week_Intro.html), [5](http://fabacademy.org/2021/labs/zoi/students/daniela-felix/0_pre-fab.html), [6](http://varungeethamony.github.io/week1.html), [7](http://rashidt123.github.io/)).
+
+
+Á þessu undirbúningsnámskeiði prófar nemandinn að
+
+- Setja upp heimasíðu til að skrásetja Pre-Fab verkefnin (þú getur síðan afritað efnið yfir á Fab Academy síðuna þína þegar hún opnast í janúar)
 - Þjappa myndum og myndböndum og setja inn efni á heimasíðuna
 - Teikna, fræsa og, lóða og forrita rafrás
 - Laserskera prufustykki
 - Fræsa í stóru tölvustýrðu fræsivélinni í smiðjunni
-- Skoða [Fab Lab Inventory](https://inventory.fabcloud.io/) og meta hvað þú þarft að panta fyrir Fab Academy
+- Skoða [Fab Lab Inventory](https://inventory.fabcloud.io/) og meta hvað nemandinn þarft að panta fyrir Fab Academy
 - Setja fram hugmynd að lokaverkefni
+
 
 Ráð frá fyrri Fab Academy nemendum:
 
@@ -20,7 +26,11 @@ Ráð frá fyrri Fab Academy nemendum:
 
 ## Hiroe Takeda
 
-- Skoðaðu hvað [Hiroe gerði til að undirbúa sig](https://fabacademy.org/2023/labs/kitakagaya/students/hiroe-takeda/) (Hún var valin [Best time management 2023](https://fabacademy.org/2023/highlights/)). Hún er með súpergóða punkta um sjálfstæð vinnubrögð. Hún fór eftir þessari forskrift þegar hún tók hálft ár í að undirbúa sig fyrir Fab Academy:
+Skoðaðu hvað [Hiroe gerði til að undirbúa sig](https://fabacademy.org/2023/labs/kitakagaya/students/hiroe-takeda/) (Hún var valin [Best time management 2023](https://fabacademy.org/2023/highlights/)). Hún er með súpergóða punkta um sjálfstæð vinnubrögð. Hún fór eftir þessari forskrift þegar hún tók hálft ár í að undirbúa sig fyrir Fab Academy:
+
+#### The Bootcamp (Self-learning, before fabacademy)
+
+I thought I didn't have enough skill for this fabacademy, so, I decided a boot camp by myself. (Especially board making and making site, about my big week point) Below is the advice from my husband. So spartan isn't it?
 
 #### Advice from my Spartan husband
 
