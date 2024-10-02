@@ -5,7 +5,7 @@ Nemandi í Fab Academy þarf að prófa ansi marga hluti í fyrsta skipti á stu
 - Setja upp heimasíðu til að skrásetja allt sem þú gerir
 - Þjappa myndum og myndböndum og setja inn efni á heimasíðuna
 - Teikna, fræsa og, lóða og forrita rafrás
-- Teikna laserskorinn hlut sem smellur saman
+- Laserskera prufustykki
 - Fræsa í stóru tölvustýrðu fræsivélinni í smiðjunni
 - Skoða [Fab Lab Inventory](https://inventory.fabcloud.io/) og meta hvað þú þarft að panta fyrir Fab Academy
 - Setja fram hugmynd að lokaverkefni
