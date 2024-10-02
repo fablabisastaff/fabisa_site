@@ -6,3 +6,5 @@ Með þátttöku í DistInc geta frumkvöðlar unnið í samvinnu við aðra í 
 
 [Heimasíða DistInc](https://distinc.academany.org/)
 {:rel="nofollow"}
+
+![nordic](https://nordicfablabs.org/wp-content/uploads/2024/01/20240116_150528-scaled.jpg)

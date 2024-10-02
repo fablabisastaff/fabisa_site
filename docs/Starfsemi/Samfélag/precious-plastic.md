@@ -6,3 +6,4 @@ Við höfum þegar gert tilraunir með mótun og endurvinnslu á plasti, og áfo
 
 Þessi þróun mun ekki aðeins bæta umhverfisvitund heldur einnig auka færni í vinnslu á efnum sem annars myndu fara til spillis.
 
+![plast](https://laplastiquerie.com/wp-content/uploads/2021/07/pro-hero-landing-new-1-800x302.jpg)
