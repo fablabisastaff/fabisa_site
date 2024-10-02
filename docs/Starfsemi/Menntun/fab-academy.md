@@ -11,13 +11,13 @@ Næsta lota byjar í jarnúar 2025 og fab Lab Ísafjörður tekur við umsóknum
 Námið býður upp á ómetanlegt tækifæri til að læra um stafræna framleiðslutækni með fullkomnum aðgangi að tæknibúnaði Fab Lab Ísafjarðar og leiðbeinanda
 .
 
+![fab akadem](https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F860714989%2F367285298211%2F1%2Foriginal.20240927-050223?crop=focalpoint&fit=crop&w=1000&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.119318181818&fp-y=0.612132352941&s=af84f38030bc2de9f23daf723735958c){: align=right style="height:60%;width:60%"}
 ## Námið
 
 Fab Academy er kennt af Neil Gershenfeld, prófessor hjá MIT háskólanum í Boston. Auk þess eru margir gestafyrirlestrar og staðbundnir leiðbeinendur. Námið fer fram frá janúar til júní ár hvert og sameinar verklega reynslu og fjarkennslu með alþjóðlegum tengslum við Fab Lab smiðjur um allan heim.
 
 ## Fab Academy - Námsvikur
 
-![fab akadem](https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F860714989%2F367285298211%2F1%2Foriginal.20240927-050223?crop=focalpoint&fit=crop&w=1000&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.119318181818&fp-y=0.612132352941&s=af84f38030bc2de9f23daf723735958c){ align=right }
 Fab Academy er 6 mánaða alþjóðlegt nám þar sem hver vika er tileinkuð ákveðinni tækni eða framleiðsluferli. Nemendur fá verkefni sem þau útfæra í hverri viku, þar sem þau læra að nota stafræna framleiðslutækni og þróa eigin frumgerðir. Námskeiðið skiptist í eftirfarandi vikur:
 
 1. Kynning og skipulag verkefna
