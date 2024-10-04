@@ -42,7 +42,9 @@ document.getElementById("demo").innerHTML = "Hello JavaScript";
 
 ![Material for MkDocs](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/images/material.png)
 
-Markdown [syntax](https://www.markdownguide.org/basic-syntax/)
+Í stað þess að skrifa síðuna með HTML kóða þá skrifum við í Markdown, sem er einfaldara og læsilegra, og látum Material for MkDocs um að breyta Markdown skránum í vel uppsett HTML skjal með innihaldinu okkar, CSS stílforskrift sem segir til um leturgerðir, liti og fleira, og JavaScript sem framkallar virkni síðunnar, eins og t.d. [leitarmöguleikann](https://squidfunk.github.io/mkdocs-material/setup/setting-up-site-search/). Allt sjálfvirkt og án þess að við þurfum að líta undir húddið. En það er gott að vita að það má setja HTML, CSS og JavaScript kóða inn í Markdown skjölin ef maður vill sérsníða eitthvað.
+
+Markdown [syntax](https://www.markdownguide.org/basic-syntax/) (t.d. eru readme skrár á GitHub eru skrifaðar í Markdown)
 
 Setjið fyrst upp [Python](https://www.python.org/)
 
