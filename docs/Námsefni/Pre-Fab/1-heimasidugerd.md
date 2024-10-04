@@ -8,7 +8,11 @@ Internetið umvefur allt í dag og það er gott að kynnast hvernig það virka
 
 ## HTML
 
+Allar heimasíður byggja á þremur stoðum:
+
 HTML [kynning](https://www.w3schools.com/html/html_intro.asp), [sýnidæmi](https://www.w3schools.com/html/html_basic.asp)
+
+CSS [kennsla](https://www.w3schools.com/css/)
 
 JavaScript [kynning](https://www.w3schools.com/js/js_intro.asp), [kennsla](https://www.w3schools.com/js/DEFAULT.asp)
 
