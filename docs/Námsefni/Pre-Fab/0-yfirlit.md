@@ -4,6 +4,12 @@ Nemandi í Fab Academy þarf að prófa ansi marga hluti í fyrsta skipti á ör
 
 Við höfum vikulega fjarfundi og verkefni sem tilvonandi Fab Academy nemendurnir fara í gegnum. Tilgangurinn er að nemandendurnir komist strax af stað þegar Fab Academy hefst í janúar. Þetta er eftir fyrirmynd Pre-Fab námskeiða sem hafa verið haldin á nokkrum stöðum í heiminum (dæmi [1](https://ganeshgopal.github.io/index.html), [2](https://fabacademy.org/2023/labs/charlotte/students/ryan-kim/assignments/PreFab/), [3](https://fabacademy.org/2023/labs/charlotte/students/dariyah-strachan/assignments/week0.5/), [4](http://akshaim.github.io/Fablab/Week_Intro.html), [5](http://fabacademy.org/2021/labs/zoi/students/daniela-felix/0_pre-fab.html), [6](http://varungeethamony.github.io/week1.html), [7](http://rashidt123.github.io/)).
 
+## Nemendur
+
+[Bjartur Leó Hlynsson](https://bjarturleohlynsson.github.io/fab-academy-test-site/)
+Ólöf Hannesdóttir
+
+## Samantekt
 
 Á þessu undirbúningsnámskeiði prófar nemandinn að
 
