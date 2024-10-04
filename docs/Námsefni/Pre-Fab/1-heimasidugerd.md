@@ -6,12 +6,28 @@ Internetið umvefur allt í dag og það er gott að kynnast hvernig það virka
 
 Í fyrstu viku Pre-Fab setur þú upp heimasíðu og birtir á netinu. Við förum í gegnum ferlið á fjarfundi.
 
+## HTML
+
 HTML [kynning](https://www.w3schools.com/html/html_intro.asp), [sýnidæmi](https://www.w3schools.com/html/html_basic.asp)
 
 JavaScript [kynning](https://www.w3schools.com/js/js_intro.asp), [kennsla](https://www.w3schools.com/js/DEFAULT.asp)
+
+## Material for MkDocs
+
+![Material for MkDocs](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/images/material.png)
+
+Markdown [syntax](https://www.markdownguide.org/basic-syntax/)
 
 Material for MkDocs [uppsetning](https://squidfunk.github.io/mkdocs-material/getting-started/), [stillingar](https://squidfunk.github.io/mkdocs-material/setup/), [fídusar](https://squidfunk.github.io/mkdocs-material/reference/)
 
 Git [uppsetning](https://git-scm.com/), [tenging við heimasíðuna þína](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/week01.html#git-setup)
 
-![Material for MkDocs](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/images/material.png)
+## Myndir og myndbönd 
+
+Það er afar mikilvægt að þjappa öllum myndum og myndböndum áður en efnið er sett á heimasíðu, því að annars tekur það allt of mikið pláss.
+
+Greenshot [uppsetning](https://getgreenshot.org/)
+
+ImageMagick [uppsetning](https://imagemagick.org/index.php), [skipanir](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/week01.html#image-compression-for-the-web)
+
+FFMPEG [uppsetning](https://www.ffmpeg.org/), [skipanir](http://academy.cba.mit.edu/classes/computer_design/video.html)
