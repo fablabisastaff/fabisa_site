@@ -16,6 +16,30 @@ CSS [kennsla](https://www.w3schools.com/css/)
 
 JavaScript [kynning](https://www.w3schools.com/js/js_intro.asp), [kennsla](https://www.w3schools.com/js/DEFAULT.asp)
 
+Hér er HTML + JavaScript sýnidæmið sem við prófuðum á fundinum:
+
+``` html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+
+<body>
+
+<h1>My First Heading</h1>
+<p id="demo">My first paragraph.</p>
+
+<a href="https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/">Fab Academy síða Svavar</a>
+
+<script>
+document.getElementById("demo").innerHTML = "Hello JavaScript";
+</script>
+
+</body>
+</html>
+```
+
 ## Material for MkDocs
 
 ![Material for MkDocs](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/images/material.png)
