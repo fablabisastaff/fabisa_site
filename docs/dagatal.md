@@ -11,6 +11,13 @@
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Atlantic%2FReykjavik&bgcolor=%23F6BF26&mode=WEEK&showPrint=0&showTabs=0&showCalendars=0&showTz=0&src=dWszczh0M2gzYTF0MHJhdGwwYnMzYjhic2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=dWFhMDh0NGNzcWlhNDRsazlsampxZGxkM2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=Z3RkZHNqdGNjcWtjY2hxOGg4Mzg0aHZvZjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=NHZlMGtnY2Y5dGl1aXRlam01ZTFhNHFrNW9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=Z2NndDB1MG9hamc1MWc4YzltcjVlZmtybjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%234285F4&color=%234285F4&color=%237CB342&color=%2333B679&color=%23B39DDB" style="border-width:0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
+## Bóka tíma
+
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/fablabisafjordur/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
+
 
 ## Staðsetning
 
