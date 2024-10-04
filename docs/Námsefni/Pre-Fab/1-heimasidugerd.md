@@ -46,4 +46,4 @@ FFMPEG [uppsetning](https://www.ffmpeg.org/), [skipanir](http://academy.cba.mit.
 
 Athugið að þið getið skoðað Markdown skrána á bak við síðuna mína með því að smella á augað við hliðina á titlinum:
 
-[View Page Source](images/view-source.png)
+![View Page Source](images/view-source.png)
