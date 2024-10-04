@@ -10,11 +10,9 @@ Internetið umvefur allt í dag og það er gott að kynnast hvernig það virka
 
 Allar heimasíður byggja á þremur stoðum:
 
-HTML [kynning](https://www.w3schools.com/html/html_intro.asp), [sýnidæmi](https://www.w3schools.com/html/html_basic.asp)
-
-CSS [kennsla](https://www.w3schools.com/css/)
-
-JavaScript [kynning](https://www.w3schools.com/js/js_intro.asp), [kennsla](https://www.w3schools.com/js/DEFAULT.asp)
+1. HTML [kynning](https://www.w3schools.com/html/html_intro.asp), [sýnidæmi](https://www.w3schools.com/html/html_basic.asp)
+1. CSS [kennsla](https://www.w3schools.com/css/)
+1. JavaScript [kynning](https://www.w3schools.com/js/js_intro.asp), [kennsla](https://www.w3schools.com/js/DEFAULT.asp)
 
 Hér er HTML + JavaScript sýnidæmið sem við prófuðum á fundinum:
 
@@ -71,3 +69,7 @@ FFMPEG [uppsetning](https://www.ffmpeg.org/), [skipanir](http://academy.cba.mit.
 Athugið að þið getið skoðað Markdown skrána á bak við síðuna mína með því að smella á augað við hliðina á titlinum:
 
 ![View Page Source](images/view-source.png)
+
+Og hér er Markdown skráin á bak við síðuna sem þú ert að skoða núna:
+
+[Pre-Fab heimasíðugerð](https://github.com/fablabisastaff/fabisa_site/blob/main/docs/N%C3%A1msefni/Pre-Fab/1-heimasidugerd.md)
