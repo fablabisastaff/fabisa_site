@@ -37,3 +37,13 @@ Greenshot [uppsetning](https://getgreenshot.org/)
 ImageMagick [uppsetning](https://imagemagick.org/index.php), [skipanir](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/week01.html#image-compression-for-the-web)
 
 FFMPEG [uppsetning](https://www.ffmpeg.org/), [skipanir](http://academy.cba.mit.edu/classes/computer_design/video.html)
+
+## Heimaverkefni
+
+Þegar prufusíðan ykkar er komin í loftið skuluð þið nota hana til að skrásetja hvernig þið settuð hana upp. Nú er tíminn til að læra að skrifa texta sem er framsettur með Markdown, og prófa einhverja af fídusunum í Material for MkDocs. Hér getið þið skoðað það sem ég prófaði:
+
+[1. Principles and Practices - Svavar's Fab Academy Journey](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/week01.html)
+
+Athugið að þið getið skoðað Markdown skrána á bak við síðuna mína með því að smella á augað við hliðina á titlinum:
+
+[View Page Source](images/view-source.png)
