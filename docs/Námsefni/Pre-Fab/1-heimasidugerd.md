@@ -38,7 +38,7 @@ document.getElementById("demo").innerHTML = "Hello JavaScript";
 </html>
 ```
 
-## Material for MkDocs
+## Markdown
 
 ![Material for MkDocs](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/images/material.png)
 
