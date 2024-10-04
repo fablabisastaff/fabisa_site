@@ -11,7 +11,7 @@ Internetið umvefur allt í dag og það er gott að kynnast hvernig það virka
 Allar heimasíður byggja á þremur stoðum:
 
 1. HTML [kynning](https://www.w3schools.com/html/html_intro.asp), [sýnidæmi](https://www.w3schools.com/html/html_basic.asp)
-1. CSS [kennsla](https://www.w3schools.com/css/)
+1. CSS [kynning](https://www.w3schools.com/css/css_intro.asp), [kennsla](https://www.w3schools.com/css/)
 1. JavaScript [kynning](https://www.w3schools.com/js/js_intro.asp), [kennsla](https://www.w3schools.com/js/DEFAULT.asp)
 
 Hér er HTML + JavaScript sýnidæmið sem við prófuðum á fundinum:
