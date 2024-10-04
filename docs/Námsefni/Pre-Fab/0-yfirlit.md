@@ -1,15 +1,16 @@
 # Undirbúningur fyrir Fab Academy
 
-Nemandi í Fab Academy þarf að prófa ansi marga hluti í fyrsta skipti á örstuttum tíma. Til þess að það verði ekki of yfirþyrmandi er gott að kynnast ákveðnum þáttum áður en námskeiðið sjálft hefst. 
-
-Við höfum vikulega fjarfundi og verkefni sem tilvonandi Fab Academy nemendurnir fara í gegnum. Tilgangurinn er að nemandendurnir komist strax af stað þegar Fab Academy hefst í janúar. Þetta er eftir fyrirmynd Pre-Fab námskeiða sem hafa verið haldin á nokkrum stöðum í heiminum (dæmi [1](https://ganeshgopal.github.io/index.html), [2](https://fabacademy.org/2023/labs/charlotte/students/ryan-kim/assignments/PreFab/), [3](https://fabacademy.org/2023/labs/charlotte/students/dariyah-strachan/assignments/week0.5/), [4](http://akshaim.github.io/Fablab/Week_Intro.html), [5](http://fabacademy.org/2021/labs/zoi/students/daniela-felix/0_pre-fab.html), [6](http://varungeethamony.github.io/week1.html), [7](http://rashidt123.github.io/)).
-
 ## Nemendur
 
 [Bjartur Leó Hlynsson](https://bjarturleohlynsson.github.io/fab-academy-test-site/)
+
 Ólöf Hannesdóttir
 
-## Samantekt
+## Lýsing
+
+Nemandi í Fab Academy þarf að prófa ansi marga hluti í fyrsta skipti á örstuttum tíma. Til þess að það verði ekki of yfirþyrmandi er gott að kynnast ákveðnum þáttum áður en námskeiðið sjálft hefst. 
+
+Við höfum vikulega fjarfundi og verkefni sem tilvonandi Fab Academy nemendurnir fara í gegnum. Tilgangurinn er að nemandendurnir komist strax af stað þegar Fab Academy hefst í janúar. Þetta er eftir fyrirmynd Pre-Fab námskeiða sem hafa verið haldin á nokkrum stöðum í heiminum (dæmi [1](https://ganeshgopal.github.io/index.html), [2](https://fabacademy.org/2023/labs/charlotte/students/ryan-kim/assignments/PreFab/), [3](https://fabacademy.org/2023/labs/charlotte/students/dariyah-strachan/assignments/week0.5/), [4](http://akshaim.github.io/Fablab/Week_Intro.html), [5](http://fabacademy.org/2021/labs/zoi/students/daniela-felix/0_pre-fab.html), [6](http://varungeethamony.github.io/week1.html), [7](http://rashidt123.github.io/)).
 
 Á þessu undirbúningsnámskeiði prófar nemandinn að
 
@@ -22,7 +23,7 @@ Við höfum vikulega fjarfundi og verkefni sem tilvonandi Fab Academy nemendurni
 - Setja fram hugmynd að lokaverkefni
 
 
-Ráð frá fyrri Fab Academy nemendum:
+## Ráð frá fyrri Fab Academy nemendum:
 
 ### Svavar
 
@@ -30,7 +31,7 @@ Ráð frá fyrri Fab Academy nemendum:
 
 [![Student Bootcamp 2024](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/images/student_bootcamp_2024.jpg)](https://vimeo.com/904253457#t=03:24)
 
-## Hiroe Takeda
+### Hiroe Takeda
 
 Skoðaðu hvað [Hiroe gerði til að undirbúa sig](https://fabacademy.org/2023/labs/kitakagaya/students/hiroe-takeda/) (Hún var valin [Best time management 2023](https://fabacademy.org/2023/highlights/)). Hún er með súpergóða punkta um sjálfstæð vinnubrögð. Hún fór eftir þessari forskrift þegar hún tók hálft ár í að undirbúa sig fyrir Fab Academy:
 
