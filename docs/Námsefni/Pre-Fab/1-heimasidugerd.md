@@ -44,7 +44,7 @@ document.getElementById("demo").innerHTML = "Hello JavaScript";
 
 Í stað þess að skrifa síðuna með HTML kóða þá skrifum við í Markdown, sem er einfaldara og læsilegra, og látum Material for MkDocs um að breyta Markdown skránum í vel uppsett HTML skjal með innihaldinu okkar, CSS stílforskrift sem segir til um leturgerðir, liti og fleira, og JavaScript sem framkallar virkni síðunnar, eins og t.d. [leitarmöguleikann](https://squidfunk.github.io/mkdocs-material/setup/setting-up-site-search/). Allt sjálfvirkt og án þess að við þurfum að líta undir húddið. En það er gott að vita að það má setja HTML, CSS og JavaScript kóða inn í Markdown skjölin ef maður vill sérsníða eitthvað.
 
-Markdown [syntax](https://www.markdownguide.org/basic-syntax/) (t.d. eru readme skrár á GitHub eru skrifaðar í Markdown)
+Markdown [syntax](https://www.markdownguide.org/basic-syntax/) (t.d. eru readme skrár á GitHub skrifaðar í Markdown)
 
 Setjið fyrst upp [Python](https://www.python.org/)
 
@@ -54,13 +54,19 @@ Git [uppsetning](https://git-scm.com/), [tenging við heimasíðuna þína](http
 
 ## Myndir og myndbönd 
 
-Það er afar mikilvægt að þjappa öllum myndum og myndböndum áður en efnið er sett á heimasíðu, því að annars tekur það allt of mikið pláss.
+Það er afar mikilvægt að þjappa öllum myndum og myndböndum áður en efnið er sett á heimasíðu, því að annars tekur það allt of mikið pláss og veldur tómum vandræðum.
 
 Greenshot [uppsetning](https://getgreenshot.org/)
 
 ImageMagick [uppsetning](https://imagemagick.org/index.php), [skipanir](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/week01.html#image-compression-for-the-web)
 
 FFMPEG [uppsetning](https://www.ffmpeg.org/), [skipanir](http://academy.cba.mit.edu/classes/computer_design/video.html)
+
+Á Fab Academy síðunni minni útskýri ég hvernig ég nota ImageMagick til að þjappa myndum og FFMPEG til að þjappa myndböndum í terminal:
+
+[Image compression for the web](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/week01.html#image-compression-for-the-web)
+
+[Video compression for the web](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/week01.html#video-compression-for-the-web)
 
 ## Heimaverkefni
 
