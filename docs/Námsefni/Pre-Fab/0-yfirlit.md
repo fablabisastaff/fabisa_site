@@ -25,7 +25,7 @@ Við höfum vikulega fjarfundi og verkefni sem tilvonandi Fab Academy nemendurni
 
 ## Ráð frá fyrri Fab Academy nemendum:
 
-### Svavar
+### Svavar Konráðsson
 
 [Svavar](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/index.html) sagði frá sinni reynslu af Fab Academy á Students Bootcamp 2024:
 
@@ -35,20 +35,14 @@ Við höfum vikulega fjarfundi og verkefni sem tilvonandi Fab Academy nemendurni
 
 Skoðaðu hvað [Hiroe gerði til að undirbúa sig](https://fabacademy.org/2023/labs/kitakagaya/students/hiroe-takeda/) (Hún var valin [Best time management 2023](https://fabacademy.org/2023/highlights/)). Hún er með súpergóða punkta um sjálfstæð vinnubrögð. Hún fór eftir þessari forskrift þegar hún tók hálft ár í að undirbúa sig fyrir Fab Academy:
 
-#### The Bootcamp (Self-learning, before fabacademy)
-
-I thought I didn't have enough skill for this fabacademy, so, I decided a boot camp by myself. (Especially board making and making site, about my big week point) Below is the advice from my husband. So spartan isn't it?
-
-#### Advice from my Spartan husband
-
-- Learn by watching past FabAcademy videos and students' websites by yourself.
-- Do not say "I don't know" or "It doesn't work" without researching.
-- Do not say "I can't do it" without even trying.
-    * It is also a good idea to drop the level a little and then try to learn.
-- If there is something you don't know or have trouble with, look it up on a website, video, course, or by yourself.
-- When things don't go well, make some hypotheses, investigate them, and try to deal with them by yourself.
-- Theoretically explain and seek advice on something you just can't figure out.
-  * Explain what you have researched, your hypothesis, your response, and the details of the error in a theoretical manner. 
+>- Learn by watching past FabAcademy videos and students' websites by yourself.
+>- Do not say "I don't know" or "It doesn't work" without researching.
+>- Do not say "I can't do it" without even trying.
+>    * It is also a good idea to drop the level a little and then try to learn.
+>- If there is something you don't know or have trouble with, look it up on a website, video, course, or by yourself.
+>- When things don't go well, make some hypotheses, investigate them, and try to deal with them by yourself.
+>- Theoretically explain and seek advice on something you just can't figure out.
+>  * Explain what you have researched, your hypothesis, your response, and the details of the error in a theoretical manner. 
 
 
 ### Francisco Sanchez Arroyo
@@ -63,3 +57,31 @@ Hvað á að skrifa niður?
 - Stillingar (snúningshraði, skurðarhraði...)
 - Útkomu (hvað virkaði, hvað virkaði ekki)
 - Villuleit (e. debugging)
+
+### Þórarinn Bjartur Breiðfjörð Gunnarsson
+
+[Doddi](https://fabacademy.org/archives/2015/eu/students/gunnarsson.thorarinn_b.b/index.html) sýnir oft þessa mynd í tengslum við nám og sköpunargleði:
+
+![Copy, transform, combine](https://upload.wikimedia.org/wikipedia/commons/4/4e/Copy-transform-combine-scheme.svg)
+
+Í byrjun gerir maður alveg eins og kennarinn sýnir manni (Copy). Það er gott fyrsta skref, en aðferðin festist ekki í minni fyrr en maður fer að breyta hlutnum eftir eigin höfði (Transform). Og þegar maður tekur eitthvað tvennt sniðugt sem maður finnur og setur það saman, þá er maður farinn að búa til eitthvað nýtt (Combine), og því gleymir maður aldrei.
+
+### Árni Björnsson
+
+Til að gefa hugmynd um umfang lokaverkefnisins í Fab Academy gef ég Árna orðið:
+
+>I must admit, I did not keep a perfect timelog of the time I spent on the final project. But I can tell you this, it will take all the time you give it and will easily double that!
+>
+>But to at least give a estimate of the ratios of how the time was spent:
+>
+>40% Planning 40% Designing 10% producing (milling, soldering, cutting…) 10% Debugging, troubleshooting, optimizing
+>
+>In these ratios I do not factor in sleepless nights and mental load outside of the actual office/lab!
+>
+>Previously I’ve learned the importance of planning. Programming a function takes hardly no time at all, if you have already planned on what it should do, how, why, when and what for. This applies to all designs. This fact worked in my favour, I’m happy to report that most of the time, my designs at least kind of work OK, minimizing horrible late realizations of errors.
+>
+>If you are a current student reading this, good luck and have fun! It’s a project, it’s not the single solution to all of the worlds problems, that comes later! ;) 
+
+Þess vegna mæli ég með að tilvonandi Fab Academy nemendur finni sér nokkrar hugmyndir að lokaverkefni núna og skoði síðan kröfurnar í Fab Academy og velji eina hugmynd til að vinna með. Síðan er gott að panta strax helstu íhluti í verkefnið og það er sterkur leikur að prófa íhlutinn sem mesta óvissan ríkir um áður en námskeiðið byrjar í janúar. 
+
+Hjá mér var það stýring fyrir burstalausa mótora. Ég vissi ekkert um þær og í grúskinu mínu haustið fyrir Fab Academy kom í ljós að af öllum rafmagnsmótorum er flóknast að stýra burstalausum mótorum! Ég þurfti að prófa þrjár mótorstýringar, allar pantaðar frá mismunandi stöðum, áður en ég fann eina sem virkaði. Síðan notaði ég þá fjórðu, sem var smærri og háþróaðri, í lokaverkefnið. Í öllum Fab Academy lokaverkefnum verður eitthvað sem virkar ekki og það er best að komast að því hvað það er sem allra fyrst.
