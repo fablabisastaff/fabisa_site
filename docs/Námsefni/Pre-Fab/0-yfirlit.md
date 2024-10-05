@@ -68,7 +68,7 @@ Hvað á að skrifa niður?
 
 ### Árni Björnsson
 
-Til að gefa hugmynd um umfang lokaverkefnisins í Fab Academy gef ég Árna orðið:
+Til að gefa hugmynd um umfang lokaverkefnisins í Fab Academy gef ég [Árna](https://fabacademy.org/2022/labs/isafjordur/students/arni-bjornsson/final-project/#time-spent-on-final-project) orðið:
 
 >I must admit, I did not keep a perfect timelog of the time I spent on the final project. But I can tell you this, it will take all the time you give it and will easily double that!
 >
