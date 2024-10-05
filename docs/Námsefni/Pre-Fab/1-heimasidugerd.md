@@ -44,13 +44,10 @@ document.getElementById("demo").innerHTML = "Hello JavaScript";
 
 Í stað þess að skrifa síðuna með HTML kóða þá skrifum við í Markdown, sem er einfaldara og læsilegra, og látum Material for MkDocs um að breyta Markdown skránum í vel uppsett HTML skjal með innihaldinu okkar, CSS stílforskrift sem segir til um leturgerðir, liti og fleira, og JavaScript sem framkallar virkni síðunnar, eins og t.d. [leitarmöguleikann](https://squidfunk.github.io/mkdocs-material/setup/setting-up-site-search/). Allt sjálfvirkt og án þess að við þurfum að líta undir húddið. En það er gott að vita að það má setja HTML, CSS og JavaScript kóða inn í Markdown skjölin ef maður vill sérsníða eitthvað. Til dæmis kafaði [Doddi](https://fabacademy.org/archives/2015/eu/students/gunnarsson.thorarinn_b.b/index.html) ofan í CSS kóðann á fabisa.is til að sérsníða forsíðuna.
 
-Markdown [syntax](https://www.markdownguide.org/basic-syntax/) (t.d. eru readme skrár á GitHub skrifaðar í Markdown)
-
-Setjið fyrst upp [Python](https://www.python.org/)
-
-Material for MkDocs [uppsetning](https://squidfunk.github.io/mkdocs-material/getting-started/), [stillingar](https://squidfunk.github.io/mkdocs-material/setup/), [fídusar](https://squidfunk.github.io/mkdocs-material/reference/)
-
-Git [uppsetning](https://git-scm.com/), [tenging við heimasíðuna þína](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/week01.html#git-setup)
+1. Setjið fyrst upp [Python](https://www.python.org/).
+1. Næst er það Git [uppsetning](https://git-scm.com/), [tenging við heimasíðuna þína](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/week01.html#git-setup).
+1. Og að lokum Material for MkDocs [uppsetning](https://squidfunk.github.io/mkdocs-material/getting-started/), [stillingar](https://squidfunk.github.io/mkdocs-material/setup/), [fídusar](https://squidfunk.github.io/mkdocs-material/reference/).
+1. Nú getið þið skrifað heimasíðuna ykkar í Markdown. Það er auðvelt og gagnlegt að læra Markdown [framsetningu](https://www.markdownguide.org/basic-syntax/) (t.d. eru readme skrár á GitHub skrifaðar í Markdown).
 
 ## Myndir og myndbönd 
 
