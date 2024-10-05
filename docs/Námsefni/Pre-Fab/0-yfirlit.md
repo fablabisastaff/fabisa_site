@@ -66,7 +66,7 @@ Hvað á að skrifa niður?
 - Dagsetningu
 - Vél sem var notuð
 - Efni (þykkt, týpu, lit...)
-- Stillingar (snúningshraði, skurðarhraði...)
+- Stillingar (snúningshraða, skurðarhraða...)
 - Útkomu (hvað virkaði, hvað virkaði ekki)
 - Villuleit (e. debugging)
 
