@@ -8,7 +8,7 @@
 
 ## Leiðbeinandi
 
-[Svavar Konráðsson](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/index.html)
+[Svavar Konráðsson](https://svavarkonn.github.io/MkDocs/)
 
 ## Lýsing
 
