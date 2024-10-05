@@ -31,6 +31,12 @@ Við höfum vikulega fjarfundi og verkefni sem tilvonandi Fab Academy nemendur f
 
 ## Ráð frá fyrri Fab Academy nemendum:
 
+### Nadieh Bremer
+
+Yfirgripsmesta lýsingin á því hvernig það er að fara í gegnum Fab Academy er hér:
+
+[My Experience & Projects from Studying at Fab Academy and Learning How to be a Maker](https://www.visualcinnamon.com/2021/07/fabacademy/)
+
 ### Svavar Konráðsson
 
 [Svavar](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/index.html) sagði frá sinni reynslu af Fab Academy á Students Bootcamp 2024:
