@@ -69,7 +69,7 @@ FFMPEG [uppsetning](https://www.ffmpeg.org/), [skipanir](http://academy.cba.mit.
 
 Þegar prufusíðan ykkar er komin í loftið skuluð þið nota hana til að skrásetja hvernig þið settuð hana upp. Nú er tíminn til að læra að skrifa texta sem er framsettur með Markdown, og prófa einhverja af fídusunum í Material for MkDocs. Hér getið þið skoðað það sem ég prófaði:
 
-[MkDocs test drive](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/week01.html#mkdocs-test-drive)
+[MkDocs setup from scratch](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/week01.html#mkdocs-setup-from-scratch)
 
 Athugið að þið getið skoðað Markdown skrána á bak við síðuna mína með því að smella á augað við hliðina á titlinum efst á síðunni:
 
