@@ -19,7 +19,7 @@ Við höfum vikulega fjarfundi og verkefni sem tilvonandi Fab Academy nemendurni
 - Teikna, fræsa og, lóða og forrita rafrás
 - Laserskera prufustykki
 - Fræsa í stóru tölvustýrðu fræsivélinni í smiðjunni
-- Skoða [Fab Lab Inventory](https://inventory.fabcloud.io/) og meta hvað nemandinn þarft að panta fyrir Fab Academy
+- Skoða [Fab Lab Inventory](https://inventory.fabcloud.io/) og meta hvað nemandinn þarf að panta fyrir Fab Academy
 - Setja fram hugmynd að lokaverkefni
 
 
