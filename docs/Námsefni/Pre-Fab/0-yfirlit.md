@@ -6,6 +6,10 @@
 
 Ólöf Hannesdóttir
 
+## Leiðbeinandi
+
+[Svavar Konráðsson](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/index.html)
+
 ## Lýsing
 
 Nemandi í Fab Academy þarf að prófa ansi marga hluti í fyrsta skipti á örstuttum tíma. Til þess að það verði ekki of yfirþyrmandi er gott að kynnast ákveðnum þáttum áður en námskeiðið sjálft hefst. 
