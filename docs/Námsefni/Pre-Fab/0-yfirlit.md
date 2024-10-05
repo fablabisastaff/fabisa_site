@@ -4,7 +4,7 @@
 
 [Bjartur Leó Hlynsson](https://bjarturleohlynsson.github.io/fab-academy-test-site/)
 
-Ólöf Hannesdóttir
+[Ólöf Hannesdóttir](https://olofh2.github.io/Before-Fab-Academy/)
 
 ## Leiðbeinandi
 
