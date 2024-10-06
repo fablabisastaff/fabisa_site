@@ -10,17 +10,11 @@ Eitt af því sem Fab Academy nemendur eiga í mestum vandræðum með, en gefur
 
 === "LEGO"
     <iframe width="560" height="315" src="https://www.youtube.com/embed/4AdMJ4P_9g4?si=WbueXdXOYh01K36_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-=== "CSG"
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/N_WkjdAaQps?si=SzM0Wu123HnUpBg-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 === "Smellusmíði"
     <iframe width="560" height="315" src="https://www.youtube.com/embed/5C3h-JsTVos?si=E2F_x3i3Y626Pxq4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 === "Constraints"
     <video controls width="560">
         <source src="http://academy.cba.mit.edu/classes/computer_design/2Dconstraints.mp4" type="video/mp4">
-    </video>
-=== "Construction"
-    <video controls width="560">
-        <source src="http://academy.cba.mit.edu/classes/computer_design/construction.mp4" type="video/mp4">
     </video>
 === "Parametric"
     <video controls width="560">
@@ -30,8 +24,6 @@ Eitt af því sem Fab Academy nemendur eiga í mestum vandræðum með, en gefur
     <video controls width="560">
         <source src="http://academy.cba.mit.edu/classes/computer_design/symmetry.mp4" type="video/mp4">
     </video>
-=== "Piparkökuform"
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/4y2Jx8Ea8cQ?si=e3Q1bLA4kpd0GZ4d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 === "Loft"
     <iframe width="560" height="315" src="https://www.youtube.com/embed/LWJZAIeNkOY?si=T6ExNR0KrEC_nb8I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 === "Surface"
@@ -43,12 +35,22 @@ Eitt af því sem Fab Academy nemendur eiga í mestum vandræðum með, en gefur
 
 === "Hamar"
     <iframe width="560" height="315" src="https://www.youtube.com/embed/elUJCEC06r8?si=kr9E2sS1oy73FW4q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+=== "Fígúra"
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/9xAumJRKV6A?si=j_Q6KisYDndg7Uym" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+=== "Hús"
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/LaUVDQ8eFSY?si=ElAUvVQDQRPAJMyD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 === "Texti"
     <iframe width="560" height="315" src="https://www.youtube.com/embed/1pxTCifr-GE?si=isOpWEWC6HUyardS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 === "Upphleypt áferð"
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Cnot0rbXrsQ?si=Z4LOjTzPrczOgK1o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 === "Lithophane"
     <iframe width="560" height="315" src="https://www.youtube.com/embed/wMy50wf8KCI?si=028kiooqt3EzA32u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+=== "Kleinuhringur"
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/B0J27sf9N1Y?si=sDsHws_yfNuVQ7Gj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+=== "Sverð"
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/98qKfdJRzr0?si=0gXgWRgNm89KuxpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Fleiri Blender myndbönd](https://www.reddit.com/r/blender/comments/11y0qm0/best_tutorialguide_to_learn_blender_for_a/)
 
 ## Inkscape
 
