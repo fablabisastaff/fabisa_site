@@ -4,7 +4,9 @@
 
 Í þessari viku prófar þú að fræsa með tölvustýrðri ShopBot fræsivél. 
 
-[Matt](https://www.linkedin.com/in/matthewhatcher4281/) í [IdeaFoundry](https://www.ideafoundry.com/) er búinn að taka þetta allt saman í eitt myndband, svo að verkefni vikunnar er að horfa á það til enda og fræsa skilti eins og hann gerir, með hjálp einhvers sem þekkir ShopBot fræsivélina í smiðjunni þinni. 
+Skoðið 
+
+[Matt](https://www.linkedin.com/in/matthewhatcher4281/) í [IdeaFoundry](https://www.ideafoundry.com/) er búinn að taka þetta allt saman í eitt myndband, svo að verkefni vikunnar er að horfa á það til enda og fræsa skilti eins og hann gerir, með hjálp einhvers sem þekkir ShopBot fræsivélina í smiðjunni þinni. Það er erfitt að kenna á ShopBot vélina yfir netið því að uppsetning hennar gæti verið aðeins mismunandi á milli smiðja, svo að það er best ef þið horfið á myndbandið fyrst; teiknið skiltið og gerið tilbúið í fræsingu og fáið svo kennslu á öryggisþættina í kringum vélina og hvernig á að hita upp spindilinn, núllstilla og setja í gang (og muna að kveikja á ryksugunni!).
 
 [Doddi](https://fabacademy.org/archives/2015/eu/students/gunnarsson.thorarinn_b.b/index.html) sendi mér þetta myndband í Computer Aided Machining vikunni og ég hef enn ekki rekist á betri kennslu í fræsingu með ShopBot á netinu. Þetta er upptaka af heilu námskeiði og í því er (nánast) allt sem þið þurfið að vita til að bjarga ykkur og hjálpa öðrum:
 
