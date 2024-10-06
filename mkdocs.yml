@@ -77,6 +77,9 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - md_in_html
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
 
 copyright: |
   &copy; 2024 <a href="https://github.com/fablabisa"  target="_blank" rel="noopener">FabIsa   |  Torfnes 400 Ísafjörður   |   info hjá fabisa.is   |   +354 450 4408  |</a>  
