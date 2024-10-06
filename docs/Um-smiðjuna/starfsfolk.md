@@ -50,7 +50,7 @@ blockquote {
 
     <iframe title="DjOddi" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="640" height="480" src="https://sketchfab.com/models/ee9372ef321e405aa8503d4f69141c68/embed?autospin=1&autostart=1&preload=1&dnt=1"> </iframe>
 
-    [:octicons-arrow-right-24: linkedin](https://www.linkedin.com/in/hanndoddi/)
+    [:octicons-arrow-right-24: linkedin](https://www.linkedin.com/in/hanndoddi/){:rel="nofollow"}
 
     Þórarinn lauk sveinsprófi í rafeindavirkju 2009 og lauk Fab Akademíuna 2015 og hefur verið virkur leiðbeinandi fyrir nemendur um allt land og líka leiðbeint nemendum utan lands. Hann hefur starfað í smiðjunni síðan 2014. Þórarinn er sérlega góður í bilanagreiningu og er með víðtæka yfirsýn yfir nýsköpunarumhverfið í landinu.
 
@@ -78,7 +78,7 @@ blockquote {
 
     <iframe title="Scaniverse 2022-06-10 142722" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="640" height="480" src="https://sketchfab.com/models/820d6e8c1d7744989cd0e9c1dabb1729/embed?autospin=1&autostart=1&preload=1&dnt=1"> </iframe>
 
-    [:octicons-arrow-right-24: linkedin](https://www.linkedin.com/in/svavarkonradsson/)
+    [:octicons-arrow-right-24: linkedin](https://www.linkedin.com/in/svavarkonradsson/){:rel="nofollow"}
 
     Svavar er vélaverkfræðingur og lauk Fab Akademíuni 2023 og stefnir á að verða leiðbeinandi í Fab Akademíuni. hann hefur starfað í smiðjuni síðan 2021. Svavar hefur góða þekkingu á CAD hönnun. <br> Hann er einn sá aðili sem kom team spark á stað 2012 og stofnaði 3D-prentun 2015.
      
