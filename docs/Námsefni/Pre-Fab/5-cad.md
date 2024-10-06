@@ -15,19 +15,19 @@ Eitt af því sem Fab Academy nemendur eiga í mestum vandræðum með, en gefur
 === "Smellusmíði"
     <iframe width="560" height="315" src="https://www.youtube.com/embed/5C3h-JsTVos?si=E2F_x3i3Y626Pxq4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 === "Constraints"
-    <video controls width=100%>
+    <video controls width="560">
         <source src="http://academy.cba.mit.edu/classes/computer_design/2Dconstraints.mp4" type="video/mp4">
     </video>
 === "Construction"
-    <video controls width=100%>
+    <video controls width="560">
         <source src="http://academy.cba.mit.edu/classes/computer_design/construction.mp4" type="video/mp4">
     </video>
 === "Parametric"
-    <video controls width=100%>
+    <video controls width="560">
         <source src="http://academy.cba.mit.edu/classes/computer_design/parametric.mp4" type="video/mp4">
     </video>
 === "Symmetry"
-    <video controls width=100%>
+    <video controls width="560">
         <source src="http://academy.cba.mit.edu/classes/computer_design/symmetry.mp4" type="video/mp4">
     </video>
     
