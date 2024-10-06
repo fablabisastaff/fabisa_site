@@ -2,13 +2,13 @@
 
 *Föstudagurinn 8. nóvember 2024 kl. 14:10*
 
-Eitt af því sem Fab Academy nemendur eiga í mestum vandræðum með, en gefur þeim jafnframt mesta frelsið þegar þeir ná tökum á því, er þrívíð hönnun í CAD forriti. Við skulum taka hana fyrir í þessari viku. 
+Eitt af því sem Fab Academy nemendur eiga í mestum vandræðum með, en gefur þeim jafnframt mesta frelsið þegar þeir ná tökum á því, er CAD. Við skulum taka hana fyrir í þessari viku. 
 
 Það er frábært að læra að nota öll tækin í smiðjunni, en þú getur samt ekki smíðað allt sem þér dettur í hug fyrr en þú getur teiknað það. Eftir því sem þú byggir upp CAD hæfnina þína verða tækin í smiðjunni öflugri og þú getur betur hjálpað fólki sem kemur inn með alls konar hugmyndir.
 
 ## Ondsel
 
-=== "LEGO kubbur"
+=== "LEGO"
     <iframe width="560" height="315" src="https://www.youtube.com/embed/4AdMJ4P_9g4?si=WbueXdXOYh01K36_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 === "CSG"
     <iframe width="560" height="315" src="https://www.youtube.com/embed/N_WkjdAaQps?si=SzM0Wu123HnUpBg-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -30,7 +30,14 @@ Eitt af því sem Fab Academy nemendur eiga í mestum vandræðum með, en gefur
     <video controls width="560">
         <source src="http://academy.cba.mit.edu/classes/computer_design/symmetry.mp4" type="video/mp4">
     </video>
-    
+=== "Piparkökuform"
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/4y2Jx8Ea8cQ?si=e3Q1bLA4kpd0GZ4d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+=== "Loft"
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/LWJZAIeNkOY?si=T6ExNR0KrEC_nb8I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+=== "Surface"
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/i_WPyPmsr34?si=lMVSAexIBnZjfXIu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+=== "Slicing"
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/rA3NuEC1R9g?si=xEyccVLmi5IpT7QP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Blender
 
