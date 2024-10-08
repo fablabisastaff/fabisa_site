@@ -63,6 +63,8 @@ ImageMagick [uppsetning](https://imagemagick.org/index.php), [skipanir](https://
 
 FFMPEG [uppsetning](https://www.ffmpeg.org/){:rel="nofollow"}, [skipanir](http://academy.cba.mit.edu/classes/computer_design/video.html){:rel="nofollow"}
 
+Ég nota FFMPEG til að þjappa myndböndum fyrir netið, eins og ég sýni í myndbandinu. Ef það gengur brösuglega að setja upp eða nota FFMPEG hjá ykkur, þá gætu [þessar uppsetningarleiðbeiningar](https://phoenixnap.com/kb/ffmpeg-windows) hjálpað.
+
 Á Fab Academy síðunni minni útskýri ég hvernig ég nota ImageMagick til að þjappa myndum og FFMPEG til að þjappa myndböndum í terminal:
 
 [Image compression for the web](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/week01.html#image-compression-for-the-web){:rel="nofollow"}
