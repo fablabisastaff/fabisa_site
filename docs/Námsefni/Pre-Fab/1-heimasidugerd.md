@@ -53,6 +53,8 @@ document.getElementById("demo").innerHTML = "Hello JavaScript";
 
 ## Myndir og myndbönd 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hpqzA3OpYOs?si=gj5rvKdwGXEiRIdZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Það er afar mikilvægt að þjappa öllum myndum og myndböndum áður en efnið er sett á heimasíðu, því að annars tekur það allt of mikið pláss og veldur tómum vandræðum.
 
 Greenshot [uppsetning](https://getgreenshot.org/){:rel="nofollow"}
