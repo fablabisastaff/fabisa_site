@@ -1,12 +1,14 @@
-# Rafrás
+# Rafrásasmíði
 
 *Föstudagurinn 11. október 2024 kl. 14:10*
 
-Í þessari viku teiknar þú, fræsir, lóðar og forritar rafrás með ATtiny412 örtölvu.
+Í þessari viku teiknar þú, fræsir, lóðar og forritar rafrás með ATtiny412 örtölvu. 
+
+[Andri Sæmundsson](https://fabacademy.org/2023/labs/akureyri/students/andri-semundsson/pages/aboutMe.html) í Fab Lab Reykjavík leiðir þig í gegnum allt ferlið. Við þökkum Andra kærlega fyrir myndböndin!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iOPbk1W3X5k?si=NCt4CCv1SNHHpHoO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Í eftirfarandi myndbandi afhakar Andri við langan lista af „component libraries“. Til að þurfa ekki að smella svona oft með músinni, þá getið þið smellt á efsta boxið og ýtt á bilstöng til að afhaka við það. Svo getið þið farið upp og niður með örvatökkunum á lyklaborðinu og notað bilstöng til að afhaka við allt saman.
+Í eftirfarandi myndbandi er afhakað við langan lista af „component libraries“. Til að þurfa ekki að smella svona oft með músinni, þá getið þið smellt á efsta boxið og ýtt á bilstöng til að afhaka við það. Svo getið þið farið niður með örvatakkanum   á lyklaborðinu og notað bilstöng til að afhaka við allt saman.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZeAAy6L8AB8?si=BeX0H4-5z8o74AyV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -18,6 +20,8 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2oxuvwRuQNM?si=iW2c2vy_74EiIP-l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+Í eftirfarandi myndbandi er sýnt hvernig er hægt að finna þrívíð módel af íhlutum á netinu. Að hafa þrívítt módel af rásinni með öllum íhlutum gerir það auðveldara að teikna hulstur utan um brettið, t.d. með [kicadStepUp](https://github.com/easyw/kicadStepUpMod){:rel="nofollow"}. Ég vil bæta því við að það þarf ekki að finna módel af ATtiny412 á netinu því að sú IC rás er í SOIC-8 pakka og hann er að finna í [fab.3dshapes](https://gitlab.fabcloud.org/pub/libraries/electronics/kicad/-/tree/master/fab.3dshapes?ref_type=heads){:rel="nofollow"} möppunni.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oObZeXe6Ba8?si=JKZMDKGF4MC7nERU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Tq6v1HqWmm0?si=C19lDOqreYJuy_By" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -27,4 +31,3 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3f6FUTbL8kg?si=4sv85FMv9fVWgap_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/So58u1hxy98?si=V4pxgQ5LNr_yGIGf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
