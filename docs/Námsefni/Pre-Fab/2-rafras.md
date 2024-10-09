@@ -4,7 +4,11 @@
 
 Í þessari viku teiknar þú, fræsir, lóðar og forritar rafrás með ATtiny412 örtölvu.
 
+Þegar Andri setur upp KiCad í þá lætur hann öll „component libraries“ fylgja með, sem taka 6 GB af plássi á harða diskinum. Þið megið alveg sleppa því.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iOPbk1W3X5k?si=NCt4CCv1SNHHpHoO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Í eftirfarandi myndbandi afhakar Andri við langan lista af „component libraries“. Til að þurfa ekki að smella svona oft með músinni, þá getið þið smellt á efsta boxið og ýtt á bilstöng til að afhaka við það. Svo getið þið farið upp og niður með örvatökkunum á lyklaborðinu og notað bilstöng til að afhaka við allt saman. En ef þið slepptuð „component libraries“ í uppsetningunni á KiCad, þá þurfið þið ekki að pæla í þessu.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZeAAy6L8AB8?si=BeX0H4-5z8o74AyV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
