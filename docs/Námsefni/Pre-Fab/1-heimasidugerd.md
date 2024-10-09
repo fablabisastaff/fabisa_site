@@ -51,6 +51,10 @@ document.getElementById("demo").innerHTML = "Hello JavaScript";
 1. Og að lokum Material for MkDocs [uppsetning](https://squidfunk.github.io/mkdocs-material/getting-started/){:rel="nofollow"}, [stillingar](https://squidfunk.github.io/mkdocs-material/setup/){:rel="nofollow"}, [fídusar](https://squidfunk.github.io/mkdocs-material/reference/){:rel="nofollow"}.
 1. Nú getið þið skrifað heimasíðuna ykkar í Markdown. Það er auðvelt og gagnlegt að læra Markdown [framsetningu](https://www.markdownguide.org/basic-syntax/){:rel="nofollow"} (t.d. eru readme skrár á GitHub skrifaðar í Markdown).
 
+Doddi útbjó góða kynningu á Git fyrir ykkur:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sRx585XjQrE?si=pqZdQVjY_Cb9UtsI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Myndir og myndbönd 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hpqzA3OpYOs?si=gj5rvKdwGXEiRIdZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
