@@ -4,7 +4,7 @@
 
 Í þessari viku teiknar þú, fræsir, lóðar og forritar rafrás með ATtiny412 örtölvu.
 
-Þegar Andri setur upp KiCad í þá lætur hann öll „component libraries“ fylgja með, sem taka 6 GB af plássi á harða diskinum. Þið megið alveg sleppa því.
+Þegar Andri setur upp KiCad í myndbandinu þá lætur hann öll „component libraries“ fylgja með, sem taka 6 GB af plássi á harða diskinum. Þið megið sleppa því ef þið viljið. Ég sé ekki fram á að þið notið þau í vikuverkefnunum í Fab Academy. Hugsanlega í lokaverkefninu, en þá er líka hægt að ná í einstaka íhluti á netinu eins og Andri minnist á hér í fyrsta myndbandinu:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iOPbk1W3X5k?si=NCt4CCv1SNHHpHoO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
