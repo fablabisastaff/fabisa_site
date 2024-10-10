@@ -50,7 +50,7 @@ blockquote {
 
     <iframe title="DjOddi" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="640" height="480" src="https://sketchfab.com/models/ee9372ef321e405aa8503d4f69141c68/embed?autospin=1&autostart=1&preload=1&dnt=1"> </iframe>
 
-    [:octicons-arrow-right-24: linkedin](https://www.linkedin.com/in/hanndoddi/){:rel="nofollow"}
+    [:octicons-arrow-right-24: linkedin](https://www.linkedin.com/in/hanndoddi/)
 
     Þórarinn lauk sveinsprófi í rafeindavirkju 2009 og lauk Fab Akademíuna 2015 og hefur verið virkur leiðbeinandi fyrir nemendur um allt land og líka leiðbeint nemendum utan lands. Hann hefur starfað í smiðjunni síðan 2014. Þórarinn er sérlega góður í bilanagreiningu og er með víðtæka yfirsýn yfir nýsköpunarumhverfið í landinu.
 
@@ -78,7 +78,7 @@ blockquote {
 
     <iframe title="Scaniverse 2022-06-10 142722" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="640" height="480" src="https://sketchfab.com/models/820d6e8c1d7744989cd0e9c1dabb1729/embed?autospin=1&autostart=1&preload=1&dnt=1"> </iframe>
 
-    [:octicons-arrow-right-24: linkedin](https://www.linkedin.com/in/svavarkonradsson/){:rel="nofollow"}
+    [:octicons-arrow-right-24: linkedin](https://www.linkedin.com/in/svavarkonradsson/)
 
     Svavar er vélaverkfræðingur og lauk Fab Akademíuni 2023 og stefnir á að verða leiðbeinandi í Fab Akademíuni. hann hefur starfað í smiðjuni síðan 2021. Svavar hefur góða þekkingu á CAD hönnun. <br> Hann er einn sá aðili sem kom team spark á stað 2012 og stofnaði 3D-prentun 2015.
      
@@ -86,9 +86,9 @@ blockquote {
     ---
 
 
-    ![svavar vel](https://scontent-lhr6-1.xx.fbcdn.net/v/t39.30808-6/241162722_4706398752782265_5149155800181013365_n.png?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=aY6hUsSxnmkQ7kNvgGdJ67d&_nc_ht=scontent-lhr6-1.xx&_nc_gid=AQT-Zqek0CGZhPMDDsEpCNS&oh=00_AYAhwBAZDDXuPLIps5YtW3fBdy0LgE5-FwDA2-Er9_KGZw&oe=66FA63BE)
-    ![svavar 3d](https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/241118342_4706398766115597_1474989873444507587_n.png?_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=QWnhhn0_7ioQ7kNvgG7iw5N&_nc_ht=scontent-lhr8-1.xx&_nc_gid=AORucawUabjbf2Q_XhlobZo&oh=00_AYClytNfabPi60Xxk-gUAc8ZCCq98bf6e5Nzd_qASuP17Q&oe=66FA5D18)
-    ![svavar hond](https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/240580256_4706398722782268_2006023340558570391_n.png?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=CHAERf3eyP0Q7kNvgH1bfAx&_nc_ht=scontent-lhr8-1.xx&oh=00_AYBTo0YrVK68mY6p_LHHqxxtatmfTBxVyaaqdn6BZzoLtw&oe=66FA5B41)
+    ![svavar vel](https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/240580256_4706398722782268_2006023340558570391_n.png?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=T2y1rUnJOP4Q7kNvgFOWRVg&_nc_ht=scontent-lhr8-1.xx&_nc_gid=AvM-xrKij1aq0uV8ZA3w801&oh=00_AYD5cay5lXyszw2adgb0b4EEOcdVnEPiulu4ybk4y9a24g&oe=670DE981)
+    ![svavar 3d](https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/241118342_4706398766115597_1474989873444507587_n.png?_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=HyX2OAHrMp0Q7kNvgHLhOVO&_nc_ht=scontent-lhr8-1.xx&_nc_gid=AajgqGeYjxXDtxUkiujL9RN&oh=00_AYArzwnuGQoXzzThBiWYzNk4AsOBPjeyi6IYH-sYmF6WcA&oe=670DEB58)
+    ![svavar hond](https://scontent-lhr6-1.xx.fbcdn.net/v/t39.30808-6/241162722_4706398752782265_5149155800181013365_n.png?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=jx87_0zmrT4Q7kNvgGd0TjC&_nc_ht=scontent-lhr6-1.xx&_nc_gid=AIUbUVWz4MW8Dui441ruUH-&oh=00_AYAxZKoAe26rcw_HHJlmrfzIwpCmvxk65VR5F6r-aHCdfg&oe=670DF1FE)
 
 
 
