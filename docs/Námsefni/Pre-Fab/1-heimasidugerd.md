@@ -1,12 +1,12 @@
 # Heimasíðugerð
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EeMIN_5TqUg?si=gzsNUB6_8OFsrZpl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 *Föstudagurinn 2. október 2024 kl. 14:10*
 
 Internetið umvefur allt í dag og það er gott að kynnast hvernig það virkar. Í Fab Academy skrásetur nemandinn allt sem hann gerir á heimasíðu.
 
 Í fyrstu viku Pre-Fab setur þú upp heimasíðu og birtir á netinu. Við förum í gegnum ferlið á fjarfundi.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EeMIN_5TqUg?si=gzsNUB6_8OFsrZpl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## HTML
 
