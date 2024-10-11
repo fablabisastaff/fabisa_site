@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  #- toc
+---
+
 # Dagatal og opið hús
 
 ## Opið hús

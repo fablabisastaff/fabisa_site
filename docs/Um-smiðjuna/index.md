@@ -1,3 +1,9 @@
+---
+hide:
+  #- navigation
+  - toc
+---
+
 # Um smiðjuna
 
 ## **Fab Lab Ísafjörður**

@@ -12,7 +12,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
-    - toc.integrate
+    #- toc.integrate
     - navigation.top 
     - search.suggest
     - search.highlight
@@ -52,8 +52,10 @@ extra:
       link: https://www.instagram.com/fablabisa
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/FabLabIsafjordur
-    - icon: fontawesome/brands/gitlab
-      link: https://fablabs.io/labs/fablabisafjordur
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@FabLabIsa
+   # - icon: fontawesome/brands/gitlab
+   #   link: https://fablabs.io/labs/fablabisafjordur
 
       
   extra:
