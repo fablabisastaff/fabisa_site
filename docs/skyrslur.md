@@ -1,3 +1,10 @@
+---
+hide:
+  - navigation
+  #- toc
+---
+
+
 # Skýrslur
 
 ## Leiðarvísir um Fab Lab smiðjur
