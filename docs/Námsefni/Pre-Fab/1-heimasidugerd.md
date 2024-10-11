@@ -49,7 +49,8 @@ document.getElementById("demo").innerHTML = "Hello JavaScript";
 1. Setjið fyrst upp [Python](https://www.python.org/){:rel="nofollow"}.
 1. Næst er það Git [uppsetning](https://git-scm.com/){:rel="nofollow"}, [tenging við heimasíðuna þína](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/week01.html#git-setup){:rel="nofollow"}.
 1. Og að lokum Material for MkDocs [uppsetning](https://squidfunk.github.io/mkdocs-material/getting-started/){:rel="nofollow"}, [stillingar](https://squidfunk.github.io/mkdocs-material/setup/){:rel="nofollow"}, [fídusar](https://squidfunk.github.io/mkdocs-material/reference/){:rel="nofollow"}.
-1. Nú getið þið skrifað heimasíðuna ykkar í Markdown. Það er auðvelt og gagnlegt að læra Markdown [framsetningu](https://www.markdownguide.org/basic-syntax/){:rel="nofollow"} (t.d. eru readme skrár á GitHub skrifaðar í Markdown).
+2. Material er ekki eina þemað fyrir MkDocs heimasíðukerfið: [MkDocs Themes](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes){:rel="nofollow"}
+3. Nú getið þið skrifað heimasíðuna ykkar í Markdown. Það er auðvelt og gagnlegt að læra Markdown [framsetningu](https://www.markdownguide.org/basic-syntax/){:rel="nofollow"} (t.d. eru readme skrár á GitHub skrifaðar í Markdown).
 
 Doddi útbjó góða kynningu á Git fyrir ykkur:
 
