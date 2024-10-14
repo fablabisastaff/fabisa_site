@@ -39,6 +39,7 @@ theme:
 plugins:
 #  - social  # socail kort sem hægt er að virkja
   - search
+  - mkdocs-pdf
 
 extra:
   social:
