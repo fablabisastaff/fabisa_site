@@ -79,7 +79,7 @@ blockquote {
     :fontawesome-regular-star: **Uppáhalds forrit**: Ondsel og KiCad
 
     ---
-
+gith
     <iframe title="Scaniverse 2022-06-10 142722" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="640" height="480" src="https://sketchfab.com/models/820d6e8c1d7744989cd0e9c1dabb1729/embed?autospin=1&autostart=1&preload=1&dnt=1"> </iframe>
 
     [:octicons-arrow-right-24: linkedin](https://www.linkedin.com/in/svavarkonradsson/)
