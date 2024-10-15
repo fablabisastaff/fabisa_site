@@ -21,24 +21,25 @@ Fab Academy er kennt af Neil Gershenfeld, prófessor hjá MIT háskólanum í Bo
 Fab Academy er 6 mánaða alþjóðlegt nám þar sem hver vika er tileinkuð ákveðinni tækni eða framleiðsluferli. Nemendur fá verkefni sem þau útfæra í hverri viku, þar sem þau læra að nota stafræna framleiðslutækni og þróa eigin frumgerðir. Námskeiðið skiptist í eftirfarandi vikur:
 
 1. Kynning og skipulag verkefna
-2. Tölvuvædd hönnun (CAD)
-3. Tölvustýrður skurður (vínyl- og laserskeri)
-4. Framleiðsla rafeindatækja
-5. Þrívíddarskönnun og prentun
-6. Forritun örtölva
-7. Tölvustýrð fræsing
-8. Hönnun rafeindatækja
-9. Ljós, mótorar og önnur útgangstæki
-10. Vélahönnun
-11. Skynjarar og önnur inngangstæki
-12. Mótagerð og steypa
-13. Gagnasamskipti milli tækja
-14. Gerð tölvuviðmóts
-15. Verkefni að eigin vali
-16. Frágangur hönnunar
-17. Innleiðingar og afleiðingar
-18. Uppfinningar og tekjur
-19. Kynningar lokaverkefna
+1. Tölvuvædd hönnun (CAD)
+1. Tölvustýrður skurður (vínyl- og laserskeri)
+1. Framleiðsla rafeindatækja
+1. Þrívíddarskönnun og prentun
+1. Forritun örtölva
+1. Tölvustýrð fræsing
+1. Hönnun rafeindatækja
+1. Ljós, mótorar og önnur útgangstæki
+1. Vélahönnun
+1. Hlé, yfirferð vikuverkefna
+1. Skynjarar og önnur inngangstæki
+1. Mótagerð og steypa
+1. Gagnasamskipti milli tækja
+1. Gerð tölvuviðmóts
+1. Verkefni að eigin vali
+1. Frágangur hönnunar
+1. Innleiðingar og afleiðingar
+1. Uppfinningar og tekjur
+1. Kynningar lokaverkefna
 
 Útskriftin verður á alþjóðlegu FAB25 ráðstefnunni í Tékklandi 4.-11. júlí 2025.
 
