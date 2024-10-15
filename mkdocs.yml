@@ -83,6 +83,9 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
+  - admonition
+  - pymdownx.details
+
 
 copyright: |
   &copy; 2024 <a href="https://github.com/fablabisa"  target="_blank" rel="noopener">FabIsa   |  Torfnes 400 Ísafjörður   |   info hjá fabisa.is   |   +354 450 4408  |</a>  
