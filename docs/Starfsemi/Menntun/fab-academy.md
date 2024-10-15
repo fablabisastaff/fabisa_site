@@ -49,6 +49,6 @@ Nemendur Fab Academy fá mikilvæg tækifæri til að koma sér á framfæri me�
 
 ### Alþjóðleg þátttaka
 
-Á hverju ári taka hundruðir nemenda um allan heim þátt í Fab Academy. Árið 2022 tóku um 270 nemendur þátt í yfir 65 Fab Lab smiðjum víða um heim, þar á meðal í Fab Lab Ísafjörður. Með alþjóðlegu neti Fab Labs, sem spanna borgir eins og Boston, Barcelona, Amsterdam og fleiri, getur þú orðið hluti af þessari spennandi þróun í stafrænni framleiðslu.
+Á hverju ári taka hundruðir nemenda um allan heim þátt í Fab Academy. Árið 2023 tóku um 270 nemendur þátt í 74 Fab Lab smiðjum víða um heim, þar á meðal í Fab Lab Ísafjörður. Með alþjóðlegu neti Fab Labs, sem spanna borgir eins og Boston, Barcelona, Amsterdam og fleiri, getur þú orðið hluti af þessari spennandi þróun í stafrænni framleiðslu.
 
 Nánari upplýsingar um Fab Academy má finna á [heimasíðu Fab Academy](http://fabacademy.org/){:rel="nofollow"}.
