@@ -15,7 +15,7 @@ Námið býður upp á ómetanlegt tækifæri til að læra um stafræna framlei
 
 ## Námið
 
-Fab Academy er kennt af prófessor Neil Gershenfeld, forstöðumanni Center for Bits and Atoms í MIT háskólanum í Boston. Auk þess eru margir gestafyrirlestrar og staðbundnir leiðbeinendur. Námið fer fram frá janúar til júní ár hvert og sameinar verklega reynslu og fjarkennslu með alþjóðlegum tengslum við Fab Lab smiðjur um allan heim.
+Fab Academy er kennt af prófessor [Neil Gershenfeld](https://youtu.be/YDjOS0VHEr4?si=2sQuaMQ6Kqwayp7G), forstöðumanni Center for Bits and Atoms í MIT háskólanum í Boston. Auk þess eru margir gestafyrirlestrar og staðbundnir leiðbeinendur. Námið fer fram frá janúar til júní ár hvert og sameinar verklega reynslu og fjarkennslu með alþjóðlegum tengslum við Fab Lab smiðjur um allan heim.
 
 ## Fab Academy - Námsvikur
 
