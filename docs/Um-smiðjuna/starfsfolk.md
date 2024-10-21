@@ -40,7 +40,7 @@ blockquote {
 
 
     ---
-    ![tbbg](../assets/img/images/tbbg.png){ align=left }
+    ![tbbg](../assets/img/images/starfsfolk/tbbg.png){ align=left }
     
 
     :fontawesome-regular-envelope: **Póstfang:** doddi hjá fabisa.is
@@ -69,7 +69,7 @@ blockquote {
 -   :elephant:{ .lg .middle } __Svavar Konráðsson - Verkefnastjóri__
 
     ---
-    ![sk](../assets/img/images/sk.png){ align=left }
+    ![sk](../assets/img/images/starfsfolk/sk.png){ align=left }
 
 
     :fontawesome-regular-envelope: **Póstfang:** svavar hjá fabisa.is
