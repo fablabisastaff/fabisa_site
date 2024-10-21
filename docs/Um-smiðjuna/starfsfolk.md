@@ -89,10 +89,9 @@ gith
      
     ---
 
-
-    ![svavar vel](https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/240580256_4706398722782268_2006023340558570391_n.png?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=T2y1rUnJOP4Q7kNvgFOWRVg&_nc_ht=scontent-lhr8-1.xx&_nc_gid=AvM-xrKij1aq0uV8ZA3w801&oh=00_AYD5cay5lXyszw2adgb0b4EEOcdVnEPiulu4ybk4y9a24g&oe=670DE981)
-    ![svavar 3d](https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/241118342_4706398766115597_1474989873444507587_n.png?_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=HyX2OAHrMp0Q7kNvgHLhOVO&_nc_ht=scontent-lhr8-1.xx&_nc_gid=AajgqGeYjxXDtxUkiujL9RN&oh=00_AYArzwnuGQoXzzThBiWYzNk4AsOBPjeyi6IYH-sYmF6WcA&oe=670DEB58)
-    ![svavar hond](https://scontent-lhr6-1.xx.fbcdn.net/v/t39.30808-6/241162722_4706398752782265_5149155800181013365_n.png?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=jx87_0zmrT4Q7kNvgGd0TjC&_nc_ht=scontent-lhr6-1.xx&_nc_gid=AIUbUVWz4MW8Dui441ruUH-&oh=00_AYAxZKoAe26rcw_HHJlmrfzIwpCmvxk65VR5F6r-aHCdfg&oe=670DF1FE)
+![sk hond](../assets/img/images/starfsfolk/sk1_hond.png)
+![3d prentari](../assets/img/images/starfsfolk/sk3_3dprentari.png)
+![sk hond vinna](../assets/img/images/starfsfolk/sk2_hondvinna.png) 
 
 
 
