@@ -89,9 +89,9 @@ gith
      
     ---
 
-![sk hond](../assets/img/images/starfsfolk/sk1_hond.png)
-![3d prentari](../assets/img/images/starfsfolk/sk3_3dprentari.png)
-![sk hond vinna](../assets/img/images/starfsfolk/sk2_hondvinna.png) 
+    ![sk hond](../assets/img/images/starfsfolk/sk1_hond.png)
+    ![3d prentari](../assets/img/images/starfsfolk/sk3_3dprentari.png)
+    ![sk hond vinna](../assets/img/images/starfsfolk/sk2_hondvinna.png) 
 
 
 
