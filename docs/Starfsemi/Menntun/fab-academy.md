@@ -46,7 +46,7 @@ Fab Academy er 6 mánaða alþjóðlegt nám þar sem hver vika er tileinkuð á
 
 ## Undirbúðu þig fyrir störf framtíðarinnar
 
-<video controls width="560">
+<video controls width=100%>
     <source src="https://files.svavar.cc/fab/edwin-dertien-describes-fab-academy.mp4" type="video/mp4">
 </video>
 
