@@ -46,6 +46,10 @@ Fab Academy er 6 mánaða alþjóðlegt nám þar sem hver vika er tileinkuð á
 
 ## Undirbúðu þig fyrir störf framtíðarinnar
 
+<video controls width="560">
+    <source src="https://files.svavar.cc/fab/edwin-dertien-describes-fab-academy.mp4" type="video/mp4">
+</video>
+
 Nemendur Fab Academy fá mikilvæg tækifæri til að koma sér á framfæri með þekkingu sem nýtist í störf framtíðarinnar, hvort sem það er á sviði nýsköpunar, tækni, lista, verkfræði, rafmagns- eða tölvunarfræði, eða skapandi greinum.
 
 ### Alþjóðleg þátttaka
