@@ -36,4 +36,4 @@
 
 ## Næsta vika
 
-Vika 3: [Fræsing](3-fraesing.md))
+Vika 3: [Fræsing](3-fraesing.md)
