@@ -89,3 +89,7 @@ Athugið að þið getið skoðað Markdown skrána á bak við síðuna mína m
 Hér er Markdown skráin á bak við síðuna sem þú ert að skoða núna:
 
 [Pre-Fab heimasíðugerð](https://github.com/fablabisastaff/fabisa_site/blob/main/docs/N%C3%A1msefni/Pre-Fab/1-heimasidugerd.md?plain=1){:rel="nofollow"}, [commit history](https://github.com/fablabisastaff/fabisa_site/commits/main/docs/N%C3%A1msefni/Pre-Fab/1-heimasidugerd.md){:rel="nofollow"}
+
+## Næsta vika
+
+Vika 2: [Rafrásasmíði](2-rafrasasmidi.md)

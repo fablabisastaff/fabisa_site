@@ -91,3 +91,7 @@ Góðar stillingar í Ondsel:
     <iframe width="560" height="315" src="https://www.youtube.com/embed/6EFoz6ic0Wc?si=nWyYQywL06MxrSPC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 === "Lógó"
     <iframe width="560" height="315" src="https://www.youtube.com/embed/8FNvaEuuD8I?si=61JZQ7edjUEhJtor" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Næsta vika
+
+Vika 5: [Inventory](5-inventory.md)

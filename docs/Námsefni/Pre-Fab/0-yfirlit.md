@@ -96,3 +96,7 @@ Til að gefa hugmynd um umfang lokaverkefnisins í Fab Academy gef ég [Árna](h
 Þess vegna mæli ég með að tilvonandi Fab Academy nemendur finni sér nokkrar hugmyndir að lokaverkefni núna og skoði síðan kröfurnar í Fab Academy og velji eina hugmynd til að vinna með. Síðan er gott að panta strax helstu íhluti í verkefnið og það er sterkur leikur að prófa íhlutinn sem mesta óvissan ríkir um áður en námskeiðið byrjar í janúar. 
 
 Hjá mér var það stýring fyrir burstalausa mótora. Ég vissi ekkert um þær og í grúskinu mínu haustið fyrir Fab Academy kom í ljós að af öllum rafmagnsmótorum er flóknast að stýra burstalausum mótorum! Ég þurfti að prófa þrjár mótorstýringar, allar pantaðar frá mismunandi stöðum, áður en ég fann eina sem virkaði. Síðan notaði ég [þá fimmtu](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/final-project/motor_control.html){:rel="nofollow"}, sem var smærri og háþróaðri, í lokaverkefnið. [Andri](https://fabacademy.org/2023/labs/akureyri/students/andri-semundsson/index.html){:rel="nofollow"} lenti í því að [LED skjár](https://www.adafruit.com/product/3649){:rel="nofollow"} sem hann ætlaði að nota í lokaverkefnið sitt kom bilaður frá framleiðandanum og hann þurfti því að skipta snarlega um lokaverkefni. Í öllum Fab Academy lokaverkefnum verður eitthvað sem virkar ekki og það er best að komast að því hvað það er sem allra fyrst.
+
+## Við byrjum hér
+
+Vika 1: [Heimasíðugerð](1-heimasidugerd.md)
