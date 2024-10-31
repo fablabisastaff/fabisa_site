@@ -1,6 +1,6 @@
 # 3D hönnun
 
-Námsefni til að læra að búa til hlutti í þrívídd
+Námsefni til að læra að búa til hlutti í þrívídd.
 
 ## Smíðum kofa
 
@@ -28,7 +28,7 @@ Námsefni til að læra að búa til hlutti í þrívídd
 
 ## Leiðbeiningar fyrir 3D prentara
 
-Hér eru leiðbeingir til að 3D prennta hlutina þegar þeir eru tilbúnir.
+Hér eru leiðbeiningar til að 3D prenta hlutina þegar þeir eru tilbúnir.
 
 ### Leiðbeiningar Cura
 

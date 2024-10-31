@@ -1,6 +1,6 @@
-# Hönnun fyrir laser skera
+# Hönnun fyrir laserskera
 
-Kennslu efni til að hanna og nota laser skera.
+Kennsluefni til að hanna og nota laser skera.
 
 ## Glasamotta
 
@@ -19,9 +19,9 @@ Kennslu efni til að hanna og nota laser skera.
 ![hafey bækur](https://www.fabmennt.com/_files/ugd/0ebced_44dcf6ae9f494e3ca4e6366ddd05a847.pdf){ type=application/pdf style="min-height:600px;width:100%" }
 
 
-## Leiðbeiningar fyrir laser skera
+## Leiðbeiningar fyrir laserskera
 
-Hér eru leiðbeingir til að búa til hlutina þegar þeir eru tilbúnir.
+Hér eru leiðbeiningar til að búa til hlutina þegar teikningarnar eru tilbúnar.
 
 ### Leiðbeiningar Epilog
 
