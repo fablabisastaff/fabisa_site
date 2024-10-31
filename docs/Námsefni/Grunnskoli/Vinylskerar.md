@@ -4,7 +4,7 @@ Kennsluefni til að hanna límmiða og búa til með tölvustýrðum vínylskera
 
 ## Einfaldur límmiði
 
-*Höfundur: Hafey Viktoría Hallgrímsdóttir Fab Lab Reykjavík*
+*| Höfundur: Hafey Viktoría Hallgrímsdóttir | Fab Lab Reykjavík*
 *Forrit: Inkscape*
 
 Mynd fundin á netinu, breytt í línuteikningu og gerðar skurðarlínur fyrir vínylskera.
@@ -14,7 +14,7 @@ Mynd fundin á netinu, breytt í línuteikningu og gerðar skurðarlínur fyrir 
 
 ## Stensill
 
-*Höfundur: Hafey Viktoría Hallgrímsdóttir Fab Lab Reykjavík*
+*| Höfundur: Hafey Viktoría Hallgrímsdóttir | Fab Lab Reykjavík*
 *Forrit: Inkscape*
 
 Mynd og texti með kassa utan um skorin í vínyl til að búa til stensil.
