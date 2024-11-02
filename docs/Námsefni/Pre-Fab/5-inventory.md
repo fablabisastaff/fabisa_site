@@ -12,7 +12,8 @@
     - system integration and packaging
 > - Where possible, you should make rather than buy the parts of your project
   - Projects can be separate or joint, but need to show individual mastery of the skills, and be independently operable 
-(úr Fab Academy 2024 með fyrirvara um breytingar 2025)
+
+*(úr Fab Academy 2024 með fyrirvara um breytingar 2025)*
 
 Góð dæmi um lokaverkefni eru [hér](http://academy.cba.mit.edu/classes/project_development/index.html){:rel="nofollow"}. 
 
@@ -20,7 +21,7 @@ Góð dæmi um lokaverkefni eru [hér](http://academy.cba.mit.edu/classes/projec
 
 ## Íhlutirnir
 
-Þú tekur líka saman lista af efnum og íhlutum sem þarf að panta áður en Fab Academy hefst og gengur úr skugga um að öll tækin í smiðjunni séu í góðu standi. Ef þig langar t.d. að nota [Valchromat](https://www.thco.is/product-category/a-vegginn/valchromat/) í staðinn fyrir krossvið í fræsingarvikunni eða [tvílitað plexigler](https://hobarts.com/collections/laminate) eða [tvílitt MDF](https://hobarts.com/collections/sublimation) til að fá ákveðinn [effekt](https://fablableon.org/wp-content/uploads/2024/07/2.jpg) í laservikunni, þá þarf að panta það með góðum fyrirvara.
+Þú tekur líka saman lista af efnum og íhlutum sem þarf að panta áður en Fab Academy hefst og gengur úr skugga um að öll tækin í smiðjunni séu í góðu standi. Ef þig langar t.d. að nota [Valchromat](https://www.thco.is/product-category/a-vegginn/valchromat/) í staðinn fyrir krossvið í fræsingarvikunni eða tvílitað [plexigler](https://hobarts.com/collections/laminate) eða [MDF](https://hobarts.com/collections/sublimation) til að fá ákveðinn [effekt](https://fablableon.org/wp-content/uploads/2024/07/2.jpg) í laservikunni, þá þarf að panta það með góðum fyrirvara.
 
 [Fab Lab Inventory](https://inventory.fabcloud.io/){ .md-button }
 
@@ -52,12 +53,14 @@ Fab Lab Inventory er sett af vélum og íhlutum sem á að vera til í hverri Fa
 
 Þegar þið farið út fyrir Fab Lab Inventory þurfið þið að bjarga ykkur upp á eigin spýtur. Ég gerði það í mínu lokaverkefni og fór mjög varlega í það.
 
-Haustið þegar ég var að undirbúa mig fyrir Fab Academy hafði ég aldrei hannað rafrás, en ég gerði ráð fyrir að ég myndi læra nóg til að búa til rásirnar sem mig vantaði, svo lengi sem ég héldi mig við Fab Lab Inventory eða aðrar rásir með svipuð fótspor (SOIC og önnur með a.m.k. 0,4 mm á milli pinna, svo að 1/64" fræsitönnin komist á milli þeirra). Það er hægt að fræsa fínni rásir með V-tönn, en það getur verið snúið. Fíngerðasta rásin sem ég notaði var DRV8313 mótorstýringin, sem er með HTSSOP fótspor. Ég held að það sé nokkurn veginn fíngerðasta fótspor sem er hægt að fræsa rás fyrir með góðu móti. Ég segi "með góðu móti". Ég gerði þó nokkrar litlar fræsitilraunir fyrst og fræsti síðan fimm heil bretti áður en eitt tókst; með síðustu V-tönninni sem við áttum.
+Haustið þegar ég var að undirbúa mig fyrir Fab Academy hafði ég aldrei hannað rafrás, en ég gerði ráð fyrir að ég myndi læra nóg til að búa til rásirnar sem mig vantaði, svo lengi sem ég héldi mig við Fab Lab Inventory eða aðrar rásir með svipuð fótspor. Það gekk eftir. 
+
+Gott er að nota SOIC og önnur fótspor með a.m.k. 0,4 mm á milli pinna, svo að 1/64" fræsitönnin komist á milli þeirra þegar þið fræsið rásina. Það er hægt að fræsa fínni rásir með V-tönn, en það getur verið snúið. Fíngerðasta rásin sem ég notaði var [DRV8313](https://www.digikey.com/en/products/detail/texas-instruments/DRV8313PWPR/3775439) mótorstýringin, sem er með HTSSOP fótspor. Ég held að það sé nokkurn veginn fíngerðasta fótspor sem er hægt að fræsa rás fyrir með góðu móti. Ég segi "með góðu móti". Ég gerði þó nokkrar litlar fræsitilraunir fyrst og fræsti síðan fimm heil bretti áður en eitt tókst; með síðustu V-tönninni sem við áttum.
 
 Það sem ég passaði upp á í lokaverkefninu var að velja örtölvur og aðrar IC rásir sem eru með Arduino library og góð sýnidæmi, svo að ég myndi ekki rekast á vegg í forrituninni. Þess vegna byggði ég [Baksabrettið](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/final-project/images/baksi_board.jpg) á [RGBB Modular Thing](https://github.com/modular-things/modular-things-circuits/tree/main/samd21/rgbb) og [SimpleFOC Mini](https://simplefoc.com/simplefoc_mini_product_v1). Ég blandaði þessum rásum einfaldlega saman og bætti við nokkrum íhlutum. 
 
 Og ég bætti við [breakout](http://tatsuro.homma.fabcloud.io/fabacademy/tips/electronics_design/Attiny3216_breakout_board/) til að gefa mér aðgang að fleiri pinnum á örtölvunni, ef ég skyldi vilja bæta einhverjum fídusum við eftir á. Það gæti komið sér vel fyrir ykkur líka. Ég reyndi að bæta við [bretti sem skynjar nærveru fólks og stoppar róbótann](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/final-project/images/sensing_assembly.jpg) en ég setti 5V á vitlausan pinna á þeirri örtölvu, þannig að það kviknaði aldrei á henni. 
 
-Það hljómar ekki eins og mikið mál að sameina tvær tilbúnar rafrásir, en það var ofboðslega mikil vinna að finna hluti sem virkuðu vel og pössuðu saman. Ég skoðaði allt sem tengist róbótum og burstalausum mótorum sem ég fann á netinu, allt! Ég á mörg hundruð bókamerkja eftir þetta tímabil. Það er ekki gefið að hlutir sem virka hver í sínu lagi virki vel saman. Þess vegna er gott að byrja snemma að reka sig á hindranirnar sem koma óhjákvæmilega upp í lokaverkefninu. 
+Það hljómar ekki eins og mikið mál að sameina tvær tilbúnar rafrásir, en það var mikil vinna að finna hluti sem virkuðu vel og pössuðu saman. Ég skoðaði allt sem tengist róbótum og burstalausum mótorum sem ég fann á netinu, allt! Ég á mörg hundruð bókamerkja eftir þetta tímabil. Það er ekki gefið að hlutir sem virka hver í sínu lagi virki vel saman. Þess vegna er gott að byrja snemma að reka sig á hindranirnar sem koma óhjákvæmilega upp í lokaverkefninu. 
 
 Gangi ykkur vel!
