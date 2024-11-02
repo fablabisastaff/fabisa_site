@@ -14,15 +14,19 @@
   - Projects can be separate or joint, but need to show individual mastery of the skills, and be independently operable 
 (úr Fab Academy 2024 með fyrirvara um breytingar 2025)
 
-Góð dæmi um lokaverkefni eru [hér](http://academy.cba.mit.edu/classes/project_development/index.html){:rel="nofollow"}. [Innblástur úr Fab Academy 2024](https://finalprojects.fabacademy.org/#/schedule/2024){:rel="nofollow"}
+Góð dæmi um lokaverkefni eru [hér](http://academy.cba.mit.edu/classes/project_development/index.html){:rel="nofollow"}. 
+
+[Innblástur úr Fab Academy 2024](https://finalprojects.fabacademy.org/#/schedule/2024){:rel="nofollow"}
 
 ## Íhlutirnir
 
-Þú tekur líka saman lista af hlutum sem þarf að panta áður en Fab Academy hefst og gengur úr skugga um að öll tækin í smiðjunni séu í góðu standi.
+Þú tekur líka saman lista af efnum og íhlutum sem þarf að panta áður en Fab Academy hefst og gengur úr skugga um að öll tækin í smiðjunni séu í góðu standi. Ef þig langar t.d. að nota [Valchromat](https://www.thco.is/product-category/a-vegginn/valchromat/) í staðinn fyrir krossvið í fræsingarvikunni eða [tvílitað plexigler](https://hobarts.com/collections/laminate) eða [tvílitt MDF](https://hobarts.com/collections/sublimation) til að fá ákveðinn [effekt](https://fablableon.org/wp-content/uploads/2024/07/2.jpg) í laservikunni, þá þarf að panta það með góðum fyrirvara.
 
 [Fab Lab Inventory](https://inventory.fabcloud.io/){ .md-button }
 
 ### Örtölvur í Fab Academy
+
+Hér er yfirlit yfir örtölvurnar sem þið hafið í Fab Lab Inventory. Vonandi hjálpar þetta ykkur að velja örtölvu fyrir ykkar lokaverkefni.
 
 Traustar:
 
