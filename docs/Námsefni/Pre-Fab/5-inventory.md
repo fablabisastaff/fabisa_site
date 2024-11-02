@@ -1,12 +1,29 @@
 # Inventory
 
-Í þessari viku setur þú fram hugmynd að lokaverkefni í Fab Academy. Þú tekur líka saman lista af hlutum sem þarf að panta áður en Fab Academy hefst og gengur úr skugga um að öll tækin í smiðjunni séu í góðu standi.
+## Lokaverkefnið
 
-[Innblástur úr Fab Academy 2024](https://finalprojects.fabacademy.org/#/schedule/2024){:rel="nofollow"}
+Í þessari viku skissar þú upp hugmynd að lokaverkefni í Fab Academy. Best er að hafa nokkrar hugmyndir í takinu og nota kröfurnar um lokaverkefni til að velja eina af þeim:
 
-[Fab Lab Inventory](https://inventory.fabcloud.io/)
+>Your project should incorporate 2D and 3D design,
+         additive and subtractive fabrication processes,
+         electronics design and production,
+         embedded microcontroller interfacing and programming,
+         system integration and packaging
+      Where possible, you should make rather than buy
+         the parts of your project
+      Projects can be separate or joint, but need to show individual 
+         mastery of the skills, and be independently operable 
+(úr Fab Academy 2024 með fyrirvara um breytingar 2025)
 
-## Örtölvur í Fab Academy
+Góð dæmi um lokaverkefni eru [hér](http://academy.cba.mit.edu/classes/project_development/index.html){:rel="nofollow"}. [Innblástur úr Fab Academy 2024](https://finalprojects.fabacademy.org/#/schedule/2024){:rel="nofollow"}
+
+## Íhlutirnir
+
+Þú tekur líka saman lista af hlutum sem þarf að panta áður en Fab Academy hefst og gengur úr skugga um að öll tækin í smiðjunni séu í góðu standi.
+
+[Fab Lab Inventory](https://inventory.fabcloud.io/){ ,md-button }
+
+### Örtölvur í Fab Academy
 
 Traustar:
 
@@ -25,3 +42,13 @@ Traustar:
 - Xiao ESP32-C3 fyrir WiFi
 - Xiao SAMD21 er með afar góða analog-to-digital breytu til að lesa af skynjurum (SAMD21 er líka til sem stök örtölva í Fab Lab Inventory).
 - Ég læt mína nemendur fá Raspberry Pi Pico W til að setja á brauðbretti og prófa að tengja hluti við. Hún er með RP2040 örtölvuna, marga pinna og WiFi. Ég mæli með [þessum myndböndum](https://www.youtube.com/playlist?list=PLGs0VKk2DiYz8js1SJog21cDhkBqyAhC5){:rel="nofollow"} til að læra MicroPython með Raspberry Pi Pico W (eða Xiao RP2040, ef maður sleppir WiFi hlutanum).
+
+### Út fyrir Fab Lab Inventory
+
+Fab Lab Inventory er sett af vélum og íhlutum sem á að vera til í hverri Fab Lab smiðju. Mikil hugsun hefur farið í íhlutavalið til að bjóða upp á marga möguleika á eins einfaldan hátt og hægt er, og þannig að það sé hægt að endurtaka hlutina í öðrum smiðjum. Fab Lab Inventory er notaleg laug þar sem við lærum að synda. Fyrir utan er órólegt úthaf af rafeindaíhlutum þar sem er ýmislegt spennandi að sjá, en það getur gleypt okkur ef við vitum ekki að hverju við erum að leita.
+
+Þegar þið farið út fyrir Fab Lab Inventory þurfið þið að bjarga ykkur upp á eigin spýtur. Ég gerði það í mínu lokaverkefni og fór mjög varlega í það.
+
+Haustið þegar ég var að undirbúa mig fyrir Fab Academy hafði ég aldrei hannað rafrás, en ég gerði ráð fyrir að ég myndi læra nóg til að búa til rásirnar sem mig vantaði, svo lengi sem ég héldi mig við Fab Lab Inventory eða aðrar rásir með svipuð fótspor (SOIC og önnur með a.m.k. 0,4 mm á milli pinna, svo að 1/64" fræsitönnin komist á milli þeirra). Það er hægt að fræsa fínni rásir með V-tönn, en það getur verið snúið. Fíngerðasta rásin sem ég notaði var DRV8313 mótorstýringin, sem er með HTSSOP fótspor. Ég held að það sé nokkurn veginn fíngerðasta fótspor sem er hægt að fræsa rás fyrir með góðu móti. Ég segi "með góðu móti". Ég gerði þó nokkrar litlar fræsitilraunir fyrst og fræsti síðan fimm heil bretti áður en eitt tókst; með síðustu V-tönninni sem við áttum.
+
+Það sem ég passaði upp á í lokaverkefninu var að velja örtölvur og aðrar IC rásir sem eru með Arduino library og góð sýnidæmi, svo að ég myndi ekki rekast á vegg í forrituninni. Þess vegna byggði ég Baksa á [RGBB Modular Thing](https://github.com/modular-things/modular-things-circuits/tree/main/samd21/rgbb) og [SimpleFOC Mini](https://simplefoc.com/simplefoc_mini_product_v1). Ég blandaði þessum rásum einfaldlega saman og bætti við nokkrum íhlutum. Það hljómar ekki eins og mikið mál, en það var ofboðslega mikil vinna að finna hluti sem virkuðu vel og pössuðu saman. Ég skoðaði allt sem tengist róbótum og burstalausum mótorum sem ég fann á netinu, allt! Ég á mörg hundruð bókamerkja eftir þetta tímabil. Það er ekki gefið að hlutir sem virka hver í sínu lagi virki vel saman. Þess vegna er gott að byrja snemma að reka sig á hindranirnar sem koma óhjákvæmilega upp í lokaverkefninu.
