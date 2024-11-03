@@ -6,6 +6,8 @@
 
 Í þessari viku teiknar þú, fræsir, lóðar og forritar rafrás með ATtiny412 örtölvu. 
 
+## Myndböndin frá Andra
+
 [Andri Sæmundsson](https://fabacademy.org/2023/labs/akureyri/students/andri-semundsson/pages/aboutMe.html) í Fab Lab Reykjavík leiðir þig í gegnum allt ferlið. Við þökkum Andra kærlega fyrir myndböndin!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iOPbk1W3X5k?si=NCt4CCv1SNHHpHoO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -33,6 +35,8 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3f6FUTbL8kg?si=4sv85FMv9fVWgap_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/So58u1hxy98?si=V4pxgQ5LNr_yGIGf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Aukaupplýsingar
 
 Til að tengja brettið ykkar við tölvuna þurfið þið [serial UPDI-3 pinna](https://academy.cba.mit.edu/classes/embedded_programming/index.html) millistykkið frá Neil ([teikning](https://academy.cba.mit.edu/classes/embedded_programming/UPDI/hello.serial-UPDI.3.png), [tilbúið bretti](https://academy.cba.mit.edu/classes/embedded_programming/UPDI/hello.serial-UPDI.3.jpg), [traces](https://academy.cba.mit.edu/classes/embedded_programming/UPDI/hello.serial-UPDI.3.traces.png), [traces+exterior](https://academy.cba.mit.edu/classes/embedded_programming/UPDI/hello.serial-UPDI.3.traces_exterior.png), [interior](https://academy.cba.mit.edu/classes/embedded_programming/UPDI/hello.serial-UPDI.3.interior.png)) við [FTDI snúru](https://www.sparkfun.com/products/9718) eins og á myndinni hér fyrir neðan. Passið upp á að litaröðin á vírunum sé rétt:
 
