@@ -39,10 +39,11 @@ Til að tengja brettið ykkar við tölvuna þurfið þið [serial UPDI-3 pinna]
 ![FTDI snúra](images/ftdi.jpg)
 
 Ef þið eigið ekki FTDI snúru, þá eru til aðrar leiðir til að búa til USB-to-serial converter til að tengjast brettinu ykkar: 
+
 - Ef þið eigið til FT230XS FTDI rásina þá getið þið búið til [Bridge Serial FT230XS](https://gitlab.fabcloud.org/pub/programmers/programmer-serial-ft230xs){:rel="nofollow"}
 - Ef þið eigið til SAMD11 þá getið þið búið til [Bridge Serial D11C](https://gitlab.fabcloud.org/pub/programmers/programmer-serial-d11c){:rel="nofollow"} eða [SAMD11 dual serial](https://fabacademy.org/2020/labs/ulb/students/quentin-bolsee/projects/dual_serial/){:rel="nofollow"} (ég bjó til dual serial brettið um daginn og það virkar vel)
-- Ef þið eigið til Xiao RP2040 þá getið þið búið til [Quentorres](https://gitlab.fabcloud.org/pub/programmers/quentorres)
- Ef þið eigið ekkert af þessu, þá er hægt að nota venjulegt Arduino bretti til að forrita ATtiny. Eftirfarandi myndband sýnir það (ég hef ekki prófað það sjálfur), og það er líka gott að horfa á það til að sjá hvers vegna við þurfum þessa aukahluti:
+- Ef þið eigið til Xiao RP2040 þá getið þið búið til [Quentorres](https://gitlab.fabcloud.org/pub/programmers/quentorres){:rel="nofollow"}
+- Ef þið eigið ekkert af þessu, þá er hægt að nota venjulegt Arduino bretti til að forrita ATtiny. Eftirfarandi myndband sýnir það (ég hef ekki prófað það sjálfur), og það er líka gott að horfa á það til að sjá hvers vegna við þurfum þessa aukahluti:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AL9vK_xMt4E?si=lE8UqCGTFyYvbRph" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
