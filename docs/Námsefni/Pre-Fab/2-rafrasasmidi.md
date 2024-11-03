@@ -38,6 +38,14 @@
 
 ## Aukaupplýsingar
 
+### Lokayfirferð á rásinni
+
+Áður en þið tengið rásina við rafmagn skuluð þið lýsa í gegnum hana til að sjá hvort það sé nokkuð óvart skammhlaup einhvers staðar. Stundum er smákopartjása enn föst við brettið eða of mikið tin á stöku stað. Hér má sjá Dodda lagfæra rás í háhraðalest á Spáni, með lóðbolta frá Andra. Doddi notar mynd af gegnumlýstri rásinni til að sjá hvar er of mikið tin:
+
+![Doddi að lóða í háhraðalest á Spáni](https://academany.fabcloud.io/fabacademy/2024/bootcamp-instructors/workshops/BLDC-Modular-Thing/images/train_soldering.jpg)
+
+### Forritun
+
 Til að tengja brettið ykkar við tölvuna þurfið þið [serial UPDI-3 pinna](https://academy.cba.mit.edu/classes/embedded_programming/index.html) millistykkið frá Neil ([teikning](https://academy.cba.mit.edu/classes/embedded_programming/UPDI/hello.serial-UPDI.3.png), [tilbúið bretti](https://academy.cba.mit.edu/classes/embedded_programming/UPDI/hello.serial-UPDI.3.jpg), [traces](https://academy.cba.mit.edu/classes/embedded_programming/UPDI/hello.serial-UPDI.3.traces.png), [traces+exterior](https://academy.cba.mit.edu/classes/embedded_programming/UPDI/hello.serial-UPDI.3.traces_exterior.png), [interior](https://academy.cba.mit.edu/classes/embedded_programming/UPDI/hello.serial-UPDI.3.interior.png)) við [FTDI snúru](https://www.sparkfun.com/products/9718) eins og á myndinni hér fyrir neðan. Passið upp á að litaröðin á vírunum sé rétt:
 
 ![FTDI snúra](images/ftdi.jpg)
