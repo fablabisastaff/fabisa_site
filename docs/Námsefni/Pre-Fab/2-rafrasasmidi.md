@@ -47,6 +47,8 @@ Ef þið eigið ekki FTDI snúru, þá eru til aðrar leiðir til að búa til U
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AL9vK_xMt4E?si=lE8UqCGTFyYvbRph" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+Hér eru líka [skriflegar leiðbeiningar](https://www.electronics-lab.com/project/using-new-attiny-processors-arduino-ide-attiny412-attiny1614-attiny3216-attiny1616-attiny3217/) sem sýna hvernig maður forritar ATtiny með því að nota Arduino Nano sem forritara.
+
 ## Næsta vika
 
 Vika 3: [Fræsing](3-fraesing.md)
