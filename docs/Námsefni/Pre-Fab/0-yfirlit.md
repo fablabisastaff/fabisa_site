@@ -4,6 +4,10 @@
 
 [Bjartur Leó Hlynsson](https://bjarturleohlynsson.github.io/fab-academy-test-site/){:rel="nofollow"}
 
+Högni Friðriksson
+
+Jóhannes Konráð Andrésson
+
 [Ólöf Hannesdóttir](https://olofh2.github.io/Before-Fab-Academy/){:rel="nofollow"}
 
 ## Leiðbeinandi
