@@ -40,7 +40,7 @@
 
 ### Lokayfirferð á rásinni
 
-Áður en þið tengið rásina við rafmagn skuluð þið lýsa í gegnum hana til að sjá hvort það sé nokkuð óvart skammhlaup einhvers staðar. Stundum er smákopartjása enn föst við brettið eða of mikið tin á stöku stað. Hér má sjá Dodda lagfæra rás í háhraðalest á Spáni, með lóðbolta frá Andra. Doddi notar mynd af gegnumlýstri rásinni til að sjá hvar er of mikið tin:
+Áður en þið tengið rásina við rafmagn skuluð þið lýsa í gegnum hana með lampa til að sjá hvort það sé nokkuð óvart skammhlaup einhvers staðar. Stundum er smákopartjása enn föst við brettið eða of mikið tin á stöku stað. Hér má sjá Dodda lagfæra rás í háhraðalest á Spáni, með lóðbolta frá Andra. Doddi notar mynd af gegnumlýstri rásinni til að sjá hvar er of mikið tin:
 
 ![Doddi að lóða í háhraðalest á Spáni](https://academany.fabcloud.io/fabacademy/2024/bootcamp-instructors/workshops/BLDC-Modular-Thing/images/train_soldering.jpg)
 
