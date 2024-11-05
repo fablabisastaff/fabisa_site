@@ -1,5 +1,7 @@
 # Fræsing
 
+*Föstudagurinn 8. nóvember 2024 kl. 14:10*
+
 Í þessari viku prófar þú að fræsa með tölvustýrðri ShopBot fræsivél. 
 
 [Matt](https://www.linkedin.com/in/matthewhatcher4281/){:rel="nofollow"} í [IdeaFoundry](https://www.ideafoundry.com/){:rel="nofollow"} er búinn að taka allt saman í eitt myndband, svo að verkefni vikunnar er að horfa á það til enda og fræsa skilti eins og hann gerir, með hjálp einhvers sem þekkir ShopBot fræsivélina í smiðjunni þinni. 
