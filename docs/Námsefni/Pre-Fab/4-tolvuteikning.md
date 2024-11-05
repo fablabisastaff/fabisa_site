@@ -1,5 +1,7 @@
 # Tölvuteikning
 
+(Ef við höfum ekki tíma til að fara í gegnum allt efnið, þá mætir tölvuteikning afgangi)
+
 Eitt af því sem Fab Academy nemendur eiga í mestum vandræðum með, en gefur þeim jafnframt mesta frelsið þegar þeir ná tökum á því, er tölvuteikning. Við skulum taka hana fyrir í þessari viku. 
 
 Það er frábært að læra að nota öll tækin í smiðjunni, en þú getur samt ekki smíðað allt sem þér dettur í hug fyrr en þú getur teiknað það. Eftir því sem þú byggir upp CAD hæfnina þína verða tækin í smiðjunni öflugri og þú getur betur hjálpað fólki sem kemur inn með alls konar hugmyndir.
