@@ -6,7 +6,7 @@
 
 Högni Friðriksson
 
-Jóhannes Konráð Andrésson
+[Jóhannes Konráð Andrésson](https://hannesjo.github.io/FabAcademy/)
 
 [Ólöf Hannesdóttir](https://olofh2.github.io/Before-Fab-Academy/){:rel="nofollow"}
 
