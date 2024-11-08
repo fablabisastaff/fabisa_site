@@ -4,6 +4,8 @@
 
 [Bjartur Leó Hlynsson](https://bjarturleohlynsson.github.io/fab-academy-test-site/){:rel="nofollow"}
 
+Evert Stefán Jensson
+
 Högni Friðriksson
 
 [Jóhannes Konráð Andrésson](https://hannesjo.github.io/FabAcademy/)
