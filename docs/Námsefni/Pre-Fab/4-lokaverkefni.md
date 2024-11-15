@@ -214,70 +214,55 @@ Heat-set inserts fyrir þrívíddarprentaða hluti:
 https://www.aliexpress.com/item/32843018530.html?spm=a2g0o.order_list.order_list_main.15.21ef1802EnxvDQ
 
 Ég reyndi að panta skrúfulagerinn i Inventoryinu hjá McMaster-Carr en fékk neitun frá fyrirtækinu. Ég mátti ekki panta frá Íslandi. Mjög óvenjulegt. En þá fann ég íhlutina bara miklu ódýrari á Aliexpress og þeir hafa komið sér mjög vel. Í inventoryinu eru bara 3 mm skrúfur en ég pantaði fleiri stærðir til að geta líka gert við ýmsa hluti sem koma á Reddingakaffið:
-1 sett: https://www.aliexpress.com/item/1005003108363940.html?spm=a2g0o.order_detail.order_detail_item.3.7360f19cEzLy0v
-3 sett: https://www.aliexpress.com/item/1005003106092326.html?spm=a2g0o.order_detail.order_detail_item.5.7360f19cEzLy0v
-1 sett: https://www.aliexpress.com/item/1005003108363940.html?spm=a2g0o.order_detail.order_detail_item.7.7360f19cEzLy0v
-1 sett: https://www.aliexpress.com/item/1005004510640911.html?spm=a2g0o.order_detail.order_detail_item.9.7360f19cEzLy0v
-3 sett: https://www.aliexpress.com/item/1005003106092326.html?spm=a2g0o.order_detail.order_detail_item.11.7360f19cEzLy0v
-1 sett: https://www.aliexpress.com/item/1005003105999228.html?spm=a2g0o.order_detail.order_detail_item.13.7360f19cEzLy0v
-1 sett: https://www.aliexpress.com/item/1005004510640911.html?spm=a2g0o.order_detail.order_detail_item.15.7360f19cEzLy0v
-5 sett: https://www.aliexpress.com/item/1005004510633871.html?spm=a2g0o.order_detail.order_detail_item.17.7360f19cEzLy0v
-5 sett: https://www.aliexpress.com/item/1005004510633871.html?spm=a2g0o.order_detail.order_detail_item.19.7360f19cEzLy0v
-3 sett: https://www.aliexpress.com/item/1005003106092326.html?spm=a2g0o.order_detail.order_detail_item.21.7360f19cEzLy0v
-1 sett: https://www.aliexpress.com/item/1005003105933895.html?spm=a2g0o.order_detail.order_detail_item.23.7360f19cEzLy0v
-1 sett: https://www.aliexpress.com/item/1005004510640911.html?spm=a2g0o.order_detail.order_detail_item.25.7360f19cEzLy0v
-1 sett: https://www.aliexpress.com/item/1005004510640911.html?spm=a2g0o.order_detail.order_detail_item.27.7360f19cEzLy0v
-1 sett: https://www.aliexpress.com/item/1005004510633871.html?spm=a2g0o.order_detail.order_detail_item.29.7360f19cEzLy0v
-1 sett: https://www.aliexpress.com/item/1005005248595306.html?spm=a2g0o.order_detail.order_detail_item.31.7360f19cEzLy0v
-1 sett: https://www.aliexpress.com/item/1005003108363940.html?spm=a2g0o.order_detail.order_detail_item.33.7360f19cEzLy0v
-5 sett: https://www.aliexpress.com/item/1005004510633871.html?spm=a2g0o.order_detail.order_detail_item.35.7360f19cEzLy0v
-1 sett: https://www.aliexpress.com/item/1005004510660522.html?spm=a2g0o.order_detail.order_detail_item.37.7360f19cEzLy0v
-3 sett: https://www.aliexpress.com/item/1005003105982526.html?spm=a2g0o.order_detail.order_detail_item.39.7360f19cEzLy0v
-1 sett: https://www.aliexpress.com/item/1005004510640911.html?spm=a2g0o.order_detail.order_detail_item.41.7360f19cEzLy0v
-1 sett: https://www.aliexpress.com/item/1005004510640911.html?spm=a2g0o.order_detail.order_detail_item.43.7360f19cEzLy0v
-1 sett: https://www.aliexpress.com/item/1005004510640911.html?spm=a2g0o.order_detail.order_detail_item.45.7360f19cEzLy0v
-3 sett: https://www.aliexpress.com/item/1005003106092326.html?spm=a2g0o.order_detail.order_detail_item.47.7360f19cEzLy0v
-1 sett: https://www.aliexpress.com/item/1005004510640911.html?spm=a2g0o.order_detail.order_detail_item.49.7360f19cEzLy0v
-5 sett: https://www.aliexpress.com/item/1005004510633871.html?spm=a2g0o.order_detail.order_detail_item.51.7360f19cEzLy0v
-3 sett: https://www.aliexpress.com/item/1005003106092326.html?spm=a2g0o.order_detail.order_detail_item.53.7360f19cEzLy0v
-1 sett: https://www.aliexpress.com/item/1005003106092326.html?spm=a2g0o.order_detail.order_detail_item.55.7360f19cEzLy0v
-1 sett: https://www.aliexpress.com/item/1005004510633871.html?spm=a2g0o.order_detail.order_detail_item.57.7360f19cEzLy0v
+- 1 sett: https://www.aliexpress.com/item/1005003108363940.html?spm=a2g0o.order_detail.order_detail_item.3.7360f19cEzLy0v
+- 3 sett: https://www.aliexpress.com/item/1005003106092326.html?spm=a2g0o.order_detail.order_detail_item.5.7360f19cEzLy0v
+- 1 sett: https://www.aliexpress.com/item/1005003108363940.html?spm=a2g0o.order_detail.order_detail_item.7.7360f19cEzLy0v
+- 1 sett: https://www.aliexpress.com/item/1005004510640911.html?spm=a2g0o.order_detail.order_detail_item.9.7360f19cEzLy0v
+- 3 sett: https://www.aliexpress.com/item/1005003106092326.html?spm=a2g0o.order_detail.order_detail_item.11.7360f19cEzLy0v
+- 1 sett: https://www.aliexpress.com/item/1005003105999228.html?spm=a2g0o.order_detail.order_detail_item.13.7360f19cEzLy0v
+- 1 sett: https://www.aliexpress.com/item/1005004510640911.html?spm=a2g0o.order_detail.order_detail_item.15.7360f19cEzLy0v
+- 5 sett: https://www.aliexpress.com/item/1005004510633871.html?spm=a2g0o.order_detail.order_detail_item.17.7360f19cEzLy0v
+- 5 sett: https://www.aliexpress.com/item/1005004510633871.html?spm=a2g0o.order_detail.order_detail_item.19.7360f19cEzLy0v
+- 3 sett: https://www.aliexpress.com/item/1005003106092326.html?spm=a2g0o.order_detail.order_detail_item.21.7360f19cEzLy0v
+- 1 sett: https://www.aliexpress.com/item/1005003105933895.html?spm=a2g0o.order_detail.order_detail_item.23.7360f19cEzLy0v
+- 1 sett: https://www.aliexpress.com/item/1005004510640911.html?spm=a2g0o.order_detail.order_detail_item.25.7360f19cEzLy0v
+- 1 sett: https://www.aliexpress.com/item/1005004510640911.html?spm=a2g0o.order_detail.order_detail_item.27.7360f19cEzLy0v
+- 1 sett: https://www.aliexpress.com/item/1005004510633871.html?spm=a2g0o.order_detail.order_detail_item.29.7360f19cEzLy0v
+- 1 sett: https://www.aliexpress.com/item/1005005248595306.html?spm=a2g0o.order_detail.order_detail_item.31.7360f19cEzLy0v
+- 1 sett: https://www.aliexpress.com/item/1005003108363940.html?spm=a2g0o.order_detail.order_detail_item.33.7360f19cEzLy0v
+- 5 sett: https://www.aliexpress.com/item/1005004510633871.html?spm=a2g0o.order_detail.order_detail_item.35.7360f19cEzLy0v
+- 1 sett: https://www.aliexpress.com/item/1005004510660522.html?spm=a2g0o.order_detail.order_detail_item.37.7360f19cEzLy0v
+- 3 sett: https://www.aliexpress.com/item/1005003105982526.html?spm=a2g0o.order_detail.order_detail_item.39.7360f19cEzLy0v
+- 1 sett: https://www.aliexpress.com/item/1005004510640911.html?spm=a2g0o.order_detail.order_detail_item.41.7360f19cEzLy0v
+- 1 sett: https://www.aliexpress.com/item/1005004510640911.html?spm=a2g0o.order_detail.order_detail_item.43.7360f19cEzLy0v
+- 1 sett: https://www.aliexpress.com/item/1005004510640911.html?spm=a2g0o.order_detail.order_detail_item.45.7360f19cEzLy0v
+- 3 sett: https://www.aliexpress.com/item/1005003106092326.html?spm=a2g0o.order_detail.order_detail_item.47.7360f19cEzLy0v
+- 1 sett: https://www.aliexpress.com/item/1005004510640911.html?spm=a2g0o.order_detail.order_detail_item.49.7360f19cEzLy0v
+- 5 sett: https://www.aliexpress.com/item/1005004510633871.html?spm=a2g0o.order_detail.order_detail_item.51.7360f19cEzLy0v
+- 3 sett: https://www.aliexpress.com/item/1005003106092326.html?spm=a2g0o.order_detail.order_detail_item.53.7360f19cEzLy0v
+- 1 sett: https://www.aliexpress.com/item/1005003106092326.html?spm=a2g0o.order_detail.order_detail_item.55.7360f19cEzLy0v
+- 1 sett: https://www.aliexpress.com/item/1005004510633871.html?spm=a2g0o.order_detail.order_detail_item.57.7360f19cEzLy0v
 
-Þið þurfið kannski ekki allt þetta, en þetta er sáraódýrt og það er gott að panta núna strax, því að það tekur sinn tíma fyrir pakka að komast hingað með ódýrustu týpu af póstsendingu frá Kína. Til að koma í veg fyrir að vera með margar lengdir af skrúfum í sama þvermáli þá reyndi ég að panta þær lengstu sem ég fann og síðan hef ég sagað af endunum á þeim og slípað, til að fá þær í réttar lengdir. Það er góð aðferð fyrir 3 mm skrúfurnar. Mjórri skrúfurnar klippi ég einfaldlega í sundur með svona græju og slípa síðan endann: https://www.amazon.com/Klein-Tools-1010-Crimper-Stripper/dp/B0000302WX
+![Skrúfur](https://files.svavar.cc/fab/aliexpress_skrufur.pdf){ type=application/pdf style="min-height:600px;width:100%" }
 
-Ég pantaði líka pinna í nokkrum stærðum, sem er t.d. hægt að nota sem öxla í tæki eða sem „guides“ til að setja saman mót. Innblásturinn kom af þessari frábæru síðu:
-https://lcamtuf.coredump.cx/gcnc/ch5/
+Þið þurfið kannski ekki allt þetta, en þetta er sáraódýrt og það er gott að panta núna strax, því að það tekur sinn tíma fyrir pakka að komast hingað með ódýrustu týpu af póstsendingu frá Kína. Til að koma í veg fyrir að vera með margar lengdir af skrúfum í sama þvermáli þá reyndi ég að panta þær lengstu sem ég fann og síðan hef ég sagað af endunum á þeim og slípað, til að fá þær í réttar lengdir. Það er góð aðferð fyrir 3 mm skrúfurnar. Mjórri skrúfurnar klippi ég einfaldlega í sundur með [svona græju](https://www.amazon.com/Klein-Tools-1010-Crimper-Stripper/dp/B0000302WX){:rel="nofollow"} og slípa síðan endann.
+
+Ég pantaði líka pinna í nokkrum stærðum, sem er t.d. hægt að nota sem öxla í tæki eða sem „guides“ til að setja saman mót. Innblásturinn kom úr [Guerilla Guide to CNC and Resin Casting](https://lcamtuf.coredump.cx/gcnc/ch5/){:rel="nofollow"}.
 
 Ég pantaði eitt sett af öllum þessum gerðum:
-https://www.aliexpress.com/item/1005003161472293.html?spm=a2g0o.order_detail.order_detail_item.3.3af5f19c7ZTjBa
-https://www.aliexpress.com/item/1005003161472293.html?spm=a2g0o.order_detail.order_detail_item.5.3af5f19c7ZTjBa
-https://www.aliexpress.com/item/1005003161472293.html?spm=a2g0o.order_detail.order_detail_item.7.3af5f19c7ZTjBa
-https://www.aliexpress.com/item/1005003161472293.html?spm=a2g0o.order_detail.order_detail_item.9.3af5f19c7ZTjBa
-https://www.aliexpress.com/item/1005003161472293.html?spm=a2g0o.order_detail.order_detail_item.11.3af5f19c7ZTjBa
-https://www.aliexpress.com/item/1005003161472293.html?spm=a2g0o.order_detail.order_detail_item.13.3af5f19c7ZTjBa
+![Pinnar](https://files.svavar.cc/fab/aliexpress_pinnar.pdf){ type=application/pdf style="min-height:600px;width:100%" }
 
-Ég pantaði sett af mjórri pinnum á Amazon og hef notað þá í eitt og annað, t.d. sem lamir fyrir box sem menntaskólanemendurnir mínir hafa búið til:
-https://www.amazon.com/gp/product/B09XHJN39M
-
-!!! ATH
-    Hlekkirnir á Aliexpress skrúfurnar og pinnana virðast ekki virka. Maður fær ekki upp stærðirnar sem ég valdi. Hér eru pantanirnar á PDF formi:
-    === "Aliexpress skrúfupöntun"
-        ![Skrúfur](https://files.svavar.cc/fab/aliexpress_skrufur.pdf){ type=application/pdf style="min-height:600px;width:100%" }
-    === "Aliexpress pinnapöntun"
-        ![Pinnar](https://files.svavar.cc/fab/aliexpress_pinnar.pdf){ type=application/pdf style="min-height:600px;width:100%" }
-
-
+Ég pantaði sett af [mjórri pinnum á Amazon](https://www.amazon.com/gp/product/B09XHJN39M){:rel="nofollow"} og hef notað þá í eitt og annað, t.d. sem lamir fyrir box sem menntaskólanemendurnir mínir hafa búið til.
 
 #### Efni
 
 ![Molding and casting](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/images/week12/no_bubbles.jpg)
 
-Ég er orðinn voða hrifinn af því að nota Renshape til að búa til lítil mót. Það er pólýúretan sem er fyllt með litlum ögnum, sem gera það að verkum að yfirborðið verður matt og flott beint eftir fræsingu. Maður sér ekki för eftir fræsitönnina.
-https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2510209.m570.l1313&_nkw=renshape&_sacat=0
-Ég fann þetta í Guerilla Guide to CNC and Resin Casting og þið getið séð áferðina eftir fræsingu hér:
-https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/images/week12/no_bubbles.jpg
+Ég er orðinn voða hrifinn af því að nota [Renshape](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l2632&_nkw=renshape&_sacat=11804&_odkw=renshape&_osacat=0){:rel="nofollow"} til að búa til lítil mót. Það er pólýúretan sem er fyllt með litlum ögnum, sem gera það að verkum að yfirborðið verður matt og flott beint eftir fræsingu. Maður sér ekki för eftir fræsitönnina. Ég fann þetta efni í [Guerilla Guide to CNC and Resin Casting](https://lcamtuf.coredump.cx/gcnc/){:rel="nofollow"}.
 
-Fyrir Molding and Casting vikuna lagði ég mikið á mig til að útvega sílíkonið og pólýúretanið sem er mælt með í Guerilla Guide to CNC and Resing Casting (meiri upplýsingar á síðunni minni að sjálfsögðu), en í Fab Lab Reykjavík eru þau farin að panta hjá innflytjanda í Reykjavík sem ég man ekki hvað heitir og þau efni eru víst þrusugóð líka. Ég hugsa að ég myndi kaupa þar næst sjálfur.
+Það virkar líka vel að nota [machining wax](https://www.google.com/search?q=blue+machinable+wax&client=firefox-b-lm&sca_esv=bb95822eb3978ce5&ei=vTg3Z56MLJm3hbIPpY2-2Qw&ved=0ahUKEwje3rPspd6JAxWZW0EAHaWGL8sQ4dUDCA8&uact=5&oq=blue+machinable+wax&gs_lp=Egxnd3Mtd2l6LXNlcnAiE2JsdWUgbWFjaGluYWJsZSB3YXgyBBAAGB4yCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRI5RpQjwlYpRlwBHgBkAEAmAF4oAHFB6oBAzIuN7gBA8gBAPgBAZgCDKAC_wbCAgoQABiwAxjWBBhHwgIGEAAYBxgewgIKECEYoAEYwwQYCpgDAIgGAZAGCJIHAzYuNqAHoRc&sclient=gws-wiz-serp){:rel="nofollow"}. Það þarf að spyrja einhvern annan en mig um hvar er best að kaupa það.
+
+Fyrir Molding and Casting vikuna lagði ég mikið á mig til að útvega sílíkonið og pólýúretanið sem er mælt með í Guerilla Guide to CNC and Resing Casting, en í Fab Lab Reykjavík eru þau farin að panta hjá Kemi (minnir mig) og þau efni eru víst þrusugóð líka. Ég hugsa að ég myndi kaupa þar næst sjálfur.
 
 ## Næsta vika
 
