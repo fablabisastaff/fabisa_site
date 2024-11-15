@@ -61,7 +61,13 @@ En fyrst og fremst er það mest töff að nota örtölvuna eina og sér og setj
 
 #### Aflgjafar fyrir lokaverkefnin í Fab Academy
 
-Það er ekki gott að enda með lokaverkefni sem er bara hægt að setja í gang með [bench power supply](https://www.amazon.com/Siglent-Technologies-SPD3303X-Triple-Output/dp/B01410O424){:rel="nofollow"}. Þið þurfið því aðeins að pæla í því hvernig aflgjafa þið þurfið, svo að lokaverkefnið geti staðið eitt og sér.
+Það er ekki gott að enda með lokaverkefni sem er bara hægt að setja í gang með [bench power supply](https://www.amazon.com/Siglent-Technologies-SPD3303X-Triple-Output/dp/B01410O424){:rel="nofollow"}. Hér er dæmi um hvernig á ekki að gera þetta úr Machine Week 2023:
+
+![TeaManator front](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/images/week10/teamanator.jpg)
+
+![TeaManator back](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/images/week10/reality.jpg)
+
+Þið þurfið því aðeins að pæla í því hvernig aflgjafa þið þurfið, svo að lokaverkefnið geti staðið eitt og sér.
 
 
 ##### Hversu mikið afl þarftu fyrir Neopixels ljósdíóður?
