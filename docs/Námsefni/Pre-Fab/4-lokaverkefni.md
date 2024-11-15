@@ -67,6 +67,7 @@ En fyrst og fremst er það mest töff að nota örtölvuna eina og sér og setj
     ![TeaManator back](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/images/week10/reality.jpg){: style="width:100%"}
 === "Framhlið"
     ![TeaManator front](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/images/week10/teamanator.jpg){: style="width:100%"}
+*Ég leyfi mér að nota þetta dæmi því að ég var í hópnum sem smíðaði tækið :smile:.*
 
 Þið þurfið því aðeins að pæla í því hvernig aflgjafa þið þurfið, svo að lokaverkefnið geti staðið eitt og sér.
 
