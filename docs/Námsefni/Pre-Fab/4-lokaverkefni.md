@@ -252,8 +252,26 @@ https://www.aliexpress.com/item/1005003161472293.html?spm=a2g0o.order_detail.ord
 https://www.aliexpress.com/item/1005003161472293.html?spm=a2g0o.order_detail.order_detail_item.11.3af5f19c7ZTjBa
 https://www.aliexpress.com/item/1005003161472293.html?spm=a2g0o.order_detail.order_detail_item.13.3af5f19c7ZTjBa
 
+Ég pantaði sett af mjórri pinnum á Amazon og hef notað þá í eitt og annað, t.d. sem lamir fyrir box sem menntaskólanemendurnir mínir hafa búið til:
+https://www.amazon.com/gp/product/B09XHJN39M
+
+!!! ATH
+    Hlekkirnir á Aliexpress skrúfurnar og pinnana virðast ekki virka. Maður fær ekki upp stærðirnar sem ég valdi. Hér eru pantanirnar á PDF formi:
+    === "Aliexpress skrúfupöntun"
+        ![Skrúfur](https://files.svavar.cc/fab/aliexpress_skrufur.pdf){ type=application/pdf style="min-height:600px;width:100%" }
+    === "Aliexpress pinnapöntun"
+        ![Pinnar](https://files.svavar.cc/fab/aliexpress_pinnar.pdf){ type=application/pdf style="min-height:600px;width:100%" }
+
+
 
 #### Efni
+
+![Molding and casting](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/images/week12/no_bubbles.jpg)
+
+Ég er orðinn voða hrifinn af því að nota Renshape til að búa til lítil mót. Það er pólýúretan sem er fyllt með litlum ögnum, sem gera það að verkum að yfirborðið verður matt og flott beint eftir fræsingu. Maður sér ekki för eftir fræsitönnina.
+https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2510209.m570.l1313&_nkw=renshape&_sacat=0
+Ég fann þetta í Guerilla Guide to CNC and Resin Casting og þið getið séð áferðina eftir fræsingu hér:
+https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/images/week12/no_bubbles.jpg
 
 Fyrir Molding and Casting vikuna lagði ég mikið á mig til að útvega sílíkonið og pólýúretanið sem er mælt með í Guerilla Guide to CNC and Resing Casting (meiri upplýsingar á síðunni minni að sjálfsögðu), en í Fab Lab Reykjavík eru þau farin að panta hjá innflytjanda í Reykjavík sem ég man ekki hvað heitir og þau efni eru víst þrusugóð líka. Ég hugsa að ég myndi kaupa þar næst sjálfur.
 
