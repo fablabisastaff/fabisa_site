@@ -4,7 +4,7 @@
 
 ## Fyrsta uppkast
 
-Í þessari viku skissar þú upp hugmynd að lokaverkefni í Fab Academy og gerir grófan lista af íhlutum sem þig vantar í það. Best er að hafa nokkrar hugmyndir í takinu og nota kröfurnar um lokaverkefni til að velja eina af þeim:
+Í þessari viku skissar þú upp hugmynd að lokaverkefni í Fab Academy. Best er að hafa nokkrar hugmyndir í takinu og nota kröfurnar um lokaverkefni til að velja eina af þeim:
 
 > - Your project should incorporate 
     - 2D and 3D design,
@@ -21,17 +21,21 @@ Góð dæmi um lokaverkefni eru [hér](http://academy.cba.mit.edu/classes/projec
 
 [Innblástur úr Fab Academy 2024](https://finalprojects.fabacademy.org/#/schedule/2024){:rel="nofollow"}
 
-Ef tími gefst til, þá er góð hugmynd að skoða vikuverkefnin, velta fyrir sér hvað ykkur langar að gera og athuga hvort það þurfi að panta eitthvað í þau. Hér er [dagskráin](https://fabacademy.org/2025/schedule.html); verkefni hverrar viku er að finna neðst á síðunum.
+Ég mæli líka með að skoða sýnidæmin sem Neil hefur útbúið í [output devices](https://academy.cba.mit.edu/classes/output_devices/index.html){:rel="nofollow"}, [input devices](https://academy.cba.mit.edu/classes/output_devices/index.html){:rel="nofollow"} og [networking](https://academy.cba.mit.edu/classes/networking_communications/index.html){:rel="nofollow"} til að sjá hvers konar rafeindaíhluti við erum að nota og hvað þeir geta gert. Á þessum síðum getið þið ýtt á Ctrl+F og leitað að "video" til að sjá örstutt myndbönd af því hvað rásirnar gera.
+
+Ef þér gefst tími til, þá er góð hugmynd að skoða vikuverkefnin í Fab Academy, velta fyrir sér hvað þig langar að gera og athuga hvort það þurfi eitthvað þurfi að panta. Hér er [dagskráin](https://fabacademy.org/2025/schedule.html){:rel="nofollow"}; verkefni hverrar viku er að finna neðst á síðunum.
 
 ## Inventory
 
-Þú tekur líka saman lista af efnum og íhlutum sem þarf að panta áður en Fab Academy hefst og gengur úr skugga um að öll tækin í smiðjunni séu í góðu standi. Ef þig langar t.d. að nota [Valchromat](https://www.thco.is/product-category/a-vegginn/valchromat/){:rel="nofollow"} í staðinn fyrir krossvið í fræsingarvikunni eða tvílitað [plexigler](https://hobarts.com/collections/laminate) eða [MDF](https://hobarts.com/collections/sublimation){:rel="nofollow"} til að fá ákveðinn [effekt](https://fablableon.org/wp-content/uploads/2024/07/2.jpg){:rel="nofollow"} í laservikunni, þá þarf að panta það með góðum fyrirvara.
+Taktu líka saman lista af efnum og íhlutum sem þarf að panta í lokaverkefnið áður en Fab Academy hefst. 
+
+Ef þig langar t.d. að nota [Valchromat](https://www.thco.is/product-category/a-vegginn/valchromat/){:rel="nofollow"} í staðinn fyrir krossvið í fræsingarvikunni (einn af nemendunum mínum í MÍ er t.d. að vinna í að smíða [Layer Chair](http://www.dyvikdesign.com/site/portfolio-jens/the-layer-chair-amsterdam-edition.html){:rel="nofollow"}) eða tvílitað [plexigler](https://hobarts.com/collections/laminate) eða [MDF](https://hobarts.com/collections/sublimation){:rel="nofollow"} til að fá ákveðinn [effekt](https://fablableon.org/wp-content/uploads/2024/07/2.jpg){:rel="nofollow"} í laservikunni, þá þarf að panta það með góðum fyrirvara.
 
 [Fab Lab Inventory](https://inventory.fabcloud.io/){ .md-button }
 
 ### Örtölvur í Fab Academy
 
-Hér er yfirlit yfir örtölvurnar sem þið hafið í Fab Lab Inventory. Vonandi hjálpar þetta ykkur að velja örtölvu fyrir ykkar lokaverkefni.
+Hér er yfirlit yfir örtölvurnar sem þið hafið í Fab Lab Inventory. Vonandi hjálpar þetta með val á örtölvu fyrir lokaverkefnið.
 
 Traustar:
 
@@ -53,7 +57,7 @@ Traustar:
 
 #### Mín meðmæli
 
-Ég mæli sterklega með að nota staka örtölvu eins og ATtiny eða SAMD21 í lokaverkefninu ykkar, frekar en bretti eins og Xiao. Ástæðan er að þá eruð þið komin á hæsta stigið í rafrásagerð í Fab Academy. Þar til árið 2023 var alltaf gerð krafa um að setja örtölvuna á brettið, en núna má nota Xiao bretti og Raspberry Pi Pico W. Það er mjög þægilegt að nota þessi tilbúnu bretti, en þá kynnist þið ekki ákveðnum grundvallaratriðum. 
+Ég mæli sterklega með að nota staka örtölvu eins og ATtiny eða SAMD21 í lokaverkefninu, frekar en bretti eins og Xiao. Ástæðan er að þá ertu komin/n á hæsta stigið í rafrásagerð í Fab Academy. Þar til árið 2023 var alltaf gerð krafa um að setja örtölvuna á brettið, en núna má nota Xiao bretti og Raspberry Pi Pico W. Það er mjög þægilegt að nota þessi tilbúnu bretti, en þá kynnist þú ekki ákveðnum grundvallaratriðum. 
 
 Ég er ansi hrifinn af [SAMD21](https://www.digikey.com/en/products/detail/microchip-technology/ATSAMD21E18A-AUT/4878871){:rel="nofollow"}. Að mínu mati er SAMD21 arftaki ATmega328P örtölvunnar sem er í Arduino Uno.
 
@@ -69,12 +73,12 @@ En fyrst og fremst er það mest töff að nota örtölvuna eina og sér og setj
 
 === "Bakhlið"
     ![TeaManator back](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/images/week10/reality.jpg){: style="width:100%"}
+    *Ég leyfi mér að nota þetta dæmi því að ég var í hópnum sem smíðaði tækið :smile:.*
 === "Framhlið"
     ![TeaManator front](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/images/week10/teamanator.jpg){: style="width:100%"}
-*Ég leyfi mér að nota þetta dæmi því að ég var í hópnum sem smíðaði tækið :smile:.*
+    *Ég leyfi mér að nota þetta dæmi því að ég var í hópnum sem smíðaði tækið :smile:.*
 
-Þið þurfið því aðeins að pæla í því hvernig aflgjafa þið þurfið, svo að lokaverkefnið geti staðið eitt og sér.
-
+Þú þarft því aðeins að pæla í aflgjafa, svo að lokaverkefnið geti staðið eitt og sér.
 
 ##### Hversu mikið afl þarftu fyrir Neopixels ljósdíóður?
 
@@ -98,13 +102,12 @@ Til að láta [solenoid](https://www.digikey.com/en/products/detail/adafruit-ind
 
 ##### Nokkrir aflgjafar sem koma til greina
 
-
 ###### Hefðbundnir spennubreytar  
 
 *   [3-12V 7.2W spennubreytir](https://elko.is/vorur/nedis-spennubreytir-240v-i-3-12v-288101/ACPA006){:rel="nofollow"}
 *   [3-12V 24W spennubreytir](https://kisildalur.is/category/46/products/559){:rel="nofollow"} (líklega bestur miðað við verðið)  
 *   [5-24V 36W spennubreytir](https://elko.is/vorur/nedis-spennubreytir-230v-i-5-24v-217463/ACPA105){:rel="nofollow"}
-Ef þið kaupið svona spennubreyti þá þurfið þið líka að kaupa samsvarandi tengi fyrir rafrásina ykkar:
+Ef þú kaupir svona spennubreyti þá þarftu líka að kaupa samsvarandi tengi til að setja á rafrásina þína:
 https://www.aliexpress.com/item/32815806393.html?spm=a2g0o.order_list.order_list_main.10.21ef1802EnxvDQ
 
 ###### Hleðslutæki með gamaldags USB-A tengi
@@ -119,7 +122,7 @@ Minnstu og ódýrustu USB hleðslutækin gefa bara 1A; það er nóg til að kn�
 *   [5-12V 6A USB-A bílahleðslutæki](https://kisildalur.is/category/46/products/1113){:rel="nofollow"} (styður QC 3.0)
 *   [5V 2,4A USB-A power bank](https://kisildalur.is/category/46/products/3573){:rel="nofollow"}
 
-Þessi hleðslutæki eru með gamaldags USB-A tengi. Síðan þurfið þið líka að kaupa [USB-A framlengingarsnúru](https://elko.is/vorur/nedis-usb-a-kk-i-usb-a-kvk-snura-135380/CCGB60010BK20){:rel="nofollow"} (eða [venjulega USB-A í USB-A snúru](https://tolvutek.is/Snurur-og-kaplar/USB-kaplar-og-fjoltengi/USB3.0-A-A-kapall%2C-2-metrar%2C-hann-hann%2C-svartur/2_20976.action){:rel="nofollow"} og [millistykki](https://elko.is/vorur/nedis-usb-a-usb-a-millistykki-136890/CCGB60900BK){:rel="nofollow"}) sem liggur yfir í tækið ykkar, og inni í tækinu verður [USB Quick Charge hack](https://fabacademy.org/2018/labs/fablabulb/students/nicolas-decoster/alumnus/projects/qc/){:rel="nofollow"} rafrás sem gerir ykkur kleift að velja spennu fyrir tækið. Ef 5V spenna er nóg þá þurfið þið ekki USB Quick Charge hack rafrásina.    
+Þessi hleðslutæki eru með gamaldags USB-A tengi. Síðan þarftu líka að kaupa [USB-A framlengingarsnúru](https://elko.is/vorur/nedis-usb-a-kk-i-usb-a-kvk-snura-135380/CCGB60010BK20){:rel="nofollow"} (eða [venjulega USB-A í USB-A snúru](https://tolvutek.is/Snurur-og-kaplar/USB-kaplar-og-fjoltengi/USB3.0-A-A-kapall%2C-2-metrar%2C-hann-hann%2C-svartur/2_20976.action){:rel="nofollow"} og [millistykki](https://elko.is/vorur/nedis-usb-a-usb-a-millistykki-136890/CCGB60900BK){:rel="nofollow"}) sem liggur yfir í tækið þitt, og inni í tækinu verður [USB Quick Charge hack](https://fabacademy.org/2018/labs/fablabulb/students/nicolas-decoster/alumnus/projects/qc/){:rel="nofollow"} rafrás sem gerir þér kleift að velja spennu fyrir tækið. Ef 5V spenna er nóg þá þarftu ekki USB Quick Charge hack rafrásina.    
 
 ###### Hleðslutæki með nútíma USB-C tengi
 
@@ -127,11 +130,11 @@ Minnstu og ódýrustu USB hleðslutækin gefa bara 1A; það er nóg til að kn�
 *   [5-20V 65W USB-A og USB-C hleðslutæki](https://elko.is/vorur/nedis-hledslutaeki-gan-65w-pd-311772/WCGPD65W100BK){:rel="nofollow"} (styður QC 3.0, sjá nánari upplýsingar [hér](https://nedis.com/en-us/product/computer-and-mobile/power-supply/usb-chargers/550783985/wall-charger-65-w-gan-quick-charge-feature-30-325-a-number-of-outputs-3-usb-a-2x-usb-c-automatic-voltage-selection){:rel="nofollow"}) 
 *   [5-12V 27W USB-C bílahleðslutæki](https://www.oreind.is/product/hledslutaeki-i-bil-med-usb-c-pd-og-usb-a-qc-27w-59521/){:rel="nofollow"} (styður QC 3.0, getur gefið 18W með USB-A tenginu)
 
-Þessi hleðslutæki eru með nútíma USB-C tengi. Þau eru öflugust. Ég á eftir að gá hvort þau virki fyrir okkur. Síðan þurfið þið líka að kaupa USB-C framlengingarsnúru (það er að segja [USB-A í USB-C snúru](https://elko.is/vorur/nedis-usb-a-i-usb-c-32-gen-1-snura-324922/CCGW61600BK10){:rel="nofollow"} plús [millistykki](https://elko.is/vorur/nedis-usb-a-usb-a-millistykki-136890/CCGB60900BK){:rel="nofollow"}) sem liggur yfir í tækið ykkar, og inni í tækinu verður [USB Quick Charge hack](https://fabacademy.org/2018/labs/fablabulb/students/nicolas-decoster/alumnus/projects/qc/){:rel="nofollow"} rafrás sem gerir ykkur kleift að velja spennu fyrir tækið. Ef 5V spenna er nóg þá þurfið þið ekki USB Quick Charge hack rafrásina.  
+Þessi hleðslutæki eru með nútíma USB-C tengi. Þau eru öflugust. Ég á eftir að ganga úr skugga um að þau virki fyrir okkur. Síðan þurfið þið líka að kaupa USB-C framlengingarsnúru (það er að segja [USB-A í USB-C snúru](https://elko.is/vorur/nedis-usb-a-i-usb-c-32-gen-1-snura-324922/CCGW61600BK10){:rel="nofollow"} plús [millistykki](https://elko.is/vorur/nedis-usb-a-usb-a-millistykki-136890/CCGB60900BK){:rel="nofollow"}) sem liggur yfir í tækið þitt, og inni í tækinu verður [USB Quick Charge hack](https://fabacademy.org/2018/labs/fablabulb/students/nicolas-decoster/alumnus/projects/qc/){:rel="nofollow"} rafrás sem gerir þér kleift að velja spennu fyrir tækið. Ef 5V spenna er nóg þá þarftu ekki USB Quick Charge hack rafrásina.  
 
 ###### Batterí
 
-Ef lokaverkefnið þarf að vera langt frá innstungu getið þið notað USB power bank. Ég hef ekki skoðað þá sjálfur.
+Ef lokaverkefnið þarf að vera langt frá innstungu þá geturðu notað USB power bank. Ég hef ekki skoðað þá sjálfur.
 
 
 ##### USB Quick Charge hack
@@ -156,15 +159,15 @@ Brettið fæst á [Amazon](https://www.amazon.com/JUZITAO-Trigger-Charger-Suppor
 
 Fab Lab Inventory er sett af vélum og íhlutum sem á að vera til í hverri Fab Lab smiðju. Mikil hugsun hefur farið í íhlutavalið til að bjóða upp á marga möguleika á eins einfaldan hátt og hægt er, og þannig að það sé hægt að endurtaka hlutina í öðrum smiðjum. Fab Lab Inventory er notaleg laug þar sem við lærum að synda. Í fjarska glittir í [órólegt](https://en.wikipedia.org/wiki/2020%E2%80%932023_global_chip_shortage){:rel="nofollow"} úthaf af rafeindaíhlutum þar sem er ýmislegt spennandi að sjá, en það getur auðveldlega gleypt byrjendur.
 
-Þegar þið farið út fyrir Fab Lab Inventory þurfið þið að bjarga ykkur upp á eigin spýtur. Ég gerði það í mínu lokaverkefni og fór mjög varlega í það.
+Þegar þú ferð út fyrir Fab Lab Inventory þarftu þið að bjarga þér upp á eigin spýtur. Ég gerði það í mínu lokaverkefni og fór mjög varlega í það.
 
 Haustið þegar ég var að undirbúa mig fyrir Fab Academy hafði ég aldrei hannað rafrás, en ég gerði ráð fyrir að ég myndi læra nóg til að búa til rásirnar sem mig vantaði, svo lengi sem ég héldi mig við Fab Lab Inventory eða aðrar rásir með svipuð fótspor. Það gekk eftir. 
 
-Gott er að nota SOIC og önnur fótspor með a.m.k. 0,4 mm á milli pinna, svo að 1/64" fræsitönnin komist á milli þeirra þegar þið fræsið rásina. Það er hægt að fræsa fínni rásir með V-tönn, en það getur verið snúið. Fíngerðasta rásin sem ég notaði var [DRV8313](https://www.digikey.com/en/products/detail/texas-instruments/DRV8313PWPR/3775439){:rel="nofollow"} mótorstýringin, sem er með HTSSOP fótspor. Ég held að það sé nokkurn veginn fíngerðasta fótspor sem er hægt að fræsa rás fyrir með góðu móti. Ég segi "með góðu móti". Ég gerði þó nokkrar litlar fræsitilraunir fyrst og fræsti síðan fimm heil bretti áður en eitt tókst; með síðustu V-tönninni sem við áttum.
+Gott er að nota SOIC og önnur fótspor með a.m.k. 0,4 mm á milli pinna, svo að 1/64" fræsitönnin komist á milli þeirra þegar þú fræsir rásina. Það er hægt að fræsa fínni rásir með V-tönn, en það getur verið snúið. Fíngerðasta rásin sem ég notaði var [DRV8313](https://www.digikey.com/en/products/detail/texas-instruments/DRV8313PWPR/3775439){:rel="nofollow"} mótorstýringin, sem er með HTSSOP fótspor. Ég held að það sé nokkurn veginn fíngerðasta fótspor sem er hægt að fræsa rás fyrir með góðu móti. Ég segi "með góðu móti". Ég gerði þó nokkrar litlar fræsitilraunir fyrst og fræsti síðan fimm heil bretti áður en eitt tókst; með síðustu V-tönninni sem við áttum.
 
 Það sem ég passaði upp á í lokaverkefninu var að velja örtölvur og aðrar IC rásir sem eru með Arduino library og góð sýnidæmi, svo að ég myndi ekki rekast á vegg í forrituninni. Þess vegna byggði ég [Baksabrettið](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/final-project/images/baksi_board.jpg){:rel="nofollow"} á [RGBB Modular Thing](https://github.com/modular-things/modular-things-circuits/tree/main/samd21/rgbb){:rel="nofollow"} og [SimpleFOC Mini](https://simplefoc.com/simplefoc_mini_product_v1){:rel="nofollow"}. Ég blandaði þessum rásum einfaldlega saman og bætti við nokkrum íhlutum. 
 
-Og ég bætti við breakout til að gefa mér aðgang að fleiri pinnum á örtölvunni, ef ég skyldi vilja bæta einhverjum fídusum við eftir á. Það gæti komið sér vel fyrir ykkur líka. [Breakout bretti](http://tatsuro.homma.fabcloud.io/fabacademy/tips/electronics_design/Attiny3216_breakout_board/){:rel="nofollow"} er prentplata þar sem maður tengir litlu pinnana á IC rás beint við stærri pinna sem er auðvelt að setja á brauðbretti eða tengja jumper víra við. Ég reyndi að bæta við [bretti sem skynjar nærveru fólks og stoppar róbótann](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/final-project/images/sensing_assembly.jpg){:rel="nofollow"} en ég setti 5V á vitlausan pinna á þeirri örtölvu, þannig að það kviknaði aldrei á henni. 
+Og ég bætti við breakout til að gefa mér aðgang að fleiri pinnum á örtölvunni, ef ég skyldi vilja bæta einhverjum fídusum við eftir á. Það gæti komið sér vel fyrir þig líka. [Breakout bretti](http://tatsuro.homma.fabcloud.io/fabacademy/tips/electronics_design/Attiny3216_breakout_board/){:rel="nofollow"} er prentplata þar sem maður tengir litlu pinnana á IC rás beint við stærri pinna sem er auðvelt að setja á brauðbretti eða tengja jumper víra við. Ég reyndi að bæta við [bretti sem skynjar nærveru fólks og stoppar róbótann](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/final-project/images/sensing_assembly.jpg){:rel="nofollow"} en ég setti 5V á vitlausan pinna á þeirri örtölvu, þannig að það kviknaði aldrei á henni. 
 
 Það hljómar ekki eins og mikið mál að sameina tvær tilbúnar rafrásir, en það var mikil vinna að finna hluti sem virkuðu vel og pössuðu saman. Ég skoðaði allt sem tengist róbótum og burstalausum mótorum sem ég fann á netinu, allt! Ég á mörg hundruð bókamerkja eftir þetta tímabil. Það er ekki gefið að hlutir sem virka hver í sínu lagi virki vel saman. Þess vegna er gott að byrja snemma að reka sig á hindranirnar sem koma óhjákvæmilega upp í lokaverkefninu. 
 
@@ -177,6 +180,7 @@ Tevélin sem við smíðuðum í fyrravor er byggð á Beehive axes frá Quentin
 <video controls width=100%>
         <source src="https://files.svavar.cc/fab/beehive-axes.mp4" type="video/mp4">
     </video>
+*Andri sýnir ykkur hvernig þið búið til mótorstýribrettið [hér](https://www.youtube.com/playlist?list=PLs4ifnZzVJmoXc9q0Dzv3aYUWhuwSfHLY).*
 
 Sem betur fer var ég búinn að panta kevlar þráðinn sem við þurftum og líka þrívíddarprentarahjólin sem eru með tveimur legum inni í, svo að við gátum smíðað Beehive axes:
 https://www.ebay.com/itm/134050314711?var=433493467384
