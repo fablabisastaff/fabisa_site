@@ -135,7 +135,7 @@ Minnstu og ódýrustu USB hleðslutækin gefa bara 1A; það er nóg til að kn�
 
 Ef lokaverkefnið þarf að vera langt frá innstungu þá geturðu notað USB power bank. Ég hef ekki skoðað þá sjálfur.
 
-[Xiao ESP32C3](https://wiki.seeedstudio.com/XIAO_ESP32C3_Getting_Started/) er með [innbyggða battery management rás](https://files.seeedstudio.com/wiki/XIAO_WiFi/front-label-3.png) til að tengja endurhlaðanlegt batterí við og hlaða.
+[Xiao ESP32C3](https://wiki.seeedstudio.com/XIAO_ESP32C3_Getting_Started/) er með [innbyggða battery management rás](https://files.seeedstudio.com/wiki/XIAO_WiFi/back-label-6.png) til að tengja endurhlaðanlegt batterí við og hlaða.
 
 ##### USB Quick Charge hack
 
