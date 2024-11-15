@@ -59,33 +59,34 @@ SAMD21 er miklu öflugri og þægilegri. Hún er með þetta allt innbyggt. SAMD
 
 En fyrst og fremst er það mest töff að nota örtölvuna eina og sér og setja hana á brettið.
 
-#### Aflgjafar fyrir lokaverkefnin í Fab Lab áfanganum
+#### Aflgjafar fyrir lokaverkefnin í Fab Academy
+
+Það er ekki gott að enda með lokaverkefni sem er bara hægt að setja í gang með [bench power supply](https://www.amazon.com/Siglent-Technologies-SPD3303X-Triple-Output/dp/B01410O424){:rel="nofollow"}. Þið þurfið því aðeins að pæla í því hvernig aflgjafa þið þurfið, svo að lokaverkefnið geti staðið eitt og sér.
 
 
-##### Hvernig aflgjafa þarftu fyrir Neopixels ljósdíóður?
+##### Hversu mikið afl þarftu fyrir Neopixels ljósdíóður?
 
-Í [Neopixel Uberguide](https://learn.adafruit.com/adafruit-neopixel-uberguide/powering-neopixels) stendur að max straumnotkun hverrar Neopixel díóðu sé 60 milliamper.  
+Í [Neopixel Uberguide](https://learn.adafruit.com/adafruit-neopixel-uberguide/powering-neopixels){:rel="nofollow"} stendur að max straumnotkun hverrar Neopixel díóðu sé 60 milliamper.  
 
 ![](https://files.svavar.cc/fab/neopixel-aflgjafi.jpg)
+
+Samkvæmt þessu þá getur [þetta USB hleðslutæki](https://kisildalur.is/category/46/products/3264){:rel="nofollow"} knúið allt að 60 Neopixels. Það er ætti að duga í nánast hvað sem er.
   
 
-##### Hvernig aflgjafa þarftu til að opna dyr?
+##### Hversu mikið afl þarftu til að opna dyr?
 
 ![](https://files.svavar.cc/fab/MFG_1528_1512.jpg)  
 
-Til að láta [solenoid](https://www.digikey.com/en/products/detail/adafruit-industries-llc/1512/5353651) opna dyr þarftu um það bil 0,5A með 12V aflgjafa, skv [þessu datasheet](https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1917/1512_Web.pdf).  
+Til að láta [solenoid](https://www.digikey.com/en/products/detail/adafruit-industries-llc/1512/5353651){:rel="nofollow"} opna dyr þarftu um það bil 0,5A með 12V aflgjafa, skv [þessu datasheet](https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1917/1512_Web.pdf){:rel="nofollow"}.  
 
 ##### Nokkrir aflgjafar sem koma til greina
 
 
 ###### Hefðbundnir spennubreytar  
 
-*   **[3-12V 7.2W spennubreytir](https://elko.is/vorur/nedis-spennubreytir-240v-i-3-12v-288101/ACPA006)**
-*   **[3-12V 24W spennubreytir](https://kisildalur.is/category/46/products/559) (líklega bestur miðað við verðið)  
-    **
-*   **[5-24V 36W spennubreytir](https://elko.is/vorur/nedis-spennubreytir-230v-i-5-24v-217463/ACPA105)**
-
-  
+*   [3-12V 7.2W spennubreytir](https://elko.is/vorur/nedis-spennubreytir-240v-i-3-12v-288101/ACPA006){:rel="nofollow"}
+*   [3-12V 24W spennubreytir](https://kisildalur.is/category/46/products/559){:rel="nofollow"} (líklega bestur miðað við verðið)  
+*   [5-24V 36W spennubreytir](https://elko.is/vorur/nedis-spennubreytir-230v-i-5-24v-217463/ACPA105){:rel="nofollow"}
 
 ###### Hleðslutæki með gamaldags USB-A tengi
 
@@ -93,42 +94,40 @@ Minnstu og ódýrustu USB hleðslutækin gefa bara 1A; það er nóg til að kn�
 
 Öflugri hleðslutæki:  
 
-*   **[5V 2.4A USB-A hleðslutæki  
-    ](https://elko.is/vorur/sandstrom-12w-usb-a-hledslutaeki-325577/S6W2424)**
-*   **[5-12V 18W USB-A hleðslutæki](https://elko.is/vorur/nedis-hledslutaeki-18w-usb-a-316797/WCQC302ABK) (styður QC 3.0, sjá nánari upplýsingar [hér](https://nedis.com/en-us/product/computer-and-mobile/power-supply/usb-chargers/550732027/wall-charger-18-w-quick-charge-feature-15-20-30-a-number-of-outputs-1-usb-a-no-cable-included-automatic-voltage-selection))**
-*   **[5-12V 18W USB-A hleðslutæki](https://kisildalur.is/category/46/products/3264) (**ódýrara, líklega best fyrir flest lokaverkefnin, styður QC 3.0, nánari upplýsingar [hér](https://hocotech.com/product/power/wall-chargers/wall-charger-n26-maxim-qc3-0-eu-cable-set/))****  
-    
-*   **[5-12V 6A USB-A bílahleðslutæki](https://kisildalur.is/category/46/products/1113) (styður QC 3.0)**
-*   **[5V 2,4A USB-A power bank](https://kisildalur.is/category/46/products/3573)**  
+*   [5V 2.4A USB-A hleðslutæki](https://elko.is/vorur/sandstrom-12w-usb-a-hledslutaeki-325577/S6W2424){:rel="nofollow"}
+*   [5-12V 18W USB-A hleðslutæki](https://elko.is/vorur/nedis-hledslutaeki-18w-usb-a-316797/WCQC302ABK){:rel="nofollow"} (styður QC 3.0, sjá nánari upplýsingar [hér](https://nedis.com/en-us/product/computer-and-mobile/power-supply/usb-chargers/550732027/wall-charger-18-w-quick-charge-feature-15-20-30-a-number-of-outputs-1-usb-a-no-cable-included-automatic-voltage-selection){:rel="nofollow"})
+*   [5-12V 18W USB-A hleðslutæki](https://kisildalur.is/category/46/products/3264){:rel="nofollow"} (**ódýrara, líklega best fyrir flest lokaverkefnin, styður QC 3.0, nánari upplýsingar [hér](https://hocotech.com/product/power/wall-chargers/wall-charger-n26-maxim-qc3-0-eu-cable-set/){:rel="nofollow"})**    
+*   [5-12V 6A USB-A bílahleðslutæki](https://kisildalur.is/category/46/products/1113){:rel="nofollow"} (styður QC 3.0)
+*   [5V 2,4A USB-A power bank](https://kisildalur.is/category/46/products/3573){:rel="nofollow"}
     
 
-Þessi hleðslutæki eru með gamaldags USB-A tengi. Síðan þurfið þið líka að kaupa [USB-A framlengingarsnúru](https://elko.is/vorur/nedis-usb-a-kk-i-usb-a-kvk-snura-135380/CCGB60010BK20) (eða [venjulega USB-A í USB-A snúru](https://tolvutek.is/Snurur-og-kaplar/USB-kaplar-og-fjoltengi/USB3.0-A-A-kapall%2C-2-metrar%2C-hann-hann%2C-svartur/2_20976.action) og [millistykki](https://elko.is/vorur/nedis-usb-a-usb-a-millistykki-136890/CCGB60900BK)) sem liggur yfir í tækið ykkar, og inni í tækinu verður USB Quick Charge hack rafrás sem gerir ykkur kleift að velja spennu fyrir tækið. Ef 5V spenna er nóg þá þurfið þið ekki USB Quick Charge hack rafrásina.    
+Þessi hleðslutæki eru með gamaldags USB-A tengi. Síðan þurfið þið líka að kaupa [USB-A framlengingarsnúru](https://elko.is/vorur/nedis-usb-a-kk-i-usb-a-kvk-snura-135380/CCGB60010BK20){:rel="nofollow"} (eða [venjulega USB-A í USB-A snúru](https://tolvutek.is/Snurur-og-kaplar/USB-kaplar-og-fjoltengi/USB3.0-A-A-kapall%2C-2-metrar%2C-hann-hann%2C-svartur/2_20976.action){:rel="nofollow"} og [millistykki](https://elko.is/vorur/nedis-usb-a-usb-a-millistykki-136890/CCGB60900BK){:rel="nofollow"}) sem liggur yfir í tækið ykkar, og inni í tækinu verður USB Quick Charge hack rafrás sem gerir ykkur kleift að velja spennu fyrir tækið. Ef 5V spenna er nóg þá þurfið þið ekki USB Quick Charge hack rafrásina.    
 
 ###### Hleðslutæki með nútíma USB-C tengi
 
-*   **[5V 5A USB-C hleðslutæki](https://elko.is/vorur/samsung-hledslutaeki-25w-usb-c-hvitt-341276/EPT2510NWEGEU) (ég veit ekki hvort það styðji við hærri spennu með QC 3.0, en það gefur a.m.k. nægan straum við 5V spennu)  
-    **
-*   **[5-20V 65W USB-A og USB-C hleðslutæki](https://elko.is/vorur/nedis-hledslutaeki-gan-65w-pd-311772/WCGPD65W100BK) (styður QC 3.0, sjá nánari upplýsingar [hér](https://nedis.com/en-us/product/computer-and-mobile/power-supply/usb-chargers/550783985/wall-charger-65-w-gan-quick-charge-feature-30-325-a-number-of-outputs-3-usb-a-2x-usb-c-automatic-voltage-selection))**  
-    
+*   [5V 5A USB-C hleðslutæki](https://elko.is/vorur/samsung-hledslutaeki-25w-usb-c-hvitt-341276/EPT2510NWEGEU){:rel="nofollow"} (ég veit ekki hvort það styðji við hærri spennu með QC 3.0, en það gefur a.m.k. nægan straum við 5V spennu)
+*   [5-20V 65W USB-A og USB-C hleðslutæki](https://elko.is/vorur/nedis-hledslutaeki-gan-65w-pd-311772/WCGPD65W100BK){:rel="nofollow"} (styður QC 3.0, sjá nánari upplýsingar [hér](https://nedis.com/en-us/product/computer-and-mobile/power-supply/usb-chargers/550783985/wall-charger-65-w-gan-quick-charge-feature-30-325-a-number-of-outputs-3-usb-a-2x-usb-c-automatic-voltage-selection){:rel="nofollow"}) 
+*   [5-12V 27W USB-C bílahleðslutæki](https://www.oreind.is/product/hledslutaeki-i-bil-med-usb-c-pd-og-usb-a-qc-27w-59521/){:rel="nofollow"} (styður QC 3.0, getur gefið 18W með USB-A tenginu)
 
-*   **[5-12V 27W USB-C bílahleðslutæki](https://www.oreind.is/product/hledslutaeki-i-bil-med-usb-c-pd-og-usb-a-qc-27w-59521/) (styður QC 3.0, getur gefið 18W með USB-A tenginu)  
-    **
+Þessi hleðslutæki eru með nútíma USB-C tengi. Þau eru öflugust. Ég á eftir að gá hvort þau virki fyrir okkur. Síðan þurfið þið líka að kaupa USB-C framlengingarsnúru (það er að segja [USB-A í USB-C snúru](https://elko.is/vorur/nedis-usb-a-i-usb-c-32-gen-1-snura-324922/CCGW61600BK10){:rel="nofollow"} plús [millistykki](https://elko.is/vorur/nedis-usb-a-usb-a-millistykki-136890/CCGB60900BK){:rel="nofollow"}) sem liggur yfir í tækið ykkar, og inni í tækinu verður USB Quick Charge hack rafrás sem gerir ykkur kleift að velja spennu fyrir tækið. Ef 5V spenna er nóg þá þurfið þið ekki USB Quick Charge hack rafrásina.  
 
-Þessi hleðslutæki eru með nútíma USB-C tengi. Þau eru öflugust. Ég á eftir að gá hvort þau virki fyrir okkur. Síðan þurfið þið líka að kaupa USB-C framlengingarsnúru (það er að segja [USB-A í USB-C snúru](https://elko.is/vorur/nedis-usb-a-i-usb-c-32-gen-1-snura-324922/CCGW61600BK10) plús [millistykki](https://elko.is/vorur/nedis-usb-a-usb-a-millistykki-136890/CCGB60900BK)) sem liggur yfir í tækið ykkar, og inni í tækinu verður USB Quick Charge hack rafrás sem gerir ykkur kleift að velja spennu fyrir tækið. Ef 5V spenna er nóg þá þurfið þið ekki USB Quick Charge hack rafrásina.  
+###### Batterí
+
+Ef lokaverkefnið þarf að vera langt frá innstungu getið þið notað USB power bank. Ég hef ekki skoðað þá sjálfur.
 
 
 ##### USB Quick Charge hack
 
 
-Ef þú ætlar að nota íhlut sem þarf hærri spennu en 5V, þá geturðu fengið hvaða spennu sem er á bilinu 3,6V-12V úr USB QC 3.0 hleðslutæki með því að búa til þessa rás. Þú snýrð stilliviðnáminu með skrúfjárni til að stilla spennuna. [USB QC hack rásin](https://fabacademy.org/2018/labs/fablabulb/students/nicolas-decoster/alumnus/projects/qc/) kemur frá Nicholas de Coster í Fab Lab ULB í Brussel. Meiri upplýsingar koma síðar.
+Ef þú ætlar að nota íhlut sem þarf hærri spennu en 5V, þá geturðu fengið hvaða spennu sem er á bilinu 3,6V-12V úr USB QC 3.0 hleðslutæki með því að búa til þessa rás. Þú snýrð stilliviðnáminu með skrúfjárni til að stilla spennuna. [USB QC hack rásin](https://fabacademy.org/2018/labs/fablabulb/students/nicolas-decoster/alumnus/projects/qc/){:rel="nofollow"} kemur frá Nicholas de Coster í Fab Lab ULB í Brussel. Meiri upplýsingar koma síðar.
 
 ##### USB Power Delivery trigger bretti
 
-Góð leið til að fá háa spennu og mikið afl út úr USB hleðslutæki er að nota USB PD trigger bretti. Hér er eitt sem hefur verið [notað í Fab Lab netverkinu](https://fab.cba.mit.edu/classes/863.23/Harvard/people/Sophie/week10.html), svo að ég hugsa að það sé í lagi:
+Góð leið til að fá háa spennu og mikið afl út úr USB hleðslutæki er að nota USB PD trigger bretti. Hér er eitt sem hefur verið [notað í Fab Lab netverkinu](https://fab.cba.mit.edu/classes/863.23/Harvard/people/Sophie/week10.html){:rel="nofollow"}, svo að ég hugsa að það sé í lagi:
 
 ![](https://files.svavar.cc/fab/usb-pd-trigger.jpg)
 
-Brettið fæst á [Amazon](https://www.amazon.com/JUZITAO-Trigger-Charger-Support-Optical/dp/B0D5QRDLQV?th=1).
+Brettið fæst á [Amazon](https://www.amazon.com/JUZITAO-Trigger-Charger-Support-Optical/dp/B0D5QRDLQV?th=1){:rel="nofollow"}.
 
 ### Út fyrir Fab Lab Inventory
 
