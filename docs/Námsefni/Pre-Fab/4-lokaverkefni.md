@@ -171,6 +171,12 @@ Og ég bætti við breakout til að gefa mér aðgang að fleiri pinnum á ört�
 
 Það hljómar ekki eins og mikið mál að sameina tvær tilbúnar rafrásir, en það var mikil vinna að finna hluti sem virkuðu vel og pössuðu saman. Ég skoðaði allt sem tengist róbótum og burstalausum mótorum sem ég fann á netinu, allt! Ég á mörg hundruð bókamerkja eftir þetta tímabil. Það er ekki gefið að hlutir sem virka hver í sínu lagi virki vel saman. Þess vegna er gott að byrja snemma að reka sig á hindranirnar sem koma óhjákvæmilega upp í lokaverkefninu. 
 
+Ég mæli með að eiga [SMD íhlutabók](https://www.amazon.com/gp/product/B0B2ZRPCSF/ref=ppx_yo_dt_b_asin_title_o01_s01?ie=UTF8&th=1){:rel="nofollow"}, ég hugsa að hún hafi nýst best af því sem ég hef keypt.
+
+[On/off takki](https://www.aliexpress.com/item/32799526915.html?spm=a2g0o.order_list.order_list_main.5.21ef1802EnxvDQ){:rel="nofollow"}
+
+[Heat-set inserts fyrir þrívíddarprentaða hluti](https://www.aliexpress.com/item/32843018530.html?spm=a2g0o.order_list.order_list_main.15.21ef1802EnxvDQ){:rel="nofollow"}
+
 #### Mekanískir íhlutir
 
 Hér er samantekt af því sem kom sér best fyrir mig. Í viðbót við þetta er gott að eiga sem mest af Fab Lab Inventoryinu, maður veit aldrei hvað mann vantar af því. Fyrir Output Devices og Machine Week gæti t.d. komið sér vel að eiga MOSFETs.
@@ -182,36 +188,11 @@ Tevélin sem við smíðuðum í fyrravor er byggð á Beehive axes frá Quentin
     </video>
 *Andri sýnir ykkur hvernig þið búið til mótorstýribrettið [hér](https://www.youtube.com/playlist?list=PLs4ifnZzVJmoXc9q0Dzv3aYUWhuwSfHLY).*
 
-Sem betur fer var ég búinn að panta kevlar þráðinn sem við þurftum og líka þrívíddarprentarahjólin sem eru með tveimur legum inni í, svo að við gátum smíðað Beehive axes:
-https://www.ebay.com/itm/134050314711?var=433493467384
-https://www.amazon.com/gp/product/B07KXPD6XZ/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
-Í viðbót við það þurfti Árni að skreppa út í búð og kaupa 5 mm bolta og rær.
+Sem betur fer var ég búinn að panta kevlar þráðinn sem við þurftum (bæði [0,6mm](https://www.mcmaster.com/8800K44/){:rel="nofollow"} og [1mm](https://www.mcmaster.com/8800K43/){:rel="nofollow"} ættu að virka) og líka [þrívíddarprentarahjólin sem eru með tveimur legum inni í](https://www.amazon.com/gp/product/B07KXPD6XZ/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1){:rel="nofollow"}, svo að við gátum smíðað Beehive axes.
 
-Til að byggja upp vélar úr nokkrum Modular Things getur komið sér vel að vera með USB hub með aflgjafa og langar USB snúrur: 
-https://www.amazon.com/gp/product/B0797NZFYP/ref=ppx_od_dt_b_asin_title_s11?ie=UTF8&psc=1
-https://www.amazon.com/gp/product/B0871X8SXY/ref=ppx_od_dt_b_asin_title_s11?ie=UTF8&psc=1
-https://www.amazon.com/gp/product/B0871WRXDQ/ref=ppx_od_dt_b_asin_title_s11?ie=UTF8&psc=1
-https://www.amazon.com/gp/product/B07ZV6FHWF/ref=ppx_od_dt_b_asin_title_s11?ie=UTF8&th=1
+Til að byggja upp vélar úr nokkrum Modular Things getur komið sér vel að vera með [USB hub með aflgjafa](https://www.amazon.com/gp/product/B0797NZFYP/ref=ppx_od_dt_b_asin_title_s11?ie=UTF8&psc=1){:rel="nofollow"} og [USB framlengingarsnúrur](https://www.amazon.com/gp/product/B0871X8SXY/ref=ppx_od_dt_b_asin_title_s11?ie=UTF8&th=1){:rel="nofollow"}.
 
-Svo getur verið ágætt að eiga minnstu og ódýrustu stepper mótorana. Það er einfalt að stýra þeim með stýringunum sem fylgja með þeim, ég gerði það í embedded programming vikunni og hef líka látið nemendurna mína nota þá:
-https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/week04.html#stepper-control-with-rp2040
-Hér eru litlu stepperarnir sem ég pantaði:
-https://www.amazon.com/gp/product/B08DHLKV9L/ref=ppx_od_dt_b_asin_title_s11?ie=UTF8&th=1
-Núna myndi ég reyndar panta 5V útgáfuna, svo að það gangi betur að knýja þá beint úr USB tengi. Mínir virka svo sem, en þeir eru hannaðir fyrir 12V spennu.
-
-Ég pantaði ýmislegt fleira fyrir Machine Week en þurfti ekki að nota það. Þetta sett bíður betri tíma: 
-https://www.amazon.com/gp/product/B08NZSX5FR/ref=ppx_od_dt_b_asin_title_s08?ie=UTF8&psc=1
-
-Svo get ég mælt með að eiga svona íhlutabók, hún hefur komið sér súpervel: 
-https://www.amazon.com/gp/product/B0B2ZRPCSF/ref=ppx_yo_dt_b_asin_title_o01_s01?ie=UTF8&th=1
-
-Á Aliexpress pantaði ég nokkra hluti sem eru ekki í Inventoryinu en komu sér vel fyrir mig.
-
-On/off takki:
-https://www.aliexpress.com/item/32799526915.html?spm=a2g0o.order_list.order_list_main.5.21ef1802EnxvDQ
-
-Heat-set inserts fyrir þrívíddarprentaða hluti:
-https://www.aliexpress.com/item/32843018530.html?spm=a2g0o.order_list.order_list_main.15.21ef1802EnxvDQ
+Ég pantaði ýmislegt fleira fyrir Machine Week en þurfti ekki að nota það. [Þetta sett](https://www.amazon.com/gp/product/B08NZSX5FR/ref=ppx_od_dt_b_asin_title_s08?ie=UTF8&psc=1){:rel="nofollow"} bíður betri tíma. Kannski viljið þið nota það í Machine Week 2025.
 
 Ég reyndi að panta skrúfulagerinn i Inventoryinu hjá McMaster-Carr en fékk neitun frá fyrirtækinu. Ég mátti ekki panta frá Íslandi. Mjög óvenjulegt. En þá fann ég íhlutina bara miklu ódýrari á Aliexpress og þeir hafa komið sér mjög vel. Í inventoryinu eru bara 3 mm skrúfur en ég pantaði fleiri stærðir til að geta líka gert við ýmsa hluti sem koma á Reddingakaffið.
 
