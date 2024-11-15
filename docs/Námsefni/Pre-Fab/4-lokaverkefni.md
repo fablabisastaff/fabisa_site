@@ -74,18 +74,21 @@ En fyrst og fremst er það mest töff að nota örtölvuna eina og sér og setj
 
 ##### Hversu mikið afl þarftu fyrir Neopixels ljósdíóður?
 
-Í [Neopixel Uberguide](https://learn.adafruit.com/adafruit-neopixel-uberguide/powering-neopixels){:rel="nofollow"} stendur að max straumnotkun hverrar Neopixel díóðu sé 60 milliamper.  
+<video controls width=100%>
+        <source src="images/two-neopixels.mp4" type="video/mp4">
+</video>
 
-Samkvæmt því þá getur [þetta USB hleðslutæki](https://kisildalur.is/category/46/products/3264){:rel="nofollow"} knúið allt að 60 Neopixels:
+Í [Neopixel Uberguide](https://learn.adafruit.com/adafruit-neopixel-uberguide/powering-neopixels){:rel="nofollow"} stendur að hámarksstraumnotkun hverrar [Neopixel díóðu](https://www.digikey.com/en/products/detail/adafruit-industries-llc/3094/6058485){:rel="nofollow"} sé 60 milliamper.  
 
-$$\frac{3A}{0.06A}=60$$
+Samkvæmt því þá getur [þetta 3A USB hleðslutæki](https://kisildalur.is/category/46/products/3264){:rel="nofollow"} knúið allt að 50 Neopixels:
+
+$$\frac{3A}{0.06A}=50$$
 
 Það er ætti að duga í nánast hvað sem er.
-  
 
 ##### Hversu mikið afl þarftu til að opna dyr?
 
-![](https://files.svavar.cc/fab/MFG_1528_1512.jpg){: style="width:40%"}
+![](images/solenoid-lock.jpg){: style="width:40%"}
 
 Til að láta [solenoid](https://www.digikey.com/en/products/detail/adafruit-industries-llc/1512/5353651){:rel="nofollow"} opna dyr þarftu um það bil 0,5A með 12V aflgjafa, skv [þessu datasheet](https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1917/1512_Web.pdf){:rel="nofollow"}.  
 
@@ -128,6 +131,9 @@ Ef lokaverkefnið þarf að vera langt frá innstungu getið þið notað USB po
 
 ##### USB Quick Charge hack
 
+<video controls width=100%>
+        <source src="images/usb_qc.mp4" type="video/mp4">
+    </video>
 
 Ef þú ætlar að nota íhlut sem þarf hærri spennu en 5V, þá geturðu fengið hvaða spennu sem er á bilinu 3,6V-12V úr USB QC 3.0 hleðslutæki með því að búa til þessa rás. Þú snýrð stilliviðnáminu með skrúfjárni til að stilla spennuna. [USB QC hack rásin](https://fabacademy.org/2018/labs/fablabulb/students/nicolas-decoster/alumnus/projects/qc/){:rel="nofollow"} kemur frá Nicholas de Coster í Fab Lab ULB í Brussel. Meiri upplýsingar koma síðar.
 
@@ -135,7 +141,7 @@ Ef þú ætlar að nota íhlut sem þarf hærri spennu en 5V, þá geturðu feng
 
 Góð leið til að fá háa spennu og mikið afl út úr USB hleðslutæki er að nota USB PD trigger bretti. Hér er eitt sem hefur verið [notað í Fab Lab netverkinu](https://fab.cba.mit.edu/classes/863.23/Harvard/people/Sophie/week10.html){:rel="nofollow"}, svo að ég hugsa að það sé í lagi:
 
-![](https://files.svavar.cc/fab/usb-pd-trigger.jpg)
+![](images/usb-pd-trigger.jpg){: style="width:40%"}
 
 Brettið fæst á [Amazon](https://www.amazon.com/JUZITAO-Trigger-Charger-Support-Optical/dp/B0D5QRDLQV?th=1){:rel="nofollow"}.
 
