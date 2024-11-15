@@ -76,9 +76,11 @@ En fyrst og fremst er það mest töff að nota örtölvuna eina og sér og setj
 
 Í [Neopixel Uberguide](https://learn.adafruit.com/adafruit-neopixel-uberguide/powering-neopixels){:rel="nofollow"} stendur að max straumnotkun hverrar Neopixel díóðu sé 60 milliamper.  
 
-![](https://files.svavar.cc/fab/neopixel-aflgjafi.jpg)
+Samkvæmt því þá getur [þetta USB hleðslutæki](https://kisildalur.is/category/46/products/3264){:rel="nofollow"} knúið allt að 60 Neopixels:
 
-Samkvæmt þessu þá getur [þetta USB hleðslutæki](https://kisildalur.is/category/46/products/3264){:rel="nofollow"} knúið allt að 60 Neopixels. Það er ætti að duga í nánast hvað sem er.
+$$\frac{3A}{0.06A}=60$$
+
+Það er ætti að duga í nánast hvað sem er.
   
 
 ##### Hversu mikið afl þarftu til að opna dyr?
