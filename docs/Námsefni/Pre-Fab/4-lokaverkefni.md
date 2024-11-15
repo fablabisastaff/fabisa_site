@@ -85,7 +85,7 @@ $$\frac{3A}{0.06A}=60$$
 
 ##### Hversu mikið afl þarftu til að opna dyr?
 
-![](https://files.svavar.cc/fab/MFG_1528_1512.jpg)  
+![](https://files.svavar.cc/fab/MFG_1528_1512.jpg){: style="width:40%"}
 
 Til að láta [solenoid](https://www.digikey.com/en/products/detail/adafruit-industries-llc/1512/5353651){:rel="nofollow"} opna dyr þarftu um það bil 0,5A með 12V aflgjafa, skv [þessu datasheet](https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1917/1512_Web.pdf){:rel="nofollow"}.  
 
