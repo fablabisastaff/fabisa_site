@@ -47,6 +47,18 @@ Traustar:
 - Xiao SAMD21 er með afar góða analog-to-digital breytu til að lesa af skynjurum (SAMD21 er líka til sem stök örtölva í Fab Lab Inventory).
 - Ég læt mína nemendur fá Raspberry Pi Pico W til að setja á brauðbretti og prófa að tengja hluti við. Hún er með RP2040 örtölvuna, marga pinna og WiFi. Ég mæli með [þessum myndböndum](https://www.youtube.com/playlist?list=PLGs0VKk2DiYz8js1SJog21cDhkBqyAhC5){:rel="nofollow"} til að læra MicroPython með Raspberry Pi Pico W (eða Xiao RP2040, ef maður sleppir WiFi hlutanum).
 
+#### Mín meðmæli
+
+Ég mæli sterklega með að nota staka örtölvu eins og ATtiny eða SAMD21 í lokaverkefninu ykkar, frekar en bretti eins og Xiao. Ástæðan er að þá eruð þið komin á hæsta stigið í rafrásagerð í Fab Academy. Þar til árið 2023 var alltaf gerð krafa um að setja örtölvuna á brettið, en núna má nota Xiao bretti og Raspberry Pi Pico W. Það er mjög þægilegt að nota þessi tilbúnu bretti, en þá kynnist þið ekki ákveðnum grundvallaratriðum. 
+
+Ég er ansi hrifinn af SAMD21. Að mínu mati er SAMD21 arftaki ATmega328P örtölvunnar sem er í Arduino Uno.
+
+ATmega328P getur ekki staðið ein og sér; hún þarf kristal til að nota sem klukku og hún þarf líka USB-to-serial converter til þess að hægt sé að forrita hana í gegnum USB tengi. 
+ 
+SAMD21 er miklu öflugri og þægilegri. Hún er með þetta allt innbyggt. SAMD21 getur staðið ein og sér; eina aukaskrefið sem bætist við þegar maður notar SAMD21 er að setja bootloader á hana með forritara. Eftir það er hægt að forrita hana beint í gegnum USB tengi, og hún styður bæði við Arduino IDE og MicroPython. Hún er líka með mjög góða analog-to-digital breytu, sem gerir allar mælingar með analog skynjurum betri. 
+
+En fyrst og fremst er það mest töff að nota örtölvuna eina og sér og setja hana á brettið.
+
 ### Út fyrir Fab Lab Inventory
 
 Fab Lab Inventory er sett af vélum og íhlutum sem á að vera til í hverri Fab Lab smiðju. Mikil hugsun hefur farið í íhlutavalið til að bjóða upp á marga möguleika á eins einfaldan hátt og hægt er, og þannig að það sé hægt að endurtaka hlutina í öðrum smiðjum. Fab Lab Inventory er notaleg laug þar sem við lærum að synda. Í fjarska glittir í [órólegt](https://en.wikipedia.org/wiki/2020%E2%80%932023_global_chip_shortage){:rel="nofollow"} úthaf af rafeindaíhlutum þar sem er ýmislegt spennandi að sjá, en það getur auðveldlega gleypt byrjendur.
