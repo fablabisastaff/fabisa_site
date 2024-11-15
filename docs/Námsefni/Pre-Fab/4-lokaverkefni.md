@@ -146,4 +146,6 @@ Og ég bætti við breakout til að gefa mér aðgang að fleiri pinnum á ört�
 
 Það hljómar ekki eins og mikið mál að sameina tvær tilbúnar rafrásir, en það var mikil vinna að finna hluti sem virkuðu vel og pössuðu saman. Ég skoðaði allt sem tengist róbótum og burstalausum mótorum sem ég fann á netinu, allt! Ég á mörg hundruð bókamerkja eftir þetta tímabil. Það er ekki gefið að hlutir sem virka hver í sínu lagi virki vel saman. Þess vegna er gott að byrja snemma að reka sig á hindranirnar sem koma óhjákvæmilega upp í lokaverkefninu. 
 
-Gangi ykkur vel!
+## Næsta vika
+
+Vika 5: [Tölvuteikning](5-tolvuteikning.md)
