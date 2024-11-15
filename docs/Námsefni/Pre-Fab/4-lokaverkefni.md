@@ -104,6 +104,8 @@ Til að láta [solenoid](https://www.digikey.com/en/products/detail/adafruit-ind
 *   [3-12V 7.2W spennubreytir](https://elko.is/vorur/nedis-spennubreytir-240v-i-3-12v-288101/ACPA006){:rel="nofollow"}
 *   [3-12V 24W spennubreytir](https://kisildalur.is/category/46/products/559){:rel="nofollow"} (líklega bestur miðað við verðið)  
 *   [5-24V 36W spennubreytir](https://elko.is/vorur/nedis-spennubreytir-230v-i-5-24v-217463/ACPA105){:rel="nofollow"}
+Ef þið kaupið svona spennubreyti þá þurfið þið líka að kaupa samsvarandi tengi fyrir rafrásina ykkar:
+https://www.aliexpress.com/item/32815806393.html?spm=a2g0o.order_list.order_list_main.10.21ef1802EnxvDQ
 
 ###### Hleðslutæki með gamaldags USB-A tengi
 
@@ -116,7 +118,6 @@ Minnstu og ódýrustu USB hleðslutækin gefa bara 1A; það er nóg til að kn�
 *   [5-12V 18W USB-A hleðslutæki](https://kisildalur.is/category/46/products/3264){:rel="nofollow"} (**ódýrara, líklega best fyrir flest lokaverkefnin, styður QC 3.0, nánari upplýsingar [hér](https://hocotech.com/product/power/wall-chargers/wall-charger-n26-maxim-qc3-0-eu-cable-set/){:rel="nofollow"})**    
 *   [5-12V 6A USB-A bílahleðslutæki](https://kisildalur.is/category/46/products/1113){:rel="nofollow"} (styður QC 3.0)
 *   [5V 2,4A USB-A power bank](https://kisildalur.is/category/46/products/3573){:rel="nofollow"}
-    
 
 Þessi hleðslutæki eru með gamaldags USB-A tengi. Síðan þurfið þið líka að kaupa [USB-A framlengingarsnúru](https://elko.is/vorur/nedis-usb-a-kk-i-usb-a-kvk-snura-135380/CCGB60010BK20){:rel="nofollow"} (eða [venjulega USB-A í USB-A snúru](https://tolvutek.is/Snurur-og-kaplar/USB-kaplar-og-fjoltengi/USB3.0-A-A-kapall%2C-2-metrar%2C-hann-hann%2C-svartur/2_20976.action){:rel="nofollow"} og [millistykki](https://elko.is/vorur/nedis-usb-a-usb-a-millistykki-136890/CCGB60900BK){:rel="nofollow"}) sem liggur yfir í tækið ykkar, og inni í tækinu verður [USB Quick Charge hack](https://fabacademy.org/2018/labs/fablabulb/students/nicolas-decoster/alumnus/projects/qc/){:rel="nofollow"} rafrás sem gerir ykkur kleift að velja spennu fyrir tækið. Ef 5V spenna er nóg þá þurfið þið ekki USB Quick Charge hack rafrásina.    
 
@@ -151,6 +152,8 @@ Brettið fæst á [Amazon](https://www.amazon.com/JUZITAO-Trigger-Charger-Suppor
 
 ### Út fyrir Fab Lab Inventory
 
+#### Rafeindaíhlutir
+
 Fab Lab Inventory er sett af vélum og íhlutum sem á að vera til í hverri Fab Lab smiðju. Mikil hugsun hefur farið í íhlutavalið til að bjóða upp á marga möguleika á eins einfaldan hátt og hægt er, og þannig að það sé hægt að endurtaka hlutina í öðrum smiðjum. Fab Lab Inventory er notaleg laug þar sem við lærum að synda. Í fjarska glittir í [órólegt](https://en.wikipedia.org/wiki/2020%E2%80%932023_global_chip_shortage){:rel="nofollow"} úthaf af rafeindaíhlutum þar sem er ýmislegt spennandi að sjá, en það getur auðveldlega gleypt byrjendur.
 
 Þegar þið farið út fyrir Fab Lab Inventory þurfið þið að bjarga ykkur upp á eigin spýtur. Ég gerði það í mínu lokaverkefni og fór mjög varlega í það.
@@ -164,6 +167,95 @@ Gott er að nota SOIC og önnur fótspor með a.m.k. 0,4 mm á milli pinna, svo 
 Og ég bætti við breakout til að gefa mér aðgang að fleiri pinnum á örtölvunni, ef ég skyldi vilja bæta einhverjum fídusum við eftir á. Það gæti komið sér vel fyrir ykkur líka. [Breakout bretti](http://tatsuro.homma.fabcloud.io/fabacademy/tips/electronics_design/Attiny3216_breakout_board/){:rel="nofollow"} er prentplata þar sem maður tengir litlu pinnana á IC rás beint við stærri pinna sem er auðvelt að setja á brauðbretti eða tengja jumper víra við. Ég reyndi að bæta við [bretti sem skynjar nærveru fólks og stoppar róbótann](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/final-project/images/sensing_assembly.jpg){:rel="nofollow"} en ég setti 5V á vitlausan pinna á þeirri örtölvu, þannig að það kviknaði aldrei á henni. 
 
 Það hljómar ekki eins og mikið mál að sameina tvær tilbúnar rafrásir, en það var mikil vinna að finna hluti sem virkuðu vel og pössuðu saman. Ég skoðaði allt sem tengist róbótum og burstalausum mótorum sem ég fann á netinu, allt! Ég á mörg hundruð bókamerkja eftir þetta tímabil. Það er ekki gefið að hlutir sem virka hver í sínu lagi virki vel saman. Þess vegna er gott að byrja snemma að reka sig á hindranirnar sem koma óhjákvæmilega upp í lokaverkefninu. 
+
+#### Mekanískir íhlutir
+
+Hér er samantekt af því sem kom sér best fyrir mig. Í viðbót við þetta er gott að eiga sem mest af Fab Lab Inventoryinu, maður veit aldrei hvað mann vantar af því. Fyrir Output Devices og Machine Week gæti t.d. komið sér vel að eiga MOSFETs.
+
+Tevélin sem við smíðuðum í fyrravor er byggð á Beehive axes frá Quentin Bolsée: https://gitlab.cba.mit.edu/quentinbolsee/beehive-axes
+
+<video controls width=100%>
+        <source src="https://files.svavar.cc/fab/beehive-axes.mp4" type="video/mp4">
+    </video>
+
+Sem betur fer var ég búinn að panta kevlar þráðinn sem við þurftum og líka þrívíddarprentarahjólin sem eru með tveimur legum inni í, svo að við gátum smíðað Beehive axes:
+https://www.ebay.com/itm/134050314711?var=433493467384
+https://www.amazon.com/gp/product/B07KXPD6XZ/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
+Í viðbót við það þurfti Árni að skreppa út í búð og kaupa 5 mm bolta og rær.
+
+Til að byggja upp vélar úr nokkrum Modular Things getur komið sér vel að vera með USB hub með aflgjafa og langar USB snúrur: 
+https://www.amazon.com/gp/product/B0797NZFYP/ref=ppx_od_dt_b_asin_title_s11?ie=UTF8&psc=1
+https://www.amazon.com/gp/product/B0871X8SXY/ref=ppx_od_dt_b_asin_title_s11?ie=UTF8&psc=1
+https://www.amazon.com/gp/product/B0871WRXDQ/ref=ppx_od_dt_b_asin_title_s11?ie=UTF8&psc=1
+https://www.amazon.com/gp/product/B07ZV6FHWF/ref=ppx_od_dt_b_asin_title_s11?ie=UTF8&th=1
+
+Svo getur verið ágætt að eiga minnstu og ódýrustu stepper mótorana. Það er einfalt að stýra þeim með stýringunum sem fylgja með þeim, ég gerði það í embedded programming vikunni og hef líka látið nemendurna mína nota þá:
+https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/week04.html#stepper-control-with-rp2040
+Hér eru litlu stepperarnir sem ég pantaði:
+https://www.amazon.com/gp/product/B08DHLKV9L/ref=ppx_od_dt_b_asin_title_s11?ie=UTF8&th=1
+Núna myndi ég reyndar panta 5V útgáfuna, svo að það gangi betur að knýja þá beint úr USB tengi. Mínir virka svo sem, en þeir eru hannaðir fyrir 12V spennu.
+
+Ég pantaði ýmislegt fleira fyrir Machine Week en þurfti ekki að nota það. Þetta sett bíður betri tíma: 
+https://www.amazon.com/gp/product/B08NZSX5FR/ref=ppx_od_dt_b_asin_title_s08?ie=UTF8&psc=1
+
+Svo get ég mælt með að eiga svona íhlutabók, hún hefur komið sér súpervel: 
+https://www.amazon.com/gp/product/B0B2ZRPCSF/ref=ppx_yo_dt_b_asin_title_o01_s01?ie=UTF8&th=1
+
+Á Aliexpress pantaði ég nokkra hluti sem eru ekki í Inventoryinu en komu sér vel fyrir mig.
+
+On/off takki:
+https://www.aliexpress.com/item/32799526915.html?spm=a2g0o.order_list.order_list_main.5.21ef1802EnxvDQ
+
+Heat-set inserts fyrir þrívíddarprentaða hluti:
+https://www.aliexpress.com/item/32843018530.html?spm=a2g0o.order_list.order_list_main.15.21ef1802EnxvDQ
+
+Ég reyndi að panta skrúfulagerinn i Inventoryinu hjá McMaster-Carr en fékk neitun frá fyrirtækinu. Ég mátti ekki panta frá Íslandi. Mjög óvenjulegt. En þá fann ég íhlutina bara miklu ódýrari á Aliexpress og þeir hafa komið sér mjög vel. Í inventoryinu eru bara 3 mm skrúfur en ég pantaði fleiri stærðir til að geta líka gert við ýmsa hluti sem koma á Reddingakaffið:
+1 sett: https://www.aliexpress.com/item/1005003108363940.html?spm=a2g0o.order_detail.order_detail_item.3.7360f19cEzLy0v
+3 sett: https://www.aliexpress.com/item/1005003106092326.html?spm=a2g0o.order_detail.order_detail_item.5.7360f19cEzLy0v
+1 sett: https://www.aliexpress.com/item/1005003108363940.html?spm=a2g0o.order_detail.order_detail_item.7.7360f19cEzLy0v
+1 sett: https://www.aliexpress.com/item/1005004510640911.html?spm=a2g0o.order_detail.order_detail_item.9.7360f19cEzLy0v
+3 sett: https://www.aliexpress.com/item/1005003106092326.html?spm=a2g0o.order_detail.order_detail_item.11.7360f19cEzLy0v
+1 sett: https://www.aliexpress.com/item/1005003105999228.html?spm=a2g0o.order_detail.order_detail_item.13.7360f19cEzLy0v
+1 sett: https://www.aliexpress.com/item/1005004510640911.html?spm=a2g0o.order_detail.order_detail_item.15.7360f19cEzLy0v
+5 sett: https://www.aliexpress.com/item/1005004510633871.html?spm=a2g0o.order_detail.order_detail_item.17.7360f19cEzLy0v
+5 sett: https://www.aliexpress.com/item/1005004510633871.html?spm=a2g0o.order_detail.order_detail_item.19.7360f19cEzLy0v
+3 sett: https://www.aliexpress.com/item/1005003106092326.html?spm=a2g0o.order_detail.order_detail_item.21.7360f19cEzLy0v
+1 sett: https://www.aliexpress.com/item/1005003105933895.html?spm=a2g0o.order_detail.order_detail_item.23.7360f19cEzLy0v
+1 sett: https://www.aliexpress.com/item/1005004510640911.html?spm=a2g0o.order_detail.order_detail_item.25.7360f19cEzLy0v
+1 sett: https://www.aliexpress.com/item/1005004510640911.html?spm=a2g0o.order_detail.order_detail_item.27.7360f19cEzLy0v
+1 sett: https://www.aliexpress.com/item/1005004510633871.html?spm=a2g0o.order_detail.order_detail_item.29.7360f19cEzLy0v
+1 sett: https://www.aliexpress.com/item/1005005248595306.html?spm=a2g0o.order_detail.order_detail_item.31.7360f19cEzLy0v
+1 sett: https://www.aliexpress.com/item/1005003108363940.html?spm=a2g0o.order_detail.order_detail_item.33.7360f19cEzLy0v
+5 sett: https://www.aliexpress.com/item/1005004510633871.html?spm=a2g0o.order_detail.order_detail_item.35.7360f19cEzLy0v
+1 sett: https://www.aliexpress.com/item/1005004510660522.html?spm=a2g0o.order_detail.order_detail_item.37.7360f19cEzLy0v
+3 sett: https://www.aliexpress.com/item/1005003105982526.html?spm=a2g0o.order_detail.order_detail_item.39.7360f19cEzLy0v
+1 sett: https://www.aliexpress.com/item/1005004510640911.html?spm=a2g0o.order_detail.order_detail_item.41.7360f19cEzLy0v
+1 sett: https://www.aliexpress.com/item/1005004510640911.html?spm=a2g0o.order_detail.order_detail_item.43.7360f19cEzLy0v
+1 sett: https://www.aliexpress.com/item/1005004510640911.html?spm=a2g0o.order_detail.order_detail_item.45.7360f19cEzLy0v
+3 sett: https://www.aliexpress.com/item/1005003106092326.html?spm=a2g0o.order_detail.order_detail_item.47.7360f19cEzLy0v
+1 sett: https://www.aliexpress.com/item/1005004510640911.html?spm=a2g0o.order_detail.order_detail_item.49.7360f19cEzLy0v
+5 sett: https://www.aliexpress.com/item/1005004510633871.html?spm=a2g0o.order_detail.order_detail_item.51.7360f19cEzLy0v
+3 sett: https://www.aliexpress.com/item/1005003106092326.html?spm=a2g0o.order_detail.order_detail_item.53.7360f19cEzLy0v
+1 sett: https://www.aliexpress.com/item/1005003106092326.html?spm=a2g0o.order_detail.order_detail_item.55.7360f19cEzLy0v
+1 sett: https://www.aliexpress.com/item/1005004510633871.html?spm=a2g0o.order_detail.order_detail_item.57.7360f19cEzLy0v
+
+Þið þurfið kannski ekki allt þetta, en þetta er sáraódýrt og það er gott að panta núna strax, því að það tekur sinn tíma fyrir pakka að komast hingað með ódýrustu týpu af póstsendingu frá Kína. Til að koma í veg fyrir að vera með margar lengdir af skrúfum í sama þvermáli þá reyndi ég að panta þær lengstu sem ég fann og síðan hef ég sagað af endunum á þeim og slípað, til að fá þær í réttar lengdir. Það er góð aðferð fyrir 3 mm skrúfurnar. Mjórri skrúfurnar klippi ég einfaldlega í sundur með svona græju og slípa síðan endann: https://www.amazon.com/Klein-Tools-1010-Crimper-Stripper/dp/B0000302WX
+
+Ég pantaði líka pinna í nokkrum stærðum, sem er t.d. hægt að nota sem öxla í tæki eða sem „guides“ til að setja saman mót. Innblásturinn kom af þessari frábæru síðu:
+https://lcamtuf.coredump.cx/gcnc/ch5/
+
+Ég pantaði eitt sett af öllum þessum gerðum:
+https://www.aliexpress.com/item/1005003161472293.html?spm=a2g0o.order_detail.order_detail_item.3.3af5f19c7ZTjBa
+https://www.aliexpress.com/item/1005003161472293.html?spm=a2g0o.order_detail.order_detail_item.5.3af5f19c7ZTjBa
+https://www.aliexpress.com/item/1005003161472293.html?spm=a2g0o.order_detail.order_detail_item.7.3af5f19c7ZTjBa
+https://www.aliexpress.com/item/1005003161472293.html?spm=a2g0o.order_detail.order_detail_item.9.3af5f19c7ZTjBa
+https://www.aliexpress.com/item/1005003161472293.html?spm=a2g0o.order_detail.order_detail_item.11.3af5f19c7ZTjBa
+https://www.aliexpress.com/item/1005003161472293.html?spm=a2g0o.order_detail.order_detail_item.13.3af5f19c7ZTjBa
+
+
+#### Efni
+
+Fyrir Molding and Casting vikuna lagði ég mikið á mig til að útvega sílíkonið og pólýúretanið sem er mælt með í Guerilla Guide to CNC and Resing Casting (meiri upplýsingar á síðunni minni að sjálfsögðu), en í Fab Lab Reykjavík eru þau farin að panta hjá innflytjanda í Reykjavík sem ég man ekki hvað heitir og þau efni eru víst þrusugóð líka. Ég hugsa að ég myndi kaupa þar næst sjálfur.
 
 ## Næsta vika
 
