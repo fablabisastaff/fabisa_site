@@ -173,33 +173,35 @@ Og ég bætti við breakout til að gefa mér aðgang að fleiri pinnum á ört�
 
 Ég mæli með að eiga [SMD íhlutabók](https://www.amazon.com/gp/product/B0B2ZRPCSF/ref=ppx_yo_dt_b_asin_title_o01_s01?ie=UTF8&th=1){:rel="nofollow"}, ég hugsa að hún hafi nýst best af því sem ég hef keypt.
 
+Það er gott að eiga til [Dupont Crimping Tool Kit](https://www.amazon.com/Taiss-Ratcheting-Connector-Crimping-Terminal/dp/B0B11RLGDZ?dib=eyJ2IjoiMSJ9.oFS4Q81DJYs7-i_dCxF6yaenan8mGInpQ-9nLW39hPmM4zlB54lZY9lXoBPbntVU7Awj7Cje1nAqnR2kl6MwLiCBx7K1rZtQxTpKqj9TnL_G4c8y_c3khhGjnpnlg433f9NHvR9m4s6bIwtdIJCibuLIlMLnqqwISJL8Sgpbv01LaX-HxmjNnXU1-a8UcTdt16snTtkyF8Pr1rXROLS9alLrILnsN4zbJsnNjrs1edbLKRVpiaoZWKJw_F34YQny59keQ2AI5asM8Vg3u2ZtV8_jEY8C5ytktjnwQHkou0g.7QLMkCh7OpB2R4GGlDusYWfbkqRSUL_lj2YBrorvRWA&dib_tag=se&keywords=dupont+connector+kit&qid=1731675687&sr=8-5){:rel="nofollow"} til þess að setja tengi á víra.
+
 [On/off takki](https://www.aliexpress.com/item/32799526915.html?spm=a2g0o.order_list.order_list_main.5.21ef1802EnxvDQ){:rel="nofollow"}
 
 [Heat-set inserts fyrir þrívíddarprentaða hluti](https://www.aliexpress.com/item/32843018530.html?spm=a2g0o.order_list.order_list_main.15.21ef1802EnxvDQ){:rel="nofollow"}
 
 #### Mekanískir íhlutir
 
-Hér er samantekt af því sem kom sér best fyrir mig. Í viðbót við þetta er gott að eiga sem mest af Fab Lab Inventoryinu, maður veit aldrei hvað mann vantar af því. Fyrir Output Devices og Machine Week gæti t.d. komið sér vel að eiga MOSFETs.
-
-Tevélin sem við smíðuðum í fyrravor er byggð á Beehive axes frá Quentin Bolsée: https://gitlab.cba.mit.edu/quentinbolsee/beehive-axes
+Tevélin sem við smíðuðum í Machine Week 2023 er byggð á [Beehive axes](https://gitlab.cba.mit.edu/quentinbolsee/beehive-axes){:rel="nofollow"} frá Quentin Bolsée: 
 
 <video controls width=100%>
         <source src="https://files.svavar.cc/fab/beehive-axes.mp4" type="video/mp4">
     </video>
-*Andri sýnir ykkur hvernig þið búið til mótorstýribrettið [hér](https://www.youtube.com/playlist?list=PLs4ifnZzVJmoXc9q0Dzv3aYUWhuwSfHLY).*
+*Andri sýnir ykkur hvernig þið búið til Modular Things mótorstýribrettið [hér](https://www.youtube.com/playlist?list=PLs4ifnZzVJmoXc9q0Dzv3aYUWhuwSfHLY).*
 
-Sem betur fer var ég búinn að panta kevlar þráðinn sem við þurftum (bæði [0,6mm](https://www.mcmaster.com/8800K44/){:rel="nofollow"} og [1mm](https://www.mcmaster.com/8800K43/){:rel="nofollow"} ættu að virka) og líka [þrívíddarprentarahjólin sem eru með tveimur legum inni í](https://www.amazon.com/gp/product/B07KXPD6XZ/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1){:rel="nofollow"}, svo að við gátum smíðað Beehive axes.
+Sem betur fer var ég búinn að panta Kevlar þráðinn sem við þurftum (bæði [0,6mm](https://www.mcmaster.com/8800K44/){:rel="nofollow"} og [1mm](https://www.mcmaster.com/8800K43/){:rel="nofollow"} ættu að virka og þið getið líka fundið Kevlar þráð á eBay). Fyrir Beehive axes þarf líka [þrívíddarprentarahjól sem eru með tveimur legum inni í](https://www.amazon.com/gp/product/B07KXPD6XZ/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1){:rel="nofollow"}.
 
 Til að byggja upp vélar úr nokkrum Modular Things getur komið sér vel að vera með [USB hub með aflgjafa](https://www.amazon.com/gp/product/B0797NZFYP/ref=ppx_od_dt_b_asin_title_s11?ie=UTF8&psc=1){:rel="nofollow"} og [USB framlengingarsnúrur](https://www.amazon.com/gp/product/B0871X8SXY/ref=ppx_od_dt_b_asin_title_s11?ie=UTF8&th=1){:rel="nofollow"}.
 
 Ég pantaði ýmislegt fleira fyrir Machine Week en þurfti ekki að nota það. [Þetta sett](https://www.amazon.com/gp/product/B08NZSX5FR/ref=ppx_od_dt_b_asin_title_s08?ie=UTF8&psc=1){:rel="nofollow"} bíður betri tíma. Kannski viljið þið nota það í Machine Week 2025.
 
-Ég reyndi að panta skrúfulagerinn i Inventoryinu hjá McMaster-Carr en fékk neitun frá fyrirtækinu. Ég mátti ekki panta frá Íslandi. Mjög óvenjulegt. En þá fann ég íhlutina bara miklu ódýrari á Aliexpress og þeir hafa komið sér mjög vel. Í inventoryinu eru bara 3 mm skrúfur en ég pantaði fleiri stærðir til að geta líka gert við ýmsa hluti sem koma á Reddingakaffið.
+Ég reyndi að panta skrúfulagerinn i Fab Lab Inventory hjá McMaster-Carr en fékk neitun frá fyrirtækinu. Ég mátti ekki panta frá Íslandi. Mjög óvenjulegt. En þá fann ég íhlutina bara miklu ódýrari á Aliexpress og þeir hafa komið sér mjög vel. Í inventoryinu eru bara 3 mm skrúfur en ég pantaði fleiri stærðir til að geta líka gert við ýmsa hluti sem koma á Reddingakaffið.
 
 Hér er skrúfupöntunin:
 ![Skrúfur](https://files.svavar.cc/fab/aliexpress_skrufur.pdf){ type=application/pdf style="min-height:600px;width:100%" }
 
-Þið þurfið kannski ekki allt þetta, en þetta er sáraódýrt og það er gott að panta núna strax, því að það tekur sinn tíma fyrir pakka að komast hingað með ódýrustu týpu af póstsendingu frá Kína. Til að koma í veg fyrir að vera með margar lengdir af skrúfum í sama þvermáli þá reyndi ég að panta þær lengstu sem ég fann og síðan hef ég sagað af endunum á þeim og slípað, til að fá þær í réttar lengdir. Það er góð aðferð fyrir 3 mm skrúfurnar. Mjórri skrúfurnar klippi ég einfaldlega í sundur með [svona græju](https://www.amazon.com/Klein-Tools-1010-Crimper-Stripper/dp/B0000302WX){:rel="nofollow"} og slípa síðan endann.
+Þið þurfið kannski ekki allt þetta, en þetta er sáraódýrt og það er gott að panta núna strax, því að það tekur sinn tíma fyrir pakka að komast hingað með ódýrustu týpu af póstsendingu frá Kína. 
+
+Til að koma í veg fyrir að vera með margar lengdir af skrúfum í sama þvermáli þá reyndi ég að panta þær lengstu sem ég fann og síðan hef ég sagað af endunum á þeim og slípað, til að fá þær í réttar lengdir. Það er góð aðferð fyrir 3 mm skrúfurnar. Mjórri skrúfurnar klippi ég einfaldlega í sundur með [svona græju](https://www.amazon.com/Klein-Tools-1010-Crimper-Stripper/dp/B0000302WX){:rel="nofollow"} og slípa síðan endann.
 
 Ég pantaði líka pinna í nokkrum stærðum, sem er t.d. hægt að nota sem öxla í tæki eða sem „guides“ til að setja saman mót. Innblásturinn kom úr [Guerilla Guide to CNC and Resin Casting](https://lcamtuf.coredump.cx/gcnc/ch5/){:rel="nofollow"}.
 
