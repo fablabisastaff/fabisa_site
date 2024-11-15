@@ -107,8 +107,7 @@ Til að láta [solenoid](https://www.digikey.com/en/products/detail/adafruit-ind
 *   [3-12V 7.2W spennubreytir](https://elko.is/vorur/nedis-spennubreytir-240v-i-3-12v-288101/ACPA006){:rel="nofollow"}
 *   [3-12V 24W spennubreytir](https://kisildalur.is/category/46/products/559){:rel="nofollow"} (líklega bestur miðað við verðið)  
 *   [5-24V 36W spennubreytir](https://elko.is/vorur/nedis-spennubreytir-230v-i-5-24v-217463/ACPA105){:rel="nofollow"}
-Ef þú kaupir svona spennubreyti þá þarftu líka að kaupa samsvarandi tengi til að setja á rafrásina þína:
-https://www.aliexpress.com/item/32815806393.html?spm=a2g0o.order_list.order_list_main.10.21ef1802EnxvDQ
+Ef þú kaupir svona spennubreyti þá þarftu líka að kaupa [samsvarandi tengi](https://www.aliexpress.com/item/32815806393.html?spm=a2g0o.order_list.order_list_main.10.21ef1802EnxvDQ){:rel="nofollow"} til að setja á rafrásina þína.
 
 ###### Hleðslutæki með gamaldags USB-A tengi
 
@@ -198,6 +197,7 @@ Til að byggja upp vélar úr nokkrum Modular Things getur komið sér vel að v
 
 Hér er skrúfupöntunin:
 ![Skrúfur](https://files.svavar.cc/fab/aliexpress_skrufur.pdf){ type=application/pdf style="min-height:600px;width:100%" }
+[Skrúfupöntunin](https://files.svavar.cc/fab/aliexpress_skrufur.pdf){:rel="nofollow"}
 
 Þið þurfið kannski ekki allt þetta, en þetta er sáraódýrt og það er gott að panta núna strax, því að það tekur sinn tíma fyrir pakka að komast hingað með ódýrustu týpu af póstsendingu frá Kína. 
 
@@ -207,6 +207,7 @@ Til að koma í veg fyrir að vera með margar lengdir af skrúfum í sama þver
 
 Ég pantaði eitt sett af öllum þessum gerðum:
 ![Pinnar](https://files.svavar.cc/fab/aliexpress_pinnar.pdf){ type=application/pdf style="min-height:600px;width:100%" }
+[Pinnapöntunin](https://files.svavar.cc/fab/aliexpress_pinnar.pdf){:rel="nofollow"}
 
 Ég pantaði sett af [mjórri pinnum á Amazon](https://www.amazon.com/gp/product/B09XHJN39M){:rel="nofollow"} og hef notað þá í eitt og annað, t.d. sem lamir fyrir box sem menntaskólanemendurnir mínir hafa búið til.
 
