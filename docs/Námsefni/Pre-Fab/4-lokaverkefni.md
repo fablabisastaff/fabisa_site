@@ -4,7 +4,7 @@
 
 ## Fyrsta uppkast
 
-Í þessari viku skissar þú upp hugmynd að lokaverkefni í Fab Academy. Best er að hafa nokkrar hugmyndir í takinu og nota kröfurnar um lokaverkefni til að velja eina af þeim:
+Í þessari viku skissar þú upp hugmynd að lokaverkefni í Fab Academy og gerir grófan lista af íhlutum sem þig vantar í það. Best er að hafa nokkrar hugmyndir í takinu og nota kröfurnar um lokaverkefni til að velja eina af þeim:
 
 > - Your project should incorporate 
     - 2D and 3D design,
@@ -20,6 +20,8 @@
 Góð dæmi um lokaverkefni eru [hér](http://academy.cba.mit.edu/classes/project_development/index.html){:rel="nofollow"}. 
 
 [Innblástur úr Fab Academy 2024](https://finalprojects.fabacademy.org/#/schedule/2024){:rel="nofollow"}
+
+Ef tími gefst til, þá er góð hugmynd að skoða vikuverkefnin, velta fyrir sér hvað ykkur langar að gera og athuga hvort það þurfi að panta eitthvað í þau. Hér er [dagskráin](https://fabacademy.org/2025/schedule.html); verkefni hverrar viku er að finna neðst á síðunum.
 
 ## Inventory
 
@@ -77,7 +79,7 @@ En fyrst og fremst er það mest töff að nota örtölvuna eina og sér og setj
 ##### Hversu mikið afl þarftu fyrir Neopixels ljósdíóður?
 
 <video controls width=100%>
-        <source src="images/two-neopixels.mp4" type="video/mp4">
+        <source src="https://files.svavar.cc/fab/two-neopixels.mp4" type="video/mp4">
     </video>
 
 Í [Neopixel Uberguide](https://learn.adafruit.com/adafruit-neopixel-uberguide/powering-neopixels){:rel="nofollow"} stendur að hámarksstraumnotkun hverrar [Neopixel díóðu](https://www.digikey.com/en/products/detail/adafruit-industries-llc/3094/6058485){:rel="nofollow"} sé 60 milliamper.  
@@ -134,7 +136,7 @@ Ef lokaverkefnið þarf að vera langt frá innstungu getið þið notað USB po
 ##### USB Quick Charge hack
 
 <video controls width=100%>
-        <source src="images/usb_qc.mp4" type="video/mp4">
+        <source src="https://files.svavar.cc/fab/usb_qc.mp4" type="video/mp4">
     </video>
 
 Ef þú ætlar að nota íhlut sem þarf hærri spennu en 5V, þá geturðu fengið hvaða spennu sem er á bilinu 3,6V-12V úr USB QC 3.0 hleðslutæki með því að búa til þessa rás. Þú snýrð stilliviðnáminu með skrúfjárni til að stilla spennuna. [USB QC hack rásin](https://fabacademy.org/2018/labs/fablabulb/students/nicolas-decoster/alumnus/projects/qc/){:rel="nofollow"} kemur frá Nicholas de Coster í Fab Lab ULB í Brussel. Meiri upplýsingar koma síðar.
