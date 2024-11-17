@@ -172,7 +172,7 @@ Og ég bætti við breakout til að gefa mér aðgang að fleiri pinnum á ört�
 
 Það hljómar ekki eins og mikið mál að sameina tvær tilbúnar rafrásir, en það var mikil vinna að finna hluti sem virkuðu vel og pössuðu saman. Ég skoðaði allt sem tengist róbótum og burstalausum mótorum sem ég fann á netinu, allt! Ég á mörg hundruð bókamerkja eftir þetta tímabil. Það er ekki gefið að hlutir sem virka hver í sínu lagi virki vel saman. Þess vegna er gott að byrja snemma að reka sig á hindranirnar sem koma óhjákvæmilega upp í lokaverkefninu. 
 
-Ég mæli með að eiga [SMD íhlutabók](https://www.amazon.com/gp/product/B0B2ZRPCSF/ref=ppx_yo_dt_b_asin_title_o01_s01?ie=UTF8&th=1){:rel="nofollow"}, ég hugsa að hún hafi nýst best af því sem ég hef keypt.
+Ég mæli með að eiga [SMD íhlutabók](https://www.amazon.com/gp/product/B0B2ZSXLV9/ref=ppx_yo_dt_b_asin_title_o01_s01?ie=UTF8&th=1){:rel="nofollow"}, ég hugsa að hún hafi nýst best af því sem ég hef keypt.
 
 Það er gott að eiga til [Dupont Crimping Tool Kit](https://www.amazon.com/Taiss-Ratcheting-Connector-Crimping-Terminal/dp/B0B11RLGDZ?dib=eyJ2IjoiMSJ9.oFS4Q81DJYs7-i_dCxF6yaenan8mGInpQ-9nLW39hPmM4zlB54lZY9lXoBPbntVU7Awj7Cje1nAqnR2kl6MwLiCBx7K1rZtQxTpKqj9TnL_G4c8y_c3khhGjnpnlg433f9NHvR9m4s6bIwtdIJCibuLIlMLnqqwISJL8Sgpbv01LaX-HxmjNnXU1-a8UcTdt16snTtkyF8Pr1rXROLS9alLrILnsN4zbJsnNjrs1edbLKRVpiaoZWKJw_F34YQny59keQ2AI5asM8Vg3u2ZtV8_jEY8C5ytktjnwQHkou0g.7QLMkCh7OpB2R4GGlDusYWfbkqRSUL_lj2YBrorvRWA&dib_tag=se&keywords=dupont+connector+kit&qid=1731675687&sr=8-5){:rel="nofollow"} til þess að setja tengi á víra.
 
