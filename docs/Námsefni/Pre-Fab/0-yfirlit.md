@@ -2,7 +2,7 @@
 
 ## Nemendur
 
-[Bjartur Leó Hlynsson](https://bjarturleohlynsson.github.io/fab-academy-test-site/){:rel="nofollow"}
+[Bjartur Leó Hlynsson](https://fab-lab-bjartur.tech/){:rel="nofollow"}
 
 Evert Stefán Jensson
 
