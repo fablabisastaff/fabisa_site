@@ -69,31 +69,16 @@ Góðar stillingar í FreeCAD:
 [Smooth paths after drawing](https://www.youtube.com/watch?v=EFHLF1hcrjg)
 
 ### Lógó
-=== "1"
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/uBKYaQV7OM4?si=_KwNbKvTixkewkQX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-=== "2"
+
+=== "Custom text"
     <iframe width="560" height="315" src="https://www.youtube.com/embed/BI8Nw69Vn5o?si=C3P0JmsuHpzZxg-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-=== "3"
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/9AxIW39TeAk?si=40Zcm4VTsUnJ5N18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-=== "4"
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/6jZ-5CrblfA?si=rkgDltl36DoZ8yJB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-=== "5"
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/E9nsnamcK9o?si=d0DmXFXe7blV1GJ5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-=== "6"
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/VaJWiVZdqSo?si=-oFVwwXuFVufg-wq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-=== "7"
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/EX4T9sw6zIM?si=gbfDtg1vLEYAuseh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-=== "8"
+=== "Tech letters"
     <iframe width="560" height="315" src="https://www.youtube.com/embed/bKXhceZ074I?si=YPfTefsQ9ZEcDfFN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-=== "9"
+=== "Initials"
     <iframe width="560" height="315" src="https://www.youtube.com/embed/tw6hWb58qp0?si=zY0rWEtANh56Ph4i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-=== "10"
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/4kJRGu0wZIQ?si=MsWxWqo3V4yTYomO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-=== "11"
+=== "Elegant"
     <iframe width="560" height="315" src="https://www.youtube.com/embed/T8zqiNTwQ1I?si=JXZyeQCalsI1xDyc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-=== "12"
+=== "Shapes"
     <iframe width="560" height="315" src="https://www.youtube.com/embed/HeRAFSX2vaM?si=E6WS9qFvl7I4AI1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-=== "13"
+=== "Strokes"
     <iframe width="560" height="315" src="https://www.youtube.com/embed/UEnMwZuqr3o?si=LGe2-wkjX-d_68s_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-=== "Fyrir lengra komna"
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/HhfmXNTRj_E?si=Qw7cOi9IWa2q4Ae7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
