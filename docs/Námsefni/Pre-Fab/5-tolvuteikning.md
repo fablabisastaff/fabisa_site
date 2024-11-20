@@ -6,7 +6,9 @@ Eitt af því sem Fab Academy nemendur eiga í mestum vandræðum með, en gefur
 
 Það er frábært að læra að nota öll tækin í smiðjunni, en þú getur samt ekki smíðað allt sem þér dettur í hug fyrr en þú getur teiknað það. Eftir því sem þú byggir upp CAD hæfnina þína verða tækin í smiðjunni öflugri og þú getur betur hjálpað fólki sem kemur inn með alls konar hugmyndir.
 
-## Ondsel
+## FreeCAD
+
+Sum af þessum myndböndum voru gerð í Ondsel, sem var útgáfa af FreeCAD. Fyrir stuttu var ákveðið að hætta þróun Ondsel og nú er flest sem var þróað þar komið í FreeCAD 1.0.0. Skipanirnar virka því eins í báðum forritum.
 
 === "LEGO"
     <iframe width="560" height="315" src="https://www.youtube.com/embed/4AdMJ4P_9g4?si=WbueXdXOYh01K36_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -31,7 +33,7 @@ Eitt af því sem Fab Academy nemendur eiga í mestum vandræðum með, en gefur
 === "Slicing"
     <iframe width="560" height="315" src="https://www.youtube.com/embed/rA3NuEC1R9g?si=xEyccVLmi5IpT7QP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Góðar stillingar í Ondsel:
+Góðar stillingar í FreeCAD:
 
 - Ég mæli með að [stilla músina svona](https://github.com/user-attachments/assets/92cc200b-430b-4a10-b6b7-a378fe45ee48).
 - Þið fáið upp [Property View panel svona](https://github.com/user-attachments/assets/acdf3e7a-a5ee-46e7-9fee-77053b6b4a6a).
@@ -116,10 +118,10 @@ Góðar stillingar í Ondsel:
     <iframe width="560" height="315" src="https://www.youtube.com/embed/HeRAFSX2vaM?si=Nn-GM-sylDxLhIy1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 === "14"
     <iframe width="560" height="315" src="https://www.youtube.com/embed/UEnMwZuqr3o?si=LGe2-wkjX-d_68s_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-=== "Masterclass"
+=== "Fyrir lengra komna"
     <iframe width="560" height="315" src="https://www.youtube.com/embed/HhfmXNTRj_E?si=Qw7cOi9IWa2q4Ae7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## GIMP
+## GIMP (GNU Image Manipulation Program)
 
 === "Word art"
     <iframe width="560" height="315" src="https://www.youtube.com/embed/6EFoz6ic0Wc?si=nWyYQywL06MxrSPC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
