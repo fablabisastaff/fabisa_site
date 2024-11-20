@@ -8,7 +8,7 @@ Eitt af því sem Fab Academy nemendur eiga í mestum vandræðum með, en gefur
 
 ## FreeCAD
 
-*Sum af þessum myndböndum voru gerð í Ondsel, sem var útgáfa af FreeCAD. Fyrir stuttu var ákveðið að hætta þróun Ondsel og nú er flest sem var þróað þar komið í FreeCAD 1.0. Skipanirnar virka því eins í báðum forritum.*
+*Sum af þessum myndböndum voru gerð í Ondsel Engineering Suite, sem var útgáfa af FreeCAD. Fyrir stuttu var ákveðið að hætta þróun Ondsel og nú er flest sem var þróað þar komið í FreeCAD 1.0. Skipanirnar virka því eins í báðum forritum.*
 
 === "LEGO"
     <iframe width="560" height="315" src="https://www.youtube.com/embed/4AdMJ4P_9g4?si=WbueXdXOYh01K36_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -38,27 +38,6 @@ Góðar stillingar í FreeCAD:
 - Ég mæli með að [stilla músina svona](https://github.com/user-attachments/assets/92cc200b-430b-4a10-b6b7-a378fe45ee48).
 - Þið fáið upp [Property View panel svona](https://github.com/user-attachments/assets/acdf3e7a-a5ee-46e7-9fee-77053b6b4a6a).
 - Þið getið [stækkað punkta í skissum svona](images/marker-size-no-audio.mp4), svo að það sé auðveldara að smella á þá.
-
-## Blender
-
-=== "Hamar"
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/elUJCEC06r8?si=kr9E2sS1oy73FW4q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-=== "Fígúra"
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/9xAumJRKV6A?si=j_Q6KisYDndg7Uym" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-=== "Hús"
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/LaUVDQ8eFSY?si=ElAUvVQDQRPAJMyD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-=== "Texti"
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/1pxTCifr-GE?si=isOpWEWC6HUyardS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-=== "Upphleypt áferð"
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Cnot0rbXrsQ?si=Z4LOjTzPrczOgK1o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-=== "Lithophane"
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/wMy50wf8KCI?si=028kiooqt3EzA32u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-=== "Kleinuhringur"
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/B0J27sf9N1Y?si=sDsHws_yfNuVQ7Gj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-=== "Sverð"
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/98qKfdJRzr0?si=0gXgWRgNm89KuxpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-[Fleiri Blender myndbönd](https://www.reddit.com/r/blender/comments/11y0qm0/best_tutorialguide_to_learn_blender_for_a/)
 
 ## Inkscape
 ### Kynning
