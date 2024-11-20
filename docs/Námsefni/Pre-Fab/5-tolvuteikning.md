@@ -59,10 +59,15 @@ Góðar stillingar í Ondsel:
 [Fleiri Blender myndbönd](https://www.reddit.com/r/blender/comments/11y0qm0/best_tutorialguide_to_learn_blender_for_a/)
 
 ## Inkscape
+### Kynning
 
-Stutt ráð
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-_KJZPOYBeA?si=UVfIbaLTnaslPPCs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Stutt ráð
 
 [Unique typography](https://youtube.com/shorts/em8nQeE5DJw?si=VTxHrGTx2De6PPXO)
+
+[Perspective text](https://youtube.com/shorts/xqJQoxrLJak?si=QxAKnAELnC6rmQ0t)
 
 [Rotate pattern](https://youtube.com/shorts/uJny3tSsH-4?si=oLoyM83aODeDYN8v)
 
@@ -78,8 +83,11 @@ Stutt ráð
 
 [3D cubes](https://youtube.com/shorts/mRVhNyXCDUQ?si=KCQneC4g3Fjd_wfu)
 
-[How to round paths](https://youtu.be/WX65w47BmSA?si=EYEa0cCDWuW3X6d-)
+[How to round corners](https://youtu.be/WX65w47BmSA?si=EYEa0cCDWuW3X6d-)
 
+[Smooth paths after drawing](https://www.youtube.com/watch?v=EFHLF1hcrjg)
+
+### Lógó
 === "1"
     <iframe width="560" height="315" src="https://www.youtube.com/embed/uBKYaQV7OM4?si=_KwNbKvTixkewkQX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 === "2"
@@ -104,6 +112,10 @@ Stutt ráð
     <iframe width="560" height="315" src="https://www.youtube.com/embed/T8zqiNTwQ1I?si=JXZyeQCalsI1xDyc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 === "12"
     <iframe width="560" height="315" src="https://www.youtube.com/embed/HeRAFSX2vaM?si=E6WS9qFvl7I4AI1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+=== "13"
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/HeRAFSX2vaM?si=Nn-GM-sylDxLhIy1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+=== "14"
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/UEnMwZuqr3o?si=LGe2-wkjX-d_68s_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 === "Masterclass"
     <iframe width="560" height="315" src="https://www.youtube.com/embed/HhfmXNTRj_E?si=Qw7cOi9IWa2q4Ae7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
