@@ -97,10 +97,3 @@ Góðar stillingar í FreeCAD:
     <iframe width="560" height="315" src="https://www.youtube.com/embed/UEnMwZuqr3o?si=LGe2-wkjX-d_68s_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 === "Fyrir lengra komna"
     <iframe width="560" height="315" src="https://www.youtube.com/embed/HhfmXNTRj_E?si=Qw7cOi9IWa2q4Ae7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-## GIMP
-
-=== "Word art"
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/6EFoz6ic0Wc?si=nWyYQywL06MxrSPC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-=== "Lógó"
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/8FNvaEuuD8I?si=61JZQ7edjUEhJtor" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
