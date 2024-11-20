@@ -42,7 +42,23 @@ Góðar stillingar í FreeCAD:
 ## Inkscape
 ### Kynning
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-_KJZPOYBeA?si=UVfIbaLTnaslPPCs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rFYQW2DCM2I?si=cjsyLpGYfjVR_OP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Lógó
+
+=== "Custom text"
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/BI8Nw69Vn5o?si=C3P0JmsuHpzZxg-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+=== "Tech letters"
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/bKXhceZ074I?si=YPfTefsQ9ZEcDfFN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+=== "Initials"
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/tw6hWb58qp0?si=zY0rWEtANh56Ph4i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+=== "Elegant"
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/T8zqiNTwQ1I?si=JXZyeQCalsI1xDyc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+=== "Shapes"
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/HeRAFSX2vaM?si=E6WS9qFvl7I4AI1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+=== "Strokes"
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/UEnMwZuqr3o?si=LGe2-wkjX-d_68s_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ### Stutt ráð
 
@@ -67,18 +83,3 @@ Góðar stillingar í FreeCAD:
 [How to round corners](https://youtu.be/WX65w47BmSA?si=EYEa0cCDWuW3X6d-)
 
 [Smooth paths after drawing](https://www.youtube.com/watch?v=EFHLF1hcrjg)
-
-### Lógó
-
-=== "Custom text"
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/BI8Nw69Vn5o?si=C3P0JmsuHpzZxg-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-=== "Tech letters"
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/bKXhceZ074I?si=YPfTefsQ9ZEcDfFN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-=== "Initials"
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/tw6hWb58qp0?si=zY0rWEtANh56Ph4i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-=== "Elegant"
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/T8zqiNTwQ1I?si=JXZyeQCalsI1xDyc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-=== "Shapes"
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/HeRAFSX2vaM?si=E6WS9qFvl7I4AI1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-=== "Strokes"
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/UEnMwZuqr3o?si=LGe2-wkjX-d_68s_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
