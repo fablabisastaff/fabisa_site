@@ -60,6 +60,18 @@ Góðar stillingar í Ondsel:
 
 ## Inkscape
 
+Stutt ráð
+
+[Unique typography](https://youtube.com/shorts/em8nQeE5DJw?si=VTxHrGTx2De6PPXO)
+[Rotate pattern](https://youtube.com/shorts/uJny3tSsH-4?si=oLoyM83aODeDYN8v)
+[Object division](https://youtube.com/shorts/6jVaVTWy6V4?si=liCpuGmNC06gLmWK)
+[Blur text effect](https://youtube.com/shorts/z_I19C8CeVM?si=yiZrHenIUEQ3MiiO)
+[Manual image trace](https://youtube.com/shorts/9ubDEmB1WIs?si=OJIgRpgouonT2n9t)
+[Round selected corners](https://www.youtube.com/shorts/mEf7hbSWMuU)
+[Sunburst](https://youtube.com/shorts/w9TJbzb1QaE?si=MVPyLAdqKGhxyWuE)
+[3D cubes](https://youtube.com/shorts/mRVhNyXCDUQ?si=KCQneC4g3Fjd_wfu)
+[How to round paths](https://youtu.be/WX65w47BmSA?si=EYEa0cCDWuW3X6d-)
+
 === "1"
     <iframe width="560" height="315" src="https://www.youtube.com/embed/uBKYaQV7OM4?si=_KwNbKvTixkewkQX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 === "2"
