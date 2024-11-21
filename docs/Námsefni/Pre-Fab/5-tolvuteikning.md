@@ -4,9 +4,11 @@
 
 Eitt af því sem Fab Academy nemendur eiga í mestum vandræðum með, en gefur þeim jafnframt mesta frelsið þegar þeir ná tökum á því, er tölvuteikning. Við skulum taka hana fyrir í þessari viku. 
 
-Það er frábært að læra að nota öll tækin í smiðjunni, en þú getur samt ekki smíðað allt sem þér dettur í hug fyrr en þú getur teiknað það. Eftir því sem þú byggir upp CAD hæfnina þína verða tækin í smiðjunni öflugri og þú getur betur hjálpað fólki sem kemur inn með alls konar hugmyndir.
+Það er frábært að læra að nota öll tækin í smiðjunni, en þú getur samt ekki smíðað allt sem þér dettur í hug fyrr en þú getur teiknað það. Eftir því sem þú byggir upp teiknihæfnina þína verða tækin í smiðjunni öflugri og þú getur gert fleiri hugmyndir að veruleika.
 
 ## FreeCAD
+
+Í þessari viku finnst mér mikilvægast að kynna málsetningar og skorður fyrir ykkur í CAD forriti. Þetta eru nauðsynleg verkfæri til að teikna nákvæma hluti og það tekur tíma að ná tökum á þeim.
 
 *Sum af þessum myndböndum voru gerð í Ondsel Engineering Suite, sem var útgáfa af FreeCAD. Fyrir stuttu var ákveðið að hætta þróun Ondsel og nú er flest sem var þróað þar komið í FreeCAD 1.0. Skipanirnar virka því eins í báðum forritum.*
 
@@ -40,6 +42,11 @@ Góðar stillingar í FreeCAD:
 - Þið getið [stækkað punkta í skissum svona](images/marker-size-no-audio.mp4), svo að það sé auðveldara að smella á þá.
 
 ## Inkscape
+
+Inkscape er eitt gagnlegasta og mest notaða forritið í hverri Fab Lab smiðju. Ef þú þekkir það vel þá geturðu sleppt þessari æfingu.
+
+Horfðu á 13 mínútna langa kynningarmyndband til þess að fá yfirlit yfir helstu verkfærin í Inkscape. Teiknaðu síðan einlitt lógó til að nota á Fab Academy síðunni þinni. Lógóið þarf að vera nógu einfalt til þess að sjást við hliðina á nafni síðunnar í vafraflipa. Þú getur byggt lógóið á teikningu, ljósmynd, skammstöfuninni þinni eða einhverju öðru sem þér dettur í hug. Notaðu myndböndin hér fyrir neðan eða aðrar leiðbeiningar sem þú finnur á netinu til þess að hjálpa þér að teikna.
+
 ### Kynning
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rFYQW2DCM2I?si=cjsyLpGYfjVR_OP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -61,6 +68,8 @@ Góðar stillingar í FreeCAD:
 
 
 ### Stutt ráð
+
+Hér eru örstutt myndbönd sem fara yfir Inkscape verkfæri á ofurhraða. Þú getur athugað hvort eitthvert þeirra gagnist þér í lógóhönnuninni.
 
 [Unique typography](https://youtube.com/shorts/em8nQeE5DJw?si=VTxHrGTx2De6PPXO)
 
