@@ -1,6 +1,6 @@
 # Tölvuteikning
 
-(Ef við höfum ekki tíma til að fara í gegnum allt efnið, þá mætir tölvuteikning afgangi)
+*Föstudagurinn 22. nóvember 2024 kl. 14:10*
 
 Eitt af því sem Fab Academy nemendur eiga í mestum vandræðum með, en gefur þeim jafnframt mesta frelsið þegar þeir ná tökum á því, er tölvuteikning. Við skulum taka hana fyrir í þessari viku. 
 
