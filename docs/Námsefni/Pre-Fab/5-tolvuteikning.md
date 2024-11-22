@@ -26,7 +26,7 @@ Góðar stillingar í FreeCAD:
 
 Það eru til fleiri stillingar, t.d. touchpad til að teikna í fartölvu:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XjdqJNcu2XA?si=lD_X31Rnz1UatJcd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XjdqJNcu2XA?si=lD_X31Rnz1UatJcd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>*Ég mæli með að horfa á þetta myndband til að kynnast því hvernig maður hreyfir sig í þrívíðu rúmi í FreeCAD.*
 
 [Fleiri músarstillingar](https://wiki.freecad.org/Mouse_navigation)
 
