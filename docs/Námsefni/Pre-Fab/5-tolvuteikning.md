@@ -12,6 +12,8 @@ Eitt af því sem Fab Academy nemendur eiga í mestum vandræðum með, en gefur
 
 Í þessari viku finnst mér mikilvægast að kynna málsetningar og skorður fyrir ykkur í CAD forriti. Þetta eru nauðsynleg verkfæri til að teikna nákvæma hluti og það tekur tíma að ná tökum á þeim.
 
+### Stillingar
+
 Góðar stillingar í FreeCAD:
 
 - Ég mæli með að [stilla músina svona](https://github.com/user-attachments/assets/92cc200b-430b-4a10-b6b7-a378fe45ee48).
@@ -26,7 +28,9 @@ Góðar stillingar í FreeCAD:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XjdqJNcu2XA?si=lD_X31Rnz1UatJcd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Hér eru örstutt myndbönd að hætti Neil, sem útskýra málsetningar og skorður í tvívíðum skissum:
+### Skorður og málsetningar
+
+Hér eru örstutt myndbönd að hætti Neil, sem útskýra skorður (constraints) og málsetningar (dimensions) í tvívíðum skissum:
 
 ![Sketch icon](https://wiki.freecad.org/images/f/f1/Sketcher_NewSketch.svg)
 [Sketch and Extrude](images/sketch-extrude.mp4)
@@ -94,9 +98,13 @@ Teiknið síðan einlitt lógó til að nota á Fab Academy síðunum ykkar. Ló
 
 ![Hundastimpill](images/hundastimpill.jpg)
 
-[Hafey Hallgrímsdóttir](https://fabacademy.org/2023/labs/isafjordur/students/hafey-hallgrimsdottir/About_me.html) hefur útbúið bestu leiðina til að læra að teikna í Inkscape fyrir vínylskurð og laserskurð. Tékkið á þessu:
+[Hafey Hallgrímsdóttir](https://fabacademy.org/2023/labs/isafjordur/students/hafey-hallgrimsdottir/About_me.html) hefur útbúið bestu leiðina til að læra að teikna í Inkscape fyrir vínylskurð og laserskurð. Ef þið farið í gegnum öll verkefnin, þá verðið þið sterk í Inkscape:
 
 [FABMENNT](https://www.fabmennt.com/){ .md-button }
+
+Við notum efnið frá Hafeyju mjög mikið, eins og má sjá hér á heimasíðunni undir Námsefni -> Grunnskóli.
+
+Hér er fleira sem gæti gagnast ykkur:
 
 ### Kynning
 
