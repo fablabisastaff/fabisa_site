@@ -10,6 +10,12 @@ Eitt af því sem Fab Academy nemendur eiga í mestum vandræðum með, en gefur
 
 Í þessari viku finnst mér mikilvægast að kynna málsetningar og skorður fyrir ykkur í CAD forriti. Þetta eru nauðsynleg verkfæri til að teikna nákvæma hluti og það tekur tíma að ná tökum á þeim.
 
+Góðar stillingar í FreeCAD:
+
+- Ég mæli með að [stilla músina svona](https://github.com/user-attachments/assets/92cc200b-430b-4a10-b6b7-a378fe45ee48).
+- Þið fáið upp [Property View panel svona](https://github.com/user-attachments/assets/acdf3e7a-a5ee-46e7-9fee-77053b6b4a6a).
+- Þið getið [stækkað punkta í skissum svona](images/marker-size-no-audio.mp4), svo að það sé auðveldara að smella á þá.
+
 Hér eru örstutt myndbönd að hætti Neil, sem útskýra málsetningar og skorður í tvívíðum skissum:
 
 ![Sketch icon](https://wiki.freecad.org/images/f/f1/Sketcher_NewSketch.svg)
@@ -54,21 +60,17 @@ Verkefnið ykkar er að teikna helming af handfangi fyrir stimpil í Sketcher og
 ![Stimpilhandfang](images/stimpilhandfang.png)
 *Notið Revolve skipunina í Part workbench til að breyta 2D skissunni í 3D hlut.*
 
-Ef þið eigið ekki til gúmmí til að laserskera, þá get ég póstlagt sýnishorn til ykkar:
-
-![Hundastimpill](images/hundastimpill.jpg)
-
-Góðar stillingar í FreeCAD:
-
-- Ég mæli með að [stilla músina svona](https://github.com/user-attachments/assets/92cc200b-430b-4a10-b6b7-a378fe45ee48).
-- Þið fáið upp [Property View panel svona](https://github.com/user-attachments/assets/acdf3e7a-a5ee-46e7-9fee-77053b6b4a6a).
-- Þið getið [stækkað punkta í skissum svona](images/marker-size-no-audio.mp4), svo að það sé auðveldara að smella á þá.
-
 ## Inkscape
 
 Inkscape er eitt gagnlegasta og mest notaða forritið í hverri Fab Lab smiðju. Ef þú þekkir það vel þá geturðu sleppt þessari æfingu.
 
-Horfðu á 13 mínútna langa kynningarmyndband til þess að fá yfirlit yfir helstu verkfærin í Inkscape. Teiknaðu síðan einlitt lógó til að nota á Fab Academy síðunni þinni. Lógóið þarf að vera nógu einfalt til þess að sjást við hliðina á nafni síðunnar í vafraflipa. Þú getur byggt lógóið á teikningu, ljósmynd, skammstöfuninni þinni eða einhverju öðru sem þér dettur í hug. Notaðu myndböndin hér fyrir neðan eða aðrar leiðbeiningar sem þú finnur á netinu til þess að hjálpa þér að teikna.
+Horfðu á 13 mínútna langa kynningarmyndband til þess að fá yfirlit yfir helstu verkfærin í Inkscape. 
+
+Teiknaðu síðan einlitt lógó til að nota á Fab Academy síðunni þinni. Lógóið þarf að vera nógu einfalt til þess að sjást við hliðina á nafni síðunnar í vafraflipa. Þú getur byggt lógóið á teikningu, ljósmynd, skammstöfuninni þinni eða einhverju öðru sem þér dettur í hug. Notaðu myndböndin hér fyrir neðan eða aðrar leiðbeiningar sem þú finnur á netinu til þess að hjálpa þér að teikna.
+
+Þið getið síðan laserskorið stimpil með lógóinu ef þið eruð í stuði. Ef þið eigið ekki til gúmmí til að laserskera, þá get ég póstlagt sýnishorn til ykkar.
+
+![Hundastimpill](images/hundastimpill.jpg)
 
 ### Kynning
 
