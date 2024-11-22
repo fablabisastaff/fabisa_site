@@ -64,7 +64,7 @@ Verkefnið ykkar er að teikna helming af handfangi fyrir stimpil í Sketcher og
 
 Inkscape er eitt gagnlegasta og mest notaða forritið í hverri Fab Lab smiðju. Ef þú þekkir það vel þá geturðu sleppt þessari æfingu.
 
-Horfðu á 13 mínútna langa kynningarmyndband til þess að fá yfirlit yfir helstu verkfærin í Inkscape. 
+Horfðu á 13 mínútna langa kynningarmyndbandið til þess að fá yfirlit yfir helstu verkfærin í Inkscape. 
 
 Teiknaðu síðan einlitt lógó til að nota á Fab Academy síðunni þinni. Lógóið þarf að vera nógu einfalt til þess að sjást við hliðina á nafni síðunnar í vafraflipa. Þú getur byggt lógóið á teikningu, ljósmynd, skammstöfuninni þinni eða einhverju öðru sem þér dettur í hug. Notaðu myndböndin hér fyrir neðan eða aðrar leiðbeiningar sem þú finnur á netinu til þess að hjálpa þér að teikna.
 
@@ -94,7 +94,7 @@ Teiknaðu síðan einlitt lógó til að nota á Fab Academy síðunni þinni. L
 
 ### Stutt ráð
 
-Hér eru örstutt myndbönd sem fara yfir Inkscape verkfæri á ofurhraða. Þú getur athugað hvort eitthvert þeirra gagnist þér í lógóhönnuninni.
+Hér eru örstutt myndbönd sem fara yfir Inkscape verkfæri á ofurhraða. Þú getur athugað hvort eitthvert þeirra gagnist þér í lógóhönnuninni. Hugsanlega fara þau of hratt í hlutina.
 
 [Unique typography](https://youtube.com/shorts/em8nQeE5DJw?si=VTxHrGTx2De6PPXO)
 
