@@ -4,7 +4,7 @@
 
 [Bjartur Leó Hlynsson](https://fab-lab-bjartur.tech/){:rel="nofollow"}
 
-Evert Stefán Jensson
+[Evert Stefán Jensson](https://cptstebbi.github.io/fabtest/)
 
 Högni Friðriksson
 
