@@ -46,6 +46,12 @@ document.getElementById("demo").innerHTML = "Hello JavaScript";
 
 Í stað þess að skrifa síðuna með HTML kóða þá skrifum við í Markdown, sem er einfaldara og læsilegra, og látum Material for MkDocs um að breyta Markdown skránni okkar í vel uppsett HTML skjal með innihaldinu okkar, CSS stílforskrift sem segir til um leturgerðir, liti og fleira, og JavaScript sem framkallar virkni síðunnar, eins og t.d. [leitarmöguleikann](https://squidfunk.github.io/mkdocs-material/setup/setting-up-site-search/){:rel="nofollow"}. Allt sjálfvirkt og án þess að við þurfum að líta undir húddið. En það er gott að vita að það má setja HTML, CSS og JavaScript kóða inn í Markdown skjölin ef maður vill sérsníða eitthvað. Til dæmis kafaði [Doddi](https://fabacademy.org/archives/2015/eu/students/gunnarsson.thorarinn_b.b/index.html){:rel="nofollow"} ofan í CSS kóðann á fabisa.is til að sérsníða forsíðuna.
 
+Farið eftir þessu myndbandi til að setja upp Material for MkDocs heimasíðu og birta á netinu með GitHub Pages:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-YA_dA8C20?si=I33CkjIFxEk_lljO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Hér eru helstu skrefin í ferlinu:
+
 1. Setjið fyrst upp [Python](https://www.python.org/){:rel="nofollow"}.
 1. Næst er það Git [uppsetning](https://git-scm.com/){:rel="nofollow"}, [tenging við heimasíðuna þína](https://fabacademy.org/2023/labs/isafjordur/students/svavar-konradsson/assignments/week01.html#git-setup){:rel="nofollow"}.
 1. Og að lokum Material for MkDocs [uppsetning](https://squidfunk.github.io/mkdocs-material/getting-started/){:rel="nofollow"}, [stillingar](https://squidfunk.github.io/mkdocs-material/setup/){:rel="nofollow"}, [fídusar](https://squidfunk.github.io/mkdocs-material/reference/){:rel="nofollow"}.
