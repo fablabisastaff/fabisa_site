@@ -16,6 +16,14 @@ Góðar stillingar í FreeCAD:
 - Þið fáið upp [Property View panel svona](https://github.com/user-attachments/assets/acdf3e7a-a5ee-46e7-9fee-77053b6b4a6a).
 - Þið getið [stækkað punkta í skissum svona](images/marker-size-no-audio.mp4), svo að það sé auðveldara að smella á þá.
 
+Ég nota "Blender mús" í FreeCAD:
+
+![Blender mouse](images/blender-mouse.png)
+
+Það eru til fleiri stillingar, t.d. touchpad til að teikna í fartölvu:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XjdqJNcu2XA?si=lD_X31Rnz1UatJcd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Hér eru örstutt myndbönd að hætti Neil, sem útskýra málsetningar og skorður í tvívíðum skissum:
 
 ![Sketch icon](https://wiki.freecad.org/images/f/f1/Sketcher_NewSketch.svg)
