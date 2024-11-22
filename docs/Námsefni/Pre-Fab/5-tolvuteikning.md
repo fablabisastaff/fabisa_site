@@ -93,6 +93,10 @@ Teiknaðu síðan einlitt lógó til að nota á Fab Academy síðunni þinni. L
 
 ![Hundastimpill](images/hundastimpill.jpg)
 
+[Hafey Hallgrímsdóttir](https://fabacademy.org/2023/labs/isafjordur/students/hafey-hallgrimsdottir/About_me.html) hefur útbúið bestu leiðina til að læra að teikna í Inkscape fyrir vínylskurð og laserskurð. Tékkið á þessu:
+
+[FABMENNT](https://www.fabmennt.com/){ .md-button }
+
 ### Kynning
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rFYQW2DCM2I?si=cjsyLpGYfjVR_OP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
