@@ -1,5 +1,7 @@
 # Tölvuteikning
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ui6cdToG6xk?si=BUV4XAQG7QXB2OLv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 *Föstudagurinn 22. nóvember 2024 kl. 14:10*
 
 Eitt af því sem Fab Academy nemendur eiga í mestum vandræðum með, en gefur þeim jafnframt mesta frelsið þegar þeir ná tökum á því, er tölvuteikning. Við skulum taka hana fyrir í þessari viku. 
