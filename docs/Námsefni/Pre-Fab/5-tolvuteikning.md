@@ -76,7 +76,7 @@ Verkefnið ykkar er að teikna helming af handfangi fyrir stimpil í Sketcher og
 *Ég mæli með að teikna á framplanið (XZ planið). Það þarf síðan að gera smátrikk til að fá samfellda hálfkúlu ofan á handfangið. Teiknið lárétta línu út frá efsta boganum og gerið bogann tangent við hana. Til þess að þessi aukalína verði ekki tekin með í Revolve skipuninni þá þarf að [breyta henni í hjálparlínu](https://wiki.freecad.org/Sketcher_ToggleConstruction).*
 
 ![Stimpilhandfang](images/stimpilhandfang.png)
-*Notið Revolve skipunina í Part workbench til að breyta 2D skissunni í 3D hlut.*
+*Notið Revolve skipunina í Part workbench til að breyta tvívíðu skissunni í þrívíðan hlut.*
 
 Ef þú vilt þrívíddarprenta stimpilhandfangið:
     1. Smelltu á módelið og farðu í File -> Export.
