@@ -16,8 +16,7 @@ Eitt af því sem Fab Academy nemendur eiga í mestum vandræðum með, en gefur
 
 Góðar stillingar í FreeCAD:
 
-- Ég mæli með að [stilla músina svona](https://github.com/user-attachments/assets/92cc200b-430b-4a10-b6b7-a378fe45ee48).
-- Þið fáið upp [Property View panel svona](https://github.com/user-attachments/assets/acdf3e7a-a5ee-46e7-9fee-77053b6b4a6a).
+- Mér finnst þægilegt að [stilla músina svona](https://github.com/user-attachments/assets/92cc200b-430b-4a10-b6b7-a378fe45ee48).
 - Þið getið [stækkað punkta í skissum svona](images/marker-size-no-audio.mp4), svo að það sé auðveldara að smella á þá.
 
 Ég nota "Blender mús" í FreeCAD:
@@ -104,13 +103,13 @@ VCarve Pro verður alltaf þægilegast. En CAM workbench í FreeCAD og CAM umhve
 
 Inkscape er eitt gagnlegasta og mest notaða forritið í hverri Fab Lab smiðju. Ef þið þekkið það vel þá getið þið sleppt þessari æfingu.
 
-Horfið á 13 mínútna langa kynningarmyndbandið til þess að fá yfirlit yfir helstu verkfærin í Inkscape. 
-
-Teiknið síðan einlitt lógó til að nota á Fab Academy síðunum ykkar. Lógóið þarf að vera nógu einfalt til þess að sjást við hliðina á nafni síðunnar í vafraflipa. Þið getið byggt lógóið á teikningu, ljósmynd, skammstöfuninni þinni eða einhverju öðru sem ykkur dettur í hug. Notið myndböndin hér fyrir neðan eða aðrar leiðbeiningar sem þið finnið á netinu til þess að hjálpa ykkur að teikna.
+Teiknið einlitt lógó til að nota á Fab Academy síðunum ykkar. Lógóið þarf að vera nógu einfalt til þess að sjást við hliðina á nafni síðunnar í vafraflipa. Þið getið byggt lógóið á teikningu, ljósmynd, skammstöfuninni þinni eða einhverju öðru sem ykkur dettur í hug. Notið myndböndin hér fyrir neðan eða aðrar leiðbeiningar sem þið finnið á netinu til þess að hjálpa ykkur að teikna.
 
 Þið getið síðan laserskorið stimpil með lógóinu ef þið eruð í stuði. Ef þið eigið ekki til gúmmí til að laserskera, þá get ég póstlagt sýnishorn til ykkar.
 
 ![Hundastimpill](images/hundastimpill.jpg)
+
+### Fabmennt
 
 [Hafey Hallgrímsdóttir](https://fabacademy.org/2023/labs/isafjordur/students/hafey-hallgrimsdottir/About_me.html) hefur útbúið bestu leiðina til að læra að teikna í Inkscape fyrir vínylskurð og laserskurð. Ef þið farið í gegnum öll verkefnin, þá verðið þið sterk í Inkscape:
 
