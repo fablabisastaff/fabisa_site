@@ -74,20 +74,21 @@ Verkefnið ykkar er að teikna helming af handfangi fyrir stimpil í Sketcher og
 
 ### CAM workbench
 
-FreeCAD er ansi öflugt forrit! Það er líka hægt að nota það til að útbúa G-kóða til að stýra ShopBot fræsinum:
+FreeCAD er ansi öflugt forrit! Það er hægt að nota CAM workbench í FreeCAD til að útbúa G-kóða til að stýra ShopBot fræsinum út frá tvívíðri teikningu eða þrívíðu módeli:
 
 <video controls width=100%>
         <source src="https://files.svavar.cc/fab/freecad-cam-workbench.mp4" type="video/mp4">
 </video>
 
+VCarve Pro verður alltaf þægilegast. En CAM workbench í FreeCAD og CAM umhverfið í Fusion geta gert allt það sama og meira til. Þessi forrit geta tekið við þegar þið eruð tilbúin í að fara upp á næsta stig. [Jón Þór Sigurðsson](http://fabacademy.org/2018/labs/fablabreykjavik/students/jonthor-sigurdsson/about.html) veit allt um Fusion CAM. Og by the way, ég vann [þrívíddarmúsina mína](https://3dconnexion.com/is/product/spacemouse-pro/) með því að vera fljótastur að útbúa G-kóða úr [þessum parti](https://forums.autodesk.com/t5/fusion-manufacture/post-processors-101/td-p/5916925) á Autodesk University 2013 í Las Vegas. Just saying.
 
 ## Inkscape
 
-Inkscape er eitt gagnlegasta og mest notaða forritið í hverri Fab Lab smiðju. Ef þú þekkir það vel þá geturðu sleppt þessari æfingu.
+Inkscape er eitt gagnlegasta og mest notaða forritið í hverri Fab Lab smiðju. Ef þið þekkið það vel þá getið þið sleppt þessari æfingu.
 
-Horfðu á 13 mínútna langa kynningarmyndbandið til þess að fá yfirlit yfir helstu verkfærin í Inkscape. 
+Horfið á 13 mínútna langa kynningarmyndbandið til þess að fá yfirlit yfir helstu verkfærin í Inkscape. 
 
-Teiknaðu síðan einlitt lógó til að nota á Fab Academy síðunni þinni. Lógóið þarf að vera nógu einfalt til þess að sjást við hliðina á nafni síðunnar í vafraflipa. Þú getur byggt lógóið á teikningu, ljósmynd, skammstöfuninni þinni eða einhverju öðru sem þér dettur í hug. Notaðu myndböndin hér fyrir neðan eða aðrar leiðbeiningar sem þú finnur á netinu til þess að hjálpa þér að teikna.
+Teiknið síðan einlitt lógó til að nota á Fab Academy síðunum ykkar. Lógóið þarf að vera nógu einfalt til þess að sjást við hliðina á nafni síðunnar í vafraflipa. Þið getið byggt lógóið á teikningu, ljósmynd, skammstöfuninni þinni eða einhverju öðru sem ykkur dettur í hug. Notið myndböndin hér fyrir neðan eða aðrar leiðbeiningar sem þið finnið á netinu til þess að hjálpa ykkur að teikna.
 
 Þið getið síðan laserskorið stimpil með lógóinu ef þið eruð í stuði. Ef þið eigið ekki til gúmmí til að laserskera, þá get ég póstlagt sýnishorn til ykkar.
 
@@ -119,7 +120,7 @@ Teiknaðu síðan einlitt lógó til að nota á Fab Academy síðunni þinni. L
 
 ### Stutt ráð
 
-Hér eru örstutt myndbönd sem fara yfir Inkscape verkfæri á ofurhraða. Þú getur athugað hvort eitthvert þeirra gagnist þér í lógóhönnuninni. Hugsanlega fara þau of hratt í hlutina.
+Hér eru örstutt myndbönd sem fara yfir Inkscape verkfæri á ofurhraða. Þið getið athugað hvort eitthvert þeirra gagnist ykkur í lógóhönnuninni. Hugsanlega fara þau of hratt í hlutina.
 
 [Unique typography](https://youtube.com/shorts/em8nQeE5DJw?si=VTxHrGTx2De6PPXO)
 
