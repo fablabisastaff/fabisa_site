@@ -10,8 +10,11 @@ Eitt af því sem Fab Academy nemendur eiga í mestum vandræðum með, en gefur
 
 Í þessari viku finnst mér mikilvægast að kynna málsetningar og skorður fyrir ykkur í CAD forriti. Þetta eru nauðsynleg verkfæri til að teikna nákvæma hluti og það tekur tíma að ná tökum á þeim.
 
-![Sketch icon](https://wiki.freecad.org/images/f/f1/Sketcher_NewSketch.svg) ![Extrude icon](https://wiki.freecad.org/images/3/38/Part_Extrude.svg)
+Hér eru örstutt myndbönd að hætti Neil, sem útskýra málsetningar og skorður í skissum:
+
+![Sketch icon](https://wiki.freecad.org/images/f/f1/Sketcher_NewSketch.svg)
 [Sketch and Extrude](images/sketch-extrude.mp4)
+![Extrude icon](https://wiki.freecad.org/images/3/38/Part_Extrude.svg)
 
 ![Dimension icon](https://wiki.freecad.org/images/2/24/Sketcher_Dimension.svg)
 [Dimensions](images/dimensions.mp4)
@@ -42,6 +45,8 @@ Eitt af því sem Fab Academy nemendur eiga í mestum vandræðum með, en gefur
 
 ![Block icon](https://wiki.freecad.org/images/b/be/Sketcher_ConstrainBlock.svg)
 [Block Constraint](images/block-constraint.mp4)
+
+Verkefnið ykkar er að teikna helming af handfangi fyrir stimpil í Sketcher og nota síðan Revolve
 
 *Sum af eftirfarandi myndböndum voru gerð í Ondsel Engineering Suite, sem var útgáfa af FreeCAD. Fyrir stuttu var ákveðið að hætta þróun Ondsel og nú er flest sem var þróað þar komið í FreeCAD 1.0. Skipanirnar virka því eins í báðum forritum.*
 
