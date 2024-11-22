@@ -10,7 +10,7 @@ Eitt af því sem Fab Academy nemendur eiga í mestum vandræðum með, en gefur
 
 Í þessari viku finnst mér mikilvægast að kynna málsetningar og skorður fyrir ykkur í CAD forriti. Þetta eru nauðsynleg verkfæri til að teikna nákvæma hluti og það tekur tíma að ná tökum á þeim.
 
-Hér eru örstutt myndbönd að hætti Neil, sem útskýra málsetningar og skorður í skissum:
+Hér eru örstutt myndbönd að hætti Neil, sem útskýra málsetningar og skorður í tvívíðum skissum:
 
 ![Sketch icon](https://wiki.freecad.org/images/f/f1/Sketcher_NewSketch.svg)
 [Sketch and Extrude](images/sketch-extrude.mp4)
@@ -51,31 +51,6 @@ Verkefnið ykkar er að teikna helming af handfangi fyrir stimpil í Sketcher og
 ![Stimpilhandfang - skissa](images/stimpilhandfang-skissa.png)
 
 ![Stimpilhandfang](images/stimpilhandfang.png)
-
-*Sum af eftirfarandi myndböndum voru gerð í Ondsel Engineering Suite, sem var útgáfa af FreeCAD. Fyrir stuttu var ákveðið að hætta þróun Ondsel og nú er flest sem var þróað þar komið í FreeCAD 1.0. Skipanirnar virka því eins í báðum forritum.*
-
-=== "LEGO"
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/4AdMJ4P_9g4?si=WbueXdXOYh01K36_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-=== "Smellusmíði"
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/5C3h-JsTVos?si=E2F_x3i3Y626Pxq4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-=== "Constraints"
-    <video controls width="560">
-        <source src="http://academy.cba.mit.edu/classes/computer_design/2Dconstraints.mp4" type="video/mp4">
-    </video>
-=== "Parametric"
-    <video controls width="560">
-        <source src="http://academy.cba.mit.edu/classes/computer_design/parametric.mp4" type="video/mp4">
-    </video>
-=== "Symmetry"
-    <video controls width="560">
-        <source src="http://academy.cba.mit.edu/classes/computer_design/symmetry.mp4" type="video/mp4">
-    </video>
-=== "Loft"
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/LWJZAIeNkOY?si=T6ExNR0KrEC_nb8I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-=== "Surface"
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/i_WPyPmsr34?si=lMVSAexIBnZjfXIu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-=== "Slicing"
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/rA3NuEC1R9g?si=xEyccVLmi5IpT7QP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Góðar stillingar í FreeCAD:
 
