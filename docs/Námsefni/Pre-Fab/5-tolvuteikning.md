@@ -60,6 +60,8 @@ Hér eru örstutt myndbönd að hætti Neil, sem útskýra málsetningar og skor
 ![Block icon](https://wiki.freecad.org/images/b/be/Sketcher_ConstrainBlock.svg)
 [Block Constraint](images/block-constraint.mp4)
 
+Til að hætta í skipun er nóg að hægrismella hvar sem er í skissunni.
+
 Verkefnið ykkar er að teikna helming af handfangi fyrir stimpil í Sketcher og nota síðan Revolve til að búa til þrívíðan hlut:
 
 ![Stimpilhandfang - skissa](images/stimpilhandfang-skissa.png)
@@ -67,6 +69,15 @@ Verkefnið ykkar er að teikna helming af handfangi fyrir stimpil í Sketcher og
 
 ![Stimpilhandfang](images/stimpilhandfang.png)
 *Notið Revolve skipunina í Part workbench til að breyta 2D skissunni í 3D hlut.*
+
+### CAM workbench
+
+FreeCAD er ansi öflugt forrit! Það er líka hægt að nota það til að útbúa G-kóða til að stýra ShopBot fræsinum:
+
+<video controls width=100%>
+        <source src="https://files.svavar.cc/fab/freecad-cam-workbench.mp4" type="video/mp4">
+</video>
+
 
 ## Inkscape
 
