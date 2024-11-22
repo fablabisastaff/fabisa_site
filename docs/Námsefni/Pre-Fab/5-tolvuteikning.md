@@ -10,7 +10,29 @@ Eitt af því sem Fab Academy nemendur eiga í mestum vandræðum með, en gefur
 
 Í þessari viku finnst mér mikilvægast að kynna málsetningar og skorður fyrir ykkur í CAD forriti. Þetta eru nauðsynleg verkfæri til að teikna nákvæma hluti og það tekur tíma að ná tökum á þeim.
 
-*Sum af þessum myndböndum voru gerð í Ondsel Engineering Suite, sem var útgáfa af FreeCAD. Fyrir stuttu var ákveðið að hætta þróun Ondsel og nú er flest sem var þróað þar komið í FreeCAD 1.0. Skipanirnar virka því eins í báðum forritum.*
+[Block Constraint](images/block-constraint.mp4)
+
+[Coincident Constraint](images/coincident-constraint.mp4)
+
+[Collinear Constraint](images/collinear-constraint.mp4)
+
+[Dimensions](images/dimensions.mp4)
+
+[Equal Constraint](images/equal-constraint.mp4)
+
+[Horizontal-Vertical Constraint](images/horizontal-vertical-constraint.mp4)
+
+[Parallel Constraint](images/parallel-constraint.mp4)
+
+[Perpendicular Constraint](images/perpendicular-constraint.mp4)
+
+[Sketch and Extrude](images/sketch-extrude.mp4)
+
+[Symmetric Constraint](images/symmetric-constraint.mp4)
+
+[Tangent Constraint](images/tangent-constraint.mp4)
+
+*Sum af eftirfarandi myndböndum voru gerð í Ondsel Engineering Suite, sem var útgáfa af FreeCAD. Fyrir stuttu var ákveðið að hætta þróun Ondsel og nú er flest sem var þróað þar komið í FreeCAD 1.0. Skipanirnar virka því eins í báðum forritum.*
 
 === "LEGO"
     <iframe width="560" height="315" src="https://www.youtube.com/embed/4AdMJ4P_9g4?si=WbueXdXOYh01K36_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
