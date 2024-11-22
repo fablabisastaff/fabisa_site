@@ -79,10 +79,12 @@ Verkefnið ykkar er að teikna helming af handfangi fyrir stimpil í Sketcher og
 *Notið Revolve skipunina í Part workbench til að breyta tvívíðu skissunni í þrívíðan hlut.*
 
 Ef þú vilt þrívíddarprenta stimpilhandfangið:
+
     1. Smelltu á módelið og farðu í File -> Export.
     2. Þá kemur upp gluggi til að gefa módelinu nafn. Undir Files of Type skaltu velja 3D Manufacturing Format (*.3mf), sem er efst á listanum.
 
 Ef þú vilt birta módelið á heimasíðu:
+
     1. Smelltu á módelið og farðu í File -> Export.
     2. Þá kemur upp gluggi til að gefa módelinu nafn. Undir Files of Type skaltu velja WebGL file (*.html).
 
