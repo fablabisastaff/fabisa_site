@@ -10,27 +10,38 @@ Eitt af því sem Fab Academy nemendur eiga í mestum vandræðum með, en gefur
 
 Í þessari viku finnst mér mikilvægast að kynna málsetningar og skorður fyrir ykkur í CAD forriti. Þetta eru nauðsynleg verkfæri til að teikna nákvæma hluti og það tekur tíma að ná tökum á þeim.
 
-[Block Constraint](images/block-constraint.mp4)
-
-[Coincident Constraint](images/coincident-constraint.mp4)
-
-[Collinear Constraint](images/collinear-constraint.mp4)
-
-[Dimensions](images/dimensions.mp4)
-
-[Equal Constraint](images/equal-constraint.mp4)
-
-[Horizontal-Vertical Constraint](images/horizontal-vertical-constraint.mp4)
-
-[Parallel Constraint](images/parallel-constraint.mp4)
-
-[Perpendicular Constraint](images/perpendicular-constraint.mp4)
-
+![Sketch icon](https://wiki.freecad.org/images/f/f1/Sketcher_NewSketch.svg) ![Extrude icon](https://wiki.freecad.org/images/3/38/Part_Extrude.svg)
 [Sketch and Extrude](images/sketch-extrude.mp4)
 
+![Dimension icon](https://wiki.freecad.org/images/2/24/Sketcher_Dimension.svg)
+[Dimensions](images/dimensions.mp4)
+
+![Coincident icon](https://wiki.freecad.org/images/1/18/Sketcher_ConstrainCoincidentUnified.svg)
+[Coincident Constraint](images/coincident-constraint.mp4)
+
+![Horizontal-vertical icon](https://wiki.freecad.org/images/b/b7/Sketcher_ConstrainHorVer.svg)
+[Horizontal-Vertical Constraint](images/horizontal-vertical-constraint.mp4)
+
+![Parallel icon](https://wiki.freecad.org/images/1/1d/Sketcher_ConstrainParallel.svg)
+[Parallel Constraint](images/parallel-constraint.mp4)
+
+![Perpendicular icon](https://wiki.freecad.org/images/f/f9/Sketcher_ConstrainPerpendicular.svg)
+[Perpendicular Constraint](images/perpendicular-constraint.mp4)
+
+![Tangent icon](https://wiki.freecad.org/images/e/ea/Sketcher_ConstrainTangent.svg)
+[Tangent Constraint](images/tangent-constraint.mp4)
+
+![Tangent icon](https://wiki.freecad.org/images/e/ea/Sketcher_ConstrainTangent.svg)
+[Collinear Constraint](images/collinear-constraint.mp4)
+
+![Equal icon](https://wiki.freecad.org/images/b/b9/Constraint_EqualLength.svg)
+[Equal Constraint](images/equal-constraint.mp4)
+
+![Symmetric icon](https://wiki.freecad.org/images/0/08/Sketcher_ConstrainSymmetric.svg)
 [Symmetric Constraint](images/symmetric-constraint.mp4)
 
-[Tangent Constraint](images/tangent-constraint.mp4)
+![Block icon](https://wiki.freecad.org/images/b/be/Sketcher_ConstrainBlock.svg)
+[Block Constraint](images/block-constraint.mp4)
 
 *Sum af eftirfarandi myndböndum voru gerð í Ondsel Engineering Suite, sem var útgáfa af FreeCAD. Fyrir stuttu var ákveðið að hætta þróun Ondsel og nú er flest sem var þróað þar komið í FreeCAD 1.0. Skipanirnar virka því eins í báðum forritum.*
 
