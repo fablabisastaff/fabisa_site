@@ -54,6 +54,10 @@ Verkefnið ykkar er að teikna helming af handfangi fyrir stimpil í Sketcher og
 ![Stimpilhandfang](images/stimpilhandfang.png)
 *Notið Revolve skipunina í Part workbench til að breyta 2D skissunni í 3D hlut.*
 
+Ef þið eigið ekki til gúmmí til að laserskera, þá get ég póstlagt sýnishorn til ykkar:
+
+![Hundastimpill](images/hundastimpill.jpg)
+
 Góðar stillingar í FreeCAD:
 
 - Ég mæli með að [stilla músina svona](https://github.com/user-attachments/assets/92cc200b-430b-4a10-b6b7-a378fe45ee48).
