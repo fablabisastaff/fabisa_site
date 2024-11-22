@@ -84,7 +84,7 @@ FreeCAD er ansi öflugt forrit! Það er hægt að nota CAM workbench í FreeCAD
         <source src="https://files.svavar.cc/fab/freecad-cam-workbench.mp4" type="video/mp4">
 </video>
 
-VCarve Pro verður alltaf þægilegast. En CAM workbench í FreeCAD og CAM umhverfið í Fusion geta gert allt það sama og meira til. Þessi forrit geta tekið við þegar þið eruð tilbúin í að fara upp á næsta stig. [Jón Þór Sigurðsson](http://fabacademy.org/2018/labs/fablabreykjavik/students/jonthor-sigurdsson/about.html) veit allt um Fusion CAM. Og by the way, ég vann [þrívíddarmúsina mína](https://3dconnexion.com/is/product/spacemouse-pro/) með því að vera fljótastur að útbúa G-kóða úr [þessum parti](https://forums.autodesk.com/t5/fusion-manufacture/post-processors-101/td-p/5916925) á Autodesk University 2013 í Las Vegas. Just saying.
+VCarve Pro verður alltaf þægilegast. En CAM workbench í FreeCAD og CAM umhverfið í Fusion geta gert allt það sama og meira til. Þessi forrit geta tekið við þegar þið eruð tilbúin í að fara upp á næsta stig. [Jón Þór Sigurðsson](http://fabacademy.org/2018/labs/fablabreykjavik/students/jonthor-sigurdsson/about.html) veit allt um Fusion CAM. Og *by the way*, ég vann [þrívíddarmúsina mína](https://3dconnexion.com/is/product/spacemouse-pro/) með því að vera fljótastur að útbúa G-kóða úr [þessum parti](https://forums.autodesk.com/t5/fusion-manufacture/post-processors-101/td-p/5916925) á Autodesk University 2013 í Las Vegas. *Just saying.*
 
 ## Inkscape
 
