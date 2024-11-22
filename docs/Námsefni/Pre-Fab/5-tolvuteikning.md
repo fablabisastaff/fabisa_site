@@ -104,7 +104,7 @@ Teiknið síðan einlitt lógó til að nota á Fab Academy síðunum ykkar. Ló
 
 [FABMENNT](https://www.fabmennt.com/){ .md-button }
 
-Við notum efnið frá Hafeyju mjög mikið, eins og má sjá hér á heimasíðunni undir Námsefni -> Grunnskóli.
+Við notum efnið frá Hafeyju mikið, eins og má sjá undir Námsefni -> Grunnskóli.
 
 Hér er fleira sem gæti gagnast ykkur:
 
