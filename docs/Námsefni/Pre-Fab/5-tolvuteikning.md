@@ -46,7 +46,11 @@ Hér eru örstutt myndbönd að hætti Neil, sem útskýra málsetningar og skor
 ![Block icon](https://wiki.freecad.org/images/b/be/Sketcher_ConstrainBlock.svg)
 [Block Constraint](images/block-constraint.mp4)
 
-Verkefnið ykkar er að teikna helming af handfangi fyrir stimpil í Sketcher og nota síðan Revolve
+Verkefnið ykkar er að teikna helming af handfangi fyrir stimpil í Sketcher og nota síðan Revolve til að búa til þrívíðan hlut:
+
+![Stimpilhandfang - skissa](images/stimpilhandfang-skissa.png)
+
+![Stimpilhandfang](images/stimpilhandfang.png)
 
 *Sum af eftirfarandi myndböndum voru gerð í Ondsel Engineering Suite, sem var útgáfa af FreeCAD. Fyrir stuttu var ákveðið að hætta þróun Ondsel og nú er flest sem var þróað þar komið í FreeCAD 1.0. Skipanirnar virka því eins í báðum forritum.*
 
