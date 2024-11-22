@@ -75,6 +75,8 @@ Verkefnið ykkar er að teikna helming af handfangi fyrir stimpil í Sketcher og
 ![Stimpilhandfang - skissa](images/stimpilhandfang-skissa.png)
 *Ég mæli með að teikna á framplanið (XZ planið). Það þarf síðan að gera smátrikk til að fá samfellda hálfkúlu ofan á handfangið. Teiknið lárétta línu út frá efsta boganum og gerið bogann tangent við hana. Til þess að þessi aukalína verði ekki tekin með í Revolve skipuninni þá þarf að [breyta henni í hjálparlínu](https://wiki.freecad.org/Sketcher_ToggleConstruction).*
 
+Eitt ráð: Þegar þið sláið inn tölu getið þið valið töluna með músinni og skrollað til að hækka hana og lækka. Þið getið líka slegið inn reikningsdæmi og látið FreeCAD leysa úr þeim fyrir ykkur.
+
 ![Stimpilhandfang](images/stimpilhandfang.png)
 *Notið Revolve skipunina í Part workbench til að breyta tvívíðu skissunni í þrívíðan hlut.*
 
