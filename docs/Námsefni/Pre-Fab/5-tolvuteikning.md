@@ -55,7 +55,7 @@ Hér eru örstutt myndbönd að hætti Neil, sem útskýra málsetningar og skor
 Verkefnið ykkar er að teikna helming af handfangi fyrir stimpil í Sketcher og nota síðan Revolve til að búa til þrívíðan hlut:
 
 ![Stimpilhandfang - skissa](images/stimpilhandfang-skissa.png)
-*Ég mæli með að teikna á framplanið (XZ planið). Það þarf síðan að gera smátrikk til að fá samfellda hálfkúlu ofan á handfangið. Það er hægt að teikna lárétta línu út frá efsta boganum og gera bogan tangent við hana. Til þess að þessi aukalína verði ekki tekin með í Revolve skipuninni þá þarf að [breyta henni í hjálparlínu](https://wiki.freecad.org/Sketcher_ToggleConstruction).*
+*Ég mæli með að teikna á framplanið (XZ planið). Það þarf síðan að gera smátrikk til að fá samfellda hálfkúlu ofan á handfangið. Teiknið lárétta línu út frá efsta boganum og gerið bogann tangent við hana. Til þess að þessi aukalína verði ekki tekin með í Revolve skipuninni þá þarf að [breyta henni í hjálparlínu](https://wiki.freecad.org/Sketcher_ToggleConstruction).*
 
 ![Stimpilhandfang](images/stimpilhandfang.png)
 *Notið Revolve skipunina í Part workbench til að breyta 2D skissunni í 3D hlut.*
