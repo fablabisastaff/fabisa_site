@@ -78,6 +78,14 @@ Verkefnið ykkar er að teikna helming af handfangi fyrir stimpil í Sketcher og
 ![Stimpilhandfang](images/stimpilhandfang.png)
 *Notið Revolve skipunina í Part workbench til að breyta 2D skissunni í 3D hlut.*
 
+Ef þú vilt þrívíddarprenta stimpilhandfangið:
+    1. Smelltu á módelið og farðu í File -> Export.
+    2. Þá kemur upp gluggi til að gefa módelinu nafn. Undir Files of Type skaltu velja 3D Manufacturing Format (*.3mf), sem er efst á listanum.
+
+Ef þú vilt birta módelið á heimasíðu:
+    1. Smelltu á módelið og farðu í File -> Export.
+    2. Þá kemur upp gluggi til að gefa módelinu nafn. Undir Files of Type skaltu velja WebGL file (*.html).
+
 ### CAM workbench
 
 FreeCAD er ansi öflugt forrit! Það er hægt að nota CAM workbench í FreeCAD til að útbúa G-kóða til að stýra ShopBot fræsinum út frá tvívíðri teikningu eða þrívíðu módeli:
