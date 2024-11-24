@@ -14,4 +14,4 @@
 
 ## Næsta vika
 
-Vika 4: [Tölvuteikning](4-tolvuteikning.md)
+Vika 4: [Lokaverkefni](4-lokaverkefni.md)
