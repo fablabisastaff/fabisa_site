@@ -12,6 +12,8 @@ Högni Friðriksson
 
 [Jóhannes Konráð Andrésson](https://hannesjo.github.io/FabAcademy/){:rel="nofollow"}
 
+Magnús Pétursson
+
 [Ólöf Hannesdóttir](https://olofh2.github.io/Before-Fab-Academy/){:rel="nofollow"}
 
 ## Leiðbeinandi
