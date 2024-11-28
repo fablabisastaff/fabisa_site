@@ -4,11 +4,13 @@
 
 [Bjartur Leó Hlynsson](https://fab-lab-bjartur.tech/){:rel="nofollow"}
 
-[Evert Stefán Jensson](https://cptstebbi.github.io/fabtest/)
+[Björn Gunnar Hreinsson](https://beariceland.github.io/Bj-ssi-Akureyri/){:rel="nofollow"}
+
+[Evert Stefán Jensson](https://cptstebbi.github.io/fabtest/){:rel="nofollow"}
 
 Högni Friðriksson
 
-[Jóhannes Konráð Andrésson](https://hannesjo.github.io/FabAcademy/)
+[Jóhannes Konráð Andrésson](https://hannesjo.github.io/FabAcademy/){:rel="nofollow"}
 
 [Ólöf Hannesdóttir](https://olofh2.github.io/Before-Fab-Academy/){:rel="nofollow"}
 
