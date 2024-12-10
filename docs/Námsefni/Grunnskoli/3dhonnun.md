@@ -2,6 +2,8 @@
 
 Námsefni til að læra að búa til hlutti í þrívídd.
 
+[https://www.tinkercad.com/joinclass/5NP29MMX4](https://www.tinkercad.com/joinclass/5NP29MMX4)
+
 ## Smíðum kofa
 
 *Höfundur: Hafey Viktoría Hallgrímsdóttir Fab Lab Reykjavík*
