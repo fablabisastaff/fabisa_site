@@ -1,5 +1,9 @@
 # 3D hönnun
 
+Thinkercad
+
+Opiðhús: [https://www.tinkercad.com/joinclass/2QZELM3QH](https://www.tinkercad.com/joinclass/2QZELM3QH)
+
 Námsefni til að læra að búa til hlutti í þrívídd.
 
 [https://www.tinkercad.com/joinclass/5NP29MMX4](https://www.tinkercad.com/joinclass/5NP29MMX4)
