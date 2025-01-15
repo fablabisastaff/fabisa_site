@@ -4,14 +4,14 @@ Thinkercad
 
 Opiðhús: [opiðhús](https://www.tinkercad.com/joinclass/2QZELM3QH)
 
+
+[Grunnskólinn á Ísafirði](https://www.tinkercad.com/joinclass/5NP29MMX4)
+
+[Grunnskólinn á Þingeyri](https://www.tinkercad.com/joinclass/QD9JTHGBG)
+
+[Grunnskóli Bolungarvíkur](https://www.tinkercad.com/joinclass/PBL3P5GI2)
+
 Námsefni til að læra að búa til hlutti í þrívídd.
-
-[Ísafjörður](https://www.tinkercad.com/joinclass/5NP29MMX4)
-
-
-[Þingeyri 2024](https://www.tinkercad.com/joinclass/QD9JTHGBG)
-
-[Bolungarvík](https://www.tinkercad.com/joinclass/QD9JTHGBG)
 
 ## Smíðum kofa
 
