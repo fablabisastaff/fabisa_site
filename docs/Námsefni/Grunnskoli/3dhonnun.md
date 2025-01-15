@@ -4,7 +4,6 @@ Thinkercad
 
 Opiðhús: [opiðhús](https://www.tinkercad.com/joinclass/2QZELM3QH)
 
-
 [Grunnskólinn á Ísafirði](https://www.tinkercad.com/joinclass/5NP29MMX4)
 
 [Grunnskólinn á Þingeyri](https://www.tinkercad.com/joinclass/QD9JTHGBG)
