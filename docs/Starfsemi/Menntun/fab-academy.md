@@ -1,9 +1,9 @@
 # Fab Akademían
 
-!!! ATH
-    Næsta lota byjar í jarnúar 2025 og Fab Lab Ísafjörður tekur við umsóknum **[hér](https://form.jotform.com/FabAcademy/2025-student-registration-form)** eða með því að ýta á myndina.
+## 2025
 
-[![register](https://fabacademy.org/assets/img/students_2025.5aa4ebed.png)](https://form.jotform.com/FabAcademy/2025-student-registration-form)
+
+[Námsíða smiðjunar 2025](https://fabacademy.org/2025/labs/isafjordur/)
 
 
 
