@@ -1,6 +1,10 @@
 # Hönnun fyrir vínylskera
 
-Kennsluefni til að hanna límmiða og búa til með tölvustýrðum vínylskera. Leiðbeiningarnar eru einnig til sem [myndbönd](https://www.fabmennt.com/myndbondvinyl).
+Kennsluefni til að hanna límmiða og búa til með tölvustýrðum vínylskera:
+
+[Vínylskurður á Fabmennt](https://www.fabmennt.com/leidbeiningarvinyl){ .md-button }
+
+ Leiðbeiningarnar eru einnig til sem [myndbönd](https://www.fabmennt.com/myndbondvinyl).
 
 ## Einfaldur límmiði
 
