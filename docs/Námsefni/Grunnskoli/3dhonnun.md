@@ -10,6 +10,8 @@ Opiðhús: [opiðhús](https://www.tinkercad.com/joinclass/2QZELM3QH)
 
 [Grunnskóli Bolungarvíkur](https://www.tinkercad.com/joinclass/PBL3P5GI2)
 
+[Grunnskóli Önundarfjarðar](https://www.tinkercad.com/joinclass/LTZYDAYTL)
+
 Námsefni til að læra að búa til hlutti í þrívídd.
 
 ## Smíðum kofa
