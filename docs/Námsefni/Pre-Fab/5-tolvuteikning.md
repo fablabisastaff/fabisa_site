@@ -35,7 +35,7 @@ Hér eru örstutt myndbönd að hætti Neil, sem útskýra skorður (constraints
 
 ![Sketch icon](images/Sketcher_NewSketch.svg)
 [Sketch and Extrude](images/sketch-extrude.mp4)
-![Extrude icon](https://wiki.freecad.org/images/3/38/Part_Extrude.svg)
+![Extrude icon](images/Part_Extrude.svg)
 
 ![Dimension icon](images/Sketcher_Dimension.svg)
 [Dimensions](images/dimensions.mp4)
