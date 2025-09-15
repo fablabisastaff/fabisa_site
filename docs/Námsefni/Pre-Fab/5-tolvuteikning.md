@@ -33,38 +33,38 @@ Góðar stillingar í FreeCAD:
 
 Hér eru örstutt myndbönd að hætti Neil, sem útskýra skorður (constraints) og málsetningar (dimensions) í tvívíðum skissum:
 
-![Sketch icon](https://wiki.freecad.org/images/f/f1/Sketcher_NewSketch.svg)
+![Sketch icon](images/Sketcher_NewSketch.svg)
 [Sketch and Extrude](images/sketch-extrude.mp4)
 ![Extrude icon](https://wiki.freecad.org/images/3/38/Part_Extrude.svg)
 
-![Dimension icon](https://wiki.freecad.org/images/2/24/Sketcher_Dimension.svg)
+![Dimension icon](images/Sketcher_Dimension.svg)
 [Dimensions](images/dimensions.mp4)
 
-![Coincident icon](https://wiki.freecad.org/images/1/18/Sketcher_ConstrainCoincidentUnified.svg)
+![Coincident icon](images/Sketcher_ConstrainCoincidentUnified.svg)
 [Coincident Constraint](images/coincident-constraint.mp4)
 
-![Horizontal-vertical icon](https://wiki.freecad.org/images/b/b7/Sketcher_ConstrainHorVer.svg)
+![Horizontal-vertical icon](images/Sketcher_ConstrainHorVer.svg)
 [Horizontal-Vertical Constraint](images/horizontal-vertical-constraint.mp4)
 
-![Parallel icon](https://wiki.freecad.org/images/1/1d/Sketcher_ConstrainParallel.svg)
+![Parallel icon](images/Sketcher_ConstrainParallel.svg)
 [Parallel Constraint](images/parallel-constraint.mp4)
 
-![Perpendicular icon](https://wiki.freecad.org/images/f/f9/Sketcher_ConstrainPerpendicular.svg)
+![Perpendicular icon](images/Sketcher_ConstrainPerpendicular.svg)
 [Perpendicular Constraint](images/perpendicular-constraint.mp4)
 
-![Tangent icon](https://wiki.freecad.org/images/e/ea/Sketcher_ConstrainTangent.svg)
+![Tangent icon](images/Sketcher_ConstrainTangent.svg)
 [Tangent Constraint](images/tangent-constraint.mp4)
 
-![Tangent icon](https://wiki.freecad.org/images/e/ea/Sketcher_ConstrainTangent.svg)
+![Tangent icon](images/Sketcher_ConstrainTangent.svg)
 [Collinear Constraint](images/collinear-constraint.mp4)
 
-![Equal icon](https://wiki.freecad.org/images/b/b9/Constraint_EqualLength.svg)
+![Equal icon](images/Constraint_EqualLength.svg)
 [Equal Constraint](images/equal-constraint.mp4)
 
-![Symmetric icon](https://wiki.freecad.org/images/0/08/Sketcher_ConstrainSymmetric.svg)
+![Symmetric icon](images/Sketcher_ConstrainSymmetric.svg)
 [Symmetric Constraint](images/symmetric-constraint.mp4)
 
-![Block icon](https://wiki.freecad.org/images/b/be/Sketcher_ConstrainBlock.svg)
+![Block icon](images/Sketcher_ConstrainBlock.svg)
 [Block Constraint](images/block-constraint.mp4)
 
 Til að hætta í skipun er nóg að hægrismella hvar sem er í skissunni.
