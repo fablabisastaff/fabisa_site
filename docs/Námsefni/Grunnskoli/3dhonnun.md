@@ -42,6 +42,10 @@ Námsefni til að læra að búa til hlutti í þrívídd.
 [Opna bók](https://www.fabmennt.com/_files/ugd/0ebced_9033b3fd8fd74730a93cbc5dda615108.pdf)
 ![hafey bækur](https://www.fabmennt.com/_files/ugd/0ebced_9033b3fd8fd74730a93cbc5dda615108.pdf){ type=application/pdf style="min-height:600px;width:100%" }
 
+## Tannhjól
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2-eWsi_ff2w?si=tqwHc9gP7QkQ-Ob4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Leiðbeiningar fyrir 3D prentara
 
 Hér eru leiðbeiningar til að 3D prenta hlutina þegar þeir eru tilbúnir.
