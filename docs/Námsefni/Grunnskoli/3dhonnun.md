@@ -49,9 +49,17 @@ Námsefni til að læra að búa til hlutti í þrívídd.
 Góð ráð við að smíða róbota með laserskera:
 [How to Build Your Everything Really Really Fast](https://www.instructables.com/How-to-Build-your-Everything-Really-Really-Fast/)
 
+Til að gera mekanismann þurfa pinnarnir að passa mjög nákvæmlega. Sumir þurfa að geta snúist (slip fit) og aðrir þurfa að vera alveg fastir (press fit):
+![Slip fit vs. press fit](images/fit.jpeg)
+
+Svo að hlutir passi nákvæmlega saman þarf að gera ráð fyrir efninu sem laserinn brennir burt:
+![Laser kerf - Stanford](images/kerf-stanford.webp)
+
 Tannhjól:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2-eWsi_ff2w?si=tqwHc9gP7QkQ-Ob4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 ## Leiðbeiningar fyrir 3D prentara
 
