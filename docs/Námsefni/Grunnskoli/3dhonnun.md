@@ -55,6 +55,8 @@ Til að gera mekanismann þurfa pinnarnir að passa mjög nákvæmlega. Sumir þ
 Svo að hlutir passi nákvæmlega saman þarf að gera ráð fyrir efninu sem laserinn brennir burt:
 ![Laser kerf - Stanford](images/kerf-stanford.webp)
 
+Þess vegna þarf að gera offset í Inkscape áður en hlutirnir eru laserskornir. Með offsetinu bætir maður við örlitlu efni, sem bætir upp fyrir það sem leysigeislinn fjarlægir.
+
 Tannhjól:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2-eWsi_ff2w?si=tqwHc9gP7QkQ-Ob4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
