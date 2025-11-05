@@ -52,6 +52,10 @@ Góð ráð við að smíða róbota með laserskera:
 Til að gera mekanismann þurfa pinnarnir að passa mjög nákvæmlega. Sumir þurfa að geta snúist (slip fit) og aðrir þurfa að vera alveg fastir (press fit):
 ![Slip fit vs. press fit](images/fit.jpeg)
 
+Hér eru leiðbeiningar við að teikna klifurmekanisma:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cY9qJUkZOTI?si=aeTJCgcg8Ty51C9g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Svo að hlutir passi nákvæmlega saman þarf að gera ráð fyrir efninu sem laserinn brennir burt:
 ![Laser kerf - Stanford](images/kerf-stanford.webp)
 
