@@ -54,7 +54,7 @@ Til að gera mekanismann þurfa pinnarnir að passa mjög nákvæmlega. Sumir þ
 
 Hér eru leiðbeiningar við að teikna klifurmekanisma:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cY9qJUkZOTI?si=aeTJCgcg8Ty51C9g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cY9qJUkZOTI?si=hHsDo4vQEpMu7BSC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Svo að hlutir passi nákvæmlega saman þarf að gera ráð fyrir efninu sem laserinn brennir burt:
 ![Laser kerf - Stanford](images/kerf-stanford.webp)
