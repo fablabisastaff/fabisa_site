@@ -4,7 +4,7 @@ Thinkercad
 
 [Grunnskólinn á Ísafirði - miðstig](https://www.tinkercad.com/joinclass/HGHEPVHJM)
 
-[Grunnskólinn á Ísafirði - unglingastig](https://www.tinkercad.com/joinclass/BB98BC4NZ)
+[Grunnskólinn á Ísafirði - unglingastig](https://www.tinkercad.com/joinclass/PBV9T6MVJ)
 
 Opiðhús: [opiðhús](https://www.tinkercad.com/joinclass/2QZELM3QH)
 
