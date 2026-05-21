@@ -11,6 +11,10 @@ hide:
 
 <iframe allowfullscreen="allowfullscreen" scrolling="no" class="fp-iframe" style="border: 0px solid lightgray; width: 100%; height: 414px;" src="https://heyzine.com/flip-book/b70b8d9fad.html"></iframe>
 
+## Ársskýsla 2025
+
+<iframe allowfullscreen="allowfullscreen" allow="clipboard-write" scrolling="no" class="fp-iframe" src="https://heyzine.com/flip-book/9d3cd14876.html" style="border: 0px; width: 100%; height: 600px;"></iframe>
+
 ## Ársskýrsla 2024
 
 <iframe allowfullscreen="allowfullscreen" scrolling="no" class="fp-iframe" src="https://heyzine.com/flip-book/140229fdfd.html" style="border: 0px solid lightgray; width: 100%; height: 600px;"></iframe>
