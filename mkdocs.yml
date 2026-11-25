@@ -1,103 +1,107 @@
 site_name: Fab Lab Ísafjörður
-site_description: >- 
+site_description: >-
   Make almost anything with us and get expert support to bring creative ideas to life in the Westfjords. visit us to innovate and collaborate!
-site_url: https://www.fabisa.is
+site_url: https://www.fabisa.is/
+
+# Drafts ending in .mdd are kept in the repo but not published
+exclude_docs: |
+  *.mdd
+
 theme:
   name: material
+  variant: modern
   custom_dir: overrides
+  language: is
   logo: assets/img/logo/fabisa_logo.png
   favicon: assets/img/favicon.png
-#  font:
-#    text: Sofadi One # hægt að setja custom font
+  font:
+    text: Open Sans
+    code: Roboto Mono
   features:
     - navigation.tabs
-    - navigation.sections
-    #- toc.integrate
-    - navigation.top 
-    - search.suggest
+    - navigation.top
     - search.highlight
     - content.tabs.link
-    - content.code.annotation
     - content.code.copy
-  language: is
+  # Light and dark mode. The first visit follows the visitor's system
+  # setting; the lightbulb button in the header switches manually.
   palette:
-    - media: "(prefers-color-scheme: light)"  # System preference for light mode
+    - media: "(prefers-color-scheme: light)"
       scheme: default
+      primary: custom
+      accent: custom
       toggle:
         icon: material/lightbulb
-        name: Switch to dark mode
-      primary: teal
-      accent: indigo
-    - media: "(prefers-color-scheme: dark)"   # System preference for dark mode
+        name: Skipta í dökkt útlit
+    - media: "(prefers-color-scheme: dark)"
       scheme: slate
+      primary: custom
+      accent: custom
       toggle:
         icon: material/lightbulb-outline
-        name: Switch to light mode
-      primary: teal
-      accent: yellow
+        name: Skipta í ljóst útlit
 
 plugins:
-#  - social  # socail kort sem hægt er að virkja
   - search
-  - mkdocs-pdf
+  # Navigation is generated from the folders. A .nav.yml file in a folder
+  # can set the order and titles for that folder (see docs/.nav.yml).
+  - awesome-nav
 
 extra:
+  generator: false
+
+  # Course material: these sections also get a contents list (on pages with
+  # 3 or more sections) and previous/next links between pages.
+  # Any page can show or hide the contents list with `toc: true` or `toc: false`.
+  course_sections:
+    - Námsefni
+
+  # Shown in the footer on every page
+  contact:
+    address: Torfnes, 400 Ísafjörður
+    location_note: Í húsnæði Menntaskólans á Ísafirði
+    email: info hjá fabisa.is
+    phone: +354 450 4408
+    opening_hours:
+      - Þriðjudagar 15–19
+      - Fimmtudagar 15–19
+
   social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/FabLabIsafjordur
-    - icon: fontawesome/brands/github-alt
-      link: https://github.com/fablabisastaff/fabisa_site
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/company/fablabisa/
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/fablabisa
+      name: Instagram
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/FabLabIsafjordur
+      name: Facebook
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/@FabLabIsa
-   # - icon: fontawesome/brands/gitlab
-   #   link: https://fablabs.io/labs/fablabisafjordur
+      name: YouTube
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/fablabisa/
+      name: LinkedIn
+    - icon: fontawesome/brands/github
+      link: https://github.com/FabLabIsafjordur
+      name: GitHub
 
-      
-  extra:
-  generator: false
-  analytics:
-    provider: google
-    property: G-XXXXXXXXXX
-      
+extra_css:
+  - stylesheets/site.css
+
 extra_javascript:
-  - javascripts/jquery.min.js
-  - javascripts/jquery.scrollex.min.js
-  - javascripts/jquery.scrolly.min.js
-  - javascripts/browser.min.js
-  - javascripts/breakpoints.min.js
-  - javascripts/main.js
-  - javascripts/util.js
+  - javascripts/site.js
   - javascripts/mathjax.js
-  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
-
 
 markdown_extensions:
   - attr_list
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - md_in_html
+  - admonition
+  - pymdownx.details
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
-  - admonition
-  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:zensical.extensions.emoji.twemoji
+      emoji_generator: !!python/name:zensical.extensions.emoji.to_svg
   - pymdownx.arithmatex:
       generic: true
 
-
-copyright: |
-  &copy; 2024 <a href="https://github.com/fablabisa"  target="_blank" rel="noopener">FabIsa   |  Torfnes 400 Ísafjörður   |   info hjá fabisa.is   |   +354 450 4408  |</a>  
-
-## not working something to look into ##
-## added in extra ##
-#google_analytics:
-#  - !!python/object/apply:os.getenv ["GOOGLE_ANALYTICS_KEY"]
-#  - auto  
-
+copyright: Fab Lab Ísafjörður

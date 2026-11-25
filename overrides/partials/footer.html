@@ -1,0 +1,48 @@
+{#-
+  Site footer, shared by all pages. Contact details and opening hours come from `extra.contact`
+  in mkdocs.yml, social links from `extra.social`.
+-#}
+{% set contact = config.extra.contact or {} %}
+<footer class="md-footer fl-footer">
+  <div class="fl-footer__main">
+    <div class="md-grid fl-footer__grid">
+      <div class="fl-footer__brand">
+        <a href="{{ nav.homepage.url | url }}" class="fl-footer__logo">
+          <img src="{{ config.theme.logo | url }}" alt="" width="40" height="40">
+          <span>{{ config.site_name }}</span>
+        </a>
+        <p>Stafræn smiðja sem er opin öllum.</p>
+      </div>
+      {% if contact.opening_hours %}
+        <div>
+          <h2>Opið hús</h2>
+          <ul>
+            {% for line in contact.opening_hours %}<li>{{ line }}</li>{% endfor %}
+          </ul>
+          <a href="{{ 'dagatal/' | url }}">Dagatal og bókanir</a>
+        </div>
+      {% endif %}
+      <div>
+        <h2>Hafðu samband</h2>
+        <ul>
+          {% if contact.address %}<li>{{ contact.address }}</li>{% endif %}
+          {% if contact.location_note %}<li>{{ contact.location_note }}</li>{% endif %}
+          {% if contact.email %}<li>{{ contact.email }}</li>{% endif %}
+          {% if contact.phone %}<li><a href="tel:{{ contact.phone | replace(' ', '') }}">{{ contact.phone }}</a></li>{% endif %}
+        </ul>
+        {% if config.extra.social %}
+          <div class="fl-footer__social">
+            {% for social in config.extra.social %}
+              <a href="{{ social.link }}" target="_blank" rel="noopener" title="{{ social.name }}" aria-label="{{ social.name }}">
+                {% include ".icons/" ~ social.icon ~ ".svg" %}
+              </a>
+            {% endfor %}
+          </div>
+        {% endif %}
+      </div>
+    </div>
+    <div class="md-grid fl-footer__bottom">
+      <span>&copy; {{ config.copyright }}</span>
+    </div>
+  </div>
+</footer>

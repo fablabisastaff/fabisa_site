@@ -1,4 +1,5 @@
 ---
+title: Dagatal og opið hús
 hide:
   - navigation
   #- toc

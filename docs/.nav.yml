@@ -1,0 +1,11 @@
+# Order and titles of the main menu. Sub-folders are listed automatically
+# (alphabetically) unless they have their own .nav.yml file.
+nav:
+  - index.md
+  - Um smiðjuna: Um-smiðjuna
+  - Starfsemi
+  - Búnaður: búnadur
+  - Námsefni
+  - Opið hús: dagatal.md
+  - Skýrslur: skyrslur.md
+  - Leiðarvísir: https://fablabisafjordur.github.io/docs/
