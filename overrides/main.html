@@ -1,0 +1,52 @@
+{#-
+  Template for all Markdown pages (the homepage uses home.html).
+
+  - Pages in a section with subpages get Zensical's navigation sidebar on the
+    left (on desktop) and a collapsible section menu above the content (on
+    small screens).
+  - Single pages (no section) have no sidebar and use the full content width.
+  - Course material (extra.course_sections in mkdocs.yml) also gets a
+    contents list on the right and previous/next links.
+-#}
+{% extends "base.html" %}
+{% import "partials/fl-layout.html" as fl with context %}
+
+{% block site_nav %}
+  {#- Zensical's navigation. Without a section it is only used as the
+      slide-out menu (☰) on small screens. -#}
+  <div class="md-sidebar md-sidebar--primary{% if not fl.section %} fl-drawer-only{% endif %}" data-md-component="sidebar" data-md-type="navigation">
+    <div class="md-sidebar__scrollwrap">
+      <div class="md-sidebar__inner">
+        {% include "partials/nav.html" %}
+      </div>
+    </div>
+  </div>
+  {% if fl.toc %}
+    <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc">
+      <div class="md-sidebar__scrollwrap">
+        <div class="md-sidebar__inner">
+          {% include "partials/toc.html" %}
+        </div>
+      </div>
+    </div>
+  {% endif %}
+{% endblock %}
+
+{% block content %}
+  {% include "partials/fl-section-menu.html" %}
+  {{ super() }}
+  {% if fl.prev or fl.next %}
+    <nav class="fl-pager" aria-label="{{ lang.t('footer') }}">
+      {% if fl.prev %}
+        <a class="fl-pager__prev" href="{{ fl.prev.url | url }}">
+          <span>{{ lang.t("footer.previous") }}</span>{{ fl.prev.title }}
+        </a>
+      {% endif %}
+      {% if fl.next %}
+        <a class="fl-pager__next" href="{{ fl.next.url | url }}">
+          <span>{{ lang.t("footer.next") }}</span>{{ fl.next.title }}
+        </a>
+      {% endif %}
+    </nav>
+  {% endif %}
+{% endblock %}

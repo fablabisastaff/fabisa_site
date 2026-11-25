@@ -1,7 +1,8 @@
-
 {#-
-	This file was automatically generated - do not edit
-  -#}
+  Homepage. The landing page is plain HTML (based on the "Spectral" template
+  by HTML5 UP) and is edited directly in this file. All other pages are
+  Markdown and use main.html.
+-#}
 {% extends "base.html" %}
 
 {% block extrahead %}
@@ -9,22 +10,19 @@
   <!-- Open Graph Meta Tags -->
   <meta property="og:title" content="Fab Lab Ísafjörður">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="{{ page.canonical_url }}">   <!--"https://fabisa.is/"-->
+  <meta property="og:url" content="{{ page.canonical_url }}">
   <meta property="og:image" content="https://fabisa.is/assets/img/images/imagecopy.png">
   <meta property="og:description" content="Fab Lab Ísafjörður is a Fab Lab Makerspace providing tools and technologies for creative projects in the Westfjords.">
   <meta property="og:site_name" content="Fab Lab Ísafjörður">
 {% endblock %}
 
-{% block content %}
-  <body class="landing is-preload">
-    {{ super() }}
-  </body>
-{% endblock %}
+{#- No sidebars or Markdown content on the homepage -#}
+{% block site_nav %}{% endblock %}
+{% block container %}{% endblock %}
 
 {% block tabs %}
-  <!-- Add scripts that need to run before here -->
   {{ super() }}
- 
+<script>document.body.classList.add("landing", "is-preload")</script>
 <style>
 @import url("https://use.fontawesome.com/releases/v6.6.0/css/all.css");
 @import url("https://use.fontawesome.com/releases/v5.15.4/css/all.css");
@@ -63,7 +61,7 @@
 		}
 	
 		body.is-mobile.landing #footer {
-			background-color: #1d242a;
+			background-color: var(--fl-charcoal-dark);
 		}
 	
 	/* Header */
@@ -73,7 +71,7 @@
 			-webkit-transition: background-color 0.2s ease;
 			-ms-transition: background-color 0.2s ease;
 			transition: background-color 0.2s ease;
-			background: #2e3842;
+			background: var(--fl-charcoal);
 			height: 3em;
 			left: 0;
 			line-height: 3em;
@@ -322,7 +320,7 @@
 				-ms-transition-delay: 0.3s;
 				transition-delay: 0.3s;
 				content: '';
-				background: #2e3842;
+				background: var(--fl-charcoal);
 				display: block;
 				width: 100%;
 				height: 100%;
@@ -471,7 +469,7 @@
 			-ms-transition: -ms-transform 0.5s ease;
 			transition: transform 0.5s ease;
 			-webkit-overflow-scrolling: touch;
-			background: #21b2a6;
+			background: var(--fl-charcoal);
 			color: #ffffff;
 			height: 100%;
 			max-width: 80%;
@@ -589,16 +587,16 @@
 			}
 	
 			.wrapper.style1 {
-				background-color: #21b2a6;
-				color: #c8ece9;
+				background-color: var(--fl-bg);
+				color: var(--fl-muted);
 			}
 	
 				.wrapper.style1 strong, .wrapper.style1 b {
-					color: #ffffff;
+					color: var(--fl-charcoal);
 				}
 	
 				.wrapper.style1 h2, .wrapper.style1 h3, .wrapper.style1 h4, .wrapper.style1 h5, .wrapper.style1 h6 {
-					color: #ffffff;
+					color: var(--fl-charcoal);
 				}
 	
 				.wrapper.style1 hr {
@@ -610,23 +608,23 @@
 				}
 	
 				.wrapper.style1 code {
-					background: rgba(255, 255, 255, 0.075);
+					background: rgba(41, 52, 61, 0.05);
 				}
 	
 				.wrapper.style1 header p {
-					color: #a6e0db;
+					color: var(--fl-muted);
 				}
 	
 				.wrapper.style1 header.major h2, .wrapper.style1 header.major h3, .wrapper.style1 header.major h4, .wrapper.style1 header.major h5, .wrapper.style1 header.major h6 {
-					border-color: rgba(0, 0, 0, 0.125);
+					border-color: var(--fl-yellow);
 				}
 	
 				.wrapper.style1 header.major p {
-					color: #c8ece9;
+					color: var(--fl-muted);
 				}
 	
 				.wrapper.style1 label {
-					color: #ffffff;
+					color: var(--fl-charcoal);
 				}
 	
 				.wrapper.style1 input[type="text"],
@@ -634,7 +632,7 @@
 				.wrapper.style1 input[type="email"],
 				.wrapper.style1 select,
 				.wrapper.style1 textarea {
-					background-color: rgba(255, 255, 255, 0.075);
+					background-color: rgba(41, 52, 61, 0.05);
 				}
 	
 				.wrapper.style1 select {
@@ -642,48 +640,48 @@
 				}
 	
 					.wrapper.style1 select option {
-						color: #ffffff;
-						background: #21b2a6;
+						color: var(--fl-charcoal);
+						background: var(--fl-bg);
 					}
 	
 				.wrapper.style1 input[type="checkbox"] + label,
 				.wrapper.style1 input[type="radio"] + label {
-					color: #c8ece9;
+					color: var(--fl-muted);
 				}
 	
 					.wrapper.style1 input[type="checkbox"] + label:before,
 					.wrapper.style1 input[type="radio"] + label:before {
-						background: rgba(255, 255, 255, 0.075);
+						background: rgba(41, 52, 61, 0.05);
 					}
 	
 				.wrapper.style1 input[type="checkbox"]:checked + label:before,
 				.wrapper.style1 input[type="radio"]:checked + label:before {
-					background: #ffffff;
-					color: #21b2a6;
+					background: var(--fl-charcoal);
+					color: var(--fl-bg);
 				}
 	
 				.wrapper.style1 ::-webkit-input-placeholder {
-					color: #a6e0db !important;
+					color: var(--fl-muted) !important;
 				}
 	
 				.wrapper.style1 :-moz-placeholder {
-					color: #a6e0db !important;
+					color: var(--fl-muted) !important;
 				}
 	
 				.wrapper.style1 ::-moz-placeholder {
-					color: #a6e0db !important;
+					color: var(--fl-muted) !important;
 				}
 	
 				.wrapper.style1 :-ms-input-placeholder {
-					color: #a6e0db !important;
+					color: var(--fl-muted) !important;
 				}
 	
 				.wrapper.style1 .formerize-placeholder {
-					color: #a6e0db !important;
+					color: var(--fl-muted) !important;
 				}
 	
 				.wrapper.style1 .icon.major {
-					border-color: rgba(0, 0, 0, 0.125);
+					border-color: rgba(41, 52, 61, 0.35);
 				}
 	
 				.wrapper.style1 ul.alt li {
@@ -695,11 +693,11 @@
 				}
 	
 					.wrapper.style1 table tbody tr:nth-child(2n + 1) {
-						background-color: rgba(255, 255, 255, 0.075);
+						background-color: rgba(41, 52, 61, 0.05);
 					}
 	
 				.wrapper.style1 table th {
-					color: #ffffff;
+					color: var(--fl-charcoal);
 				}
 	
 				.wrapper.style1 table thead {
@@ -720,7 +718,7 @@
 				.wrapper.style1 button,
 				.wrapper.style1 .button {
 					box-shadow: inset 0 0 0 2px rgba(0, 0, 0, 0.125);
-					color: #ffffff;
+					color: var(--fl-charcoal);
 				}
 	
 					.wrapper.style1 input[type="submit"]:hover,
@@ -728,7 +726,7 @@
 					.wrapper.style1 input[type="button"]:hover,
 					.wrapper.style1 button:hover,
 					.wrapper.style1 .button:hover {
-						background-color: rgba(255, 255, 255, 0.075);
+						background-color: rgba(41, 52, 61, 0.05);
 					}
 	
 					.wrapper.style1 input[type="submit"]:active,
@@ -736,7 +734,7 @@
 					.wrapper.style1 input[type="button"]:active,
 					.wrapper.style1 button:active,
 					.wrapper.style1 .button:active {
-						background-color: rgba(255, 255, 255, 0.2);
+						background-color: rgba(41, 52, 61, 0.1);
 					}
 	
 				@media screen and (max-width: 736px) {
@@ -748,12 +746,12 @@
 				}
 	
 			.wrapper.style2 {
-				background-color: #2e3842;
+				background-color: var(--fl-charcoal);
 			}
 	
 			.wrapper.style3 {
-				background-color: #505393;
-				color: #d3d4e4;
+				background-color: var(--fl-charcoal-dark);
+				color: rgba(255, 255, 255, 0.8);
 			}
 	
 				.wrapper.style3 strong, .wrapper.style3 b {
@@ -777,15 +775,15 @@
 				}
 	
 				.wrapper.style3 header p {
-					color: #b9bad4;
+					color: rgba(255, 255, 255, 0.7);
 				}
 	
 				.wrapper.style3 header.major h2, .wrapper.style3 header.major h3, .wrapper.style3 header.major h4, .wrapper.style3 header.major h5, .wrapper.style3 header.major h6 {
-					border-color: rgba(0, 0, 0, 0.125);
+					border-color: var(--fl-yellow);
 				}
 	
 				.wrapper.style3 header.major p {
-					color: #d3d4e4;
+					color: rgba(255, 255, 255, 0.8);
 				}
 	
 				.wrapper.style3 label {
@@ -806,12 +804,12 @@
 	
 					.wrapper.style3 select option {
 						color: #ffffff;
-						background: #505393;
+						background: var(--fl-charcoal-dark);
 					}
 	
 				.wrapper.style3 input[type="checkbox"] + label,
 				.wrapper.style3 input[type="radio"] + label {
-					color: #d3d4e4;
+					color: rgba(255, 255, 255, 0.8);
 				}
 	
 					.wrapper.style3 input[type="checkbox"] + label:before,
@@ -822,27 +820,27 @@
 				.wrapper.style3 input[type="checkbox"]:checked + label:before,
 				.wrapper.style3 input[type="radio"]:checked + label:before {
 					background: #ffffff;
-					color: #505393;
+					color: var(--fl-charcoal-dark);
 				}
 	
 				.wrapper.style3 ::-webkit-input-placeholder {
-					color: #b9bad4 !important;
+					color: rgba(255, 255, 255, 0.7) !important;
 				}
 	
 				.wrapper.style3 :-moz-placeholder {
-					color: #b9bad4 !important;
+					color: rgba(255, 255, 255, 0.7) !important;
 				}
 	
 				.wrapper.style3 ::-moz-placeholder {
-					color: #b9bad4 !important;
+					color: rgba(255, 255, 255, 0.7) !important;
 				}
 	
 				.wrapper.style3 :-ms-input-placeholder {
-					color: #b9bad4 !important;
+					color: rgba(255, 255, 255, 0.7) !important;
 				}
 	
 				.wrapper.style3 .formerize-placeholder {
-					color: #b9bad4 !important;
+					color: rgba(255, 255, 255, 0.7) !important;
 				}
 	
 				.wrapper.style3 .icon.major {
@@ -920,11 +918,11 @@
 			}
 	
 				.wrapper.style5 strong, .wrapper.style5 b {
-					color: #2E3842;
+					color: var(--fl-charcoal);
 				}
 	
 				.wrapper.style5 h2, .wrapper.style5 h3, .wrapper.style5 h4, .wrapper.style5 h5, .wrapper.style5 h6 {
-					color: #2E3842;
+					color: var(--fl-charcoal);
 				}
 	
 				.wrapper.style5 hr {
@@ -952,7 +950,7 @@
 				}
 	
 				.wrapper.style5 label {
-					color: #2E3842;
+					color: var(--fl-charcoal);
 				}
 	
 				.wrapper.style5 input[type="text"],
@@ -968,7 +966,7 @@
 				}
 	
 					.wrapper.style5 select option {
-						color: #2E3842;
+						color: var(--fl-charcoal);
 						background: #ffffff;
 					}
 	
@@ -984,7 +982,7 @@
 	
 				.wrapper.style5 input[type="checkbox"]:checked + label:before,
 				.wrapper.style5 input[type="radio"]:checked + label:before {
-					background: #2E3842;
+					background: var(--fl-charcoal);
 					color: #ffffff;
 				}
 	
@@ -1025,7 +1023,7 @@
 					}
 	
 				.wrapper.style5 table th {
-					color: #2E3842;
+					color: var(--fl-charcoal);
 				}
 	
 				.wrapper.style5 table thead {
@@ -1046,7 +1044,7 @@
 				.wrapper.style5 button,
 				.wrapper.style5 .button {
 					box-shadow: inset 0 0 0 2px #dfdfdf;
-					color: #2E3842;
+					color: var(--fl-charcoal);
 				}
 	
 					.wrapper.style5 input[type="submit"]:hover,
@@ -1284,7 +1282,7 @@
 	
 				.features li:before {
 					display: block;
-					color: #00ffcc;
+					color: var(--fl-yellow);
 					position: absolute;
 					left: 1.75em;
 					top: 2.75em;
@@ -1427,9 +1425,9 @@
 			input[type="button"].primary,
 			button.primary,
 			.button.primary {
-				background-color: #ed4933;
+				background-color: var(--fl-yellow);
 				box-shadow: none !important;
-				color: #ffffff !important;
+				color: var(--fl-charcoal) !important;
 			}
 	
 				input[type="submit"].primary:hover,
@@ -1437,7 +1435,7 @@
 				input[type="button"].primary:hover,
 				button.primary:hover,
 				.button.primary:hover {
-					background-color: #ef5e4a !important;
+					background-color: color-mix(in srgb, var(--fl-yellow) 85%, #fff) !important;
 				}
 	
 				input[type="submit"].primary:active,
@@ -1445,7 +1443,7 @@
 				input[type="button"].primary:active,
 				button.primary:active,
 				.button.primary:active {
-					background-color: #eb341c !important;
+					background-color: color-mix(in srgb, var(--fl-yellow) 85%, #000) !important;
 				}
 	
 			input[type="submit"].disabled, input[type="submit"]:disabled,
@@ -1739,15 +1737,15 @@
 				}
 	
 			.icon.style1 {
-				color: #00ffcc;
+				color: var(--fl-charcoal);
 			}
 	
 			.icon.style2 {
-				color: #00f0ff;
+				color: var(--fl-charcoal);
 			}
 	
 			.icon.style3 {
-				color: #76ddff;
+				color: var(--fl-charcoal);
 			}
 	
 	
@@ -1767,7 +1765,7 @@
 	----*/
 	
 		body {
-			background: #2e3842;
+			background: var(--fl-charcoal);
 		}
 	
 			body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -2138,6 +2136,16 @@
   }
 }
 
+.brands__item img {
+  max-width: 100%;
+}
+
+@media (max-width: 736px) {
+  #cta .innerbrands {
+    padding: 0 1rem;
+  }
+}
+
 .brands__item a {
   display: flex;
   justify-content: center;
@@ -2293,19 +2301,8 @@
 
       </div>
   
-    <!-- Scripts -->
-      <script src="docs/javascripts/jquery.min.js"></script>
-      <script src="docs/javascripts/jquery.scrollex.min.js"></script>
-      <script src="docs/javascripts/jquery.scrolly.min.js"></script>
-      <script src="docs/javascripts/browser.min.js"></script>
-      <script src="docs/javascripts/breakpoints.min.js"></script>
-      <script src="docs/javascripts/main.js"></script>
-      <script src="docs/javascripts/util.js"></script>  
-  
-
-
-
-
-
-  
+    <!-- Scripts (homepage only) -->
+      {% for js in ["jquery.min.js", "jquery.scrollex.min.js", "jquery.scrolly.min.js", "browser.min.js", "breakpoints.min.js", "util.js", "main.js"] %}
+      <script src="{{ ('javascripts/' ~ js) | url }}"></script>
+      {% endfor %}
 {% endblock %}

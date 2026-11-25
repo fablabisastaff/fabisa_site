@@ -1,0 +1,46 @@
+{#-
+  Facts about the current page, used by the other templates:
+    {% import "partials/fl-layout.html" as fl with context %}
+
+  fl.section  top-level menu item the page belongs to (none for single pages)
+  fl.group    sub-section the page belongs to, e.g. Starfsemi → Menntun (or none)
+  fl.course   true for course material (sections listed in `extra.course_sections`)
+  fl.toc      show the "Á þessari síðu" contents list
+  fl.prev     previous page in the same sub-section (course material only)
+  fl.next     next page in the same sub-section (course material only)
+
+  Front matter can override the contents list: `toc: true` or `toc: false`.
+-#}
+{%- set _ = namespace(section=none, group=none, prev=none, next=none, last=none, found=false) -%}
+{%- for item in nav.items -%}
+  {%- if item.active and item.children -%}{%- set _.section = item -%}{%- endif -%}
+{%- endfor -%}
+{%- if _.section -%}
+  {%- for child in _.section.children -%}
+    {%- if child.active and child.children -%}{%- set _.group = child -%}{%- endif -%}
+  {%- endfor -%}
+{%- endif -%}
+{%- set section = _.section -%}
+{%- set group = _.group -%}
+{%- set course = section is not none and section.title in (config.extra.course_sections or []) -%}
+
+{#- Previous / next page within the same sub-section -#}
+{%- if course -%}
+  {%- for item in (group or section).children -%}
+    {%- if not item.children -%}
+      {%- if _.found and _.next is none -%}{%- set _.next = item -%}{%- endif -%}
+      {%- if item.active -%}{%- set _.found = true -%}{%- set _.prev = _.last -%}{%- endif -%}
+      {%- set _.last = item -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endif -%}
+{%- set prev = _.prev -%}
+{%- set next = _.next -%}
+
+{#- Contents list: course pages with at least 3 sections, unless set in front matter -#}
+{%- set headings = ((page.toc | first).children if page and page.toc else []) | length -%}
+{%- if page and page.meta and page.meta.toc is defined -%}
+  {%- set toc = page.meta.toc and headings > 0 -%}
+{%- else -%}
+  {%- set toc = course and headings >= 3 -%}
+{%- endif -%}

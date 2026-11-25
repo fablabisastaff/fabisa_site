@@ -14,7 +14,6 @@ hide:
 Smiðjan heldur upp og tekur þátt í ýmismverkefnum sem tengjast öll kjarna starfsemi smiðjunar sem snýst um að vinna með menntun, atvinulífinu og samfélagi til að búa til öflugan vetvagn sköpunar og leiða saman enstaklinga, fyrirtæki og tengja saman ýmis verkefni.
 
 ---
-<br><br><br><br><br><br><br><br>
 ## Menntun:
 
 - **Fókus:** Styrkja nemendur og kennara til að nota stafræna framleiðslutækni og efla sköpunarhæfni.
