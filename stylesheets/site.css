@@ -1,0 +1,722 @@
+/* ==========================================================================
+   Fab Lab Ísafjörður – site styles
+
+   One stylesheet for the shared header, menu and footer (also used on the
+   homepage) and for all Markdown pages.
+
+   Colour rules:
+   - Charcoal and warm off-white are the foundation.
+   - Yellow is used sparingly: the current menu item and page, short lines under headings,
+     selected items, hover/focus details and the occasional call to action.
+   - Never yellow text on a light background (too little contrast, 2.3:1).
+     Yellow on charcoal (5.3:1) and charcoal text on yellow (5.3:1) are fine,
+     and so is yellow on the dark-mode backgrounds (5.9–6.8:1).
+
+   Dark mode redefines the tokens below for [data-md-color-scheme="slate"].
+   ========================================================================== */
+
+:root {
+  --fl-yellow: #c9a227;        /* accent, use sparingly */
+  --fl-charcoal: #29343d;      /* header, table headers, text on yellow */
+  --fl-text: var(--fl-charcoal); /* body text, links, buttons (light in dark mode) */
+  --fl-charcoal-dark: #1e262d; /* footer */
+  --fl-bg: #f8f7f3;            /* page background */
+  --fl-surface: #ffffff;       /* cards, tables, embeds, section links */
+  --fl-muted: #5a646d;         /* secondary text (5.6:1 on --fl-bg) */
+  --fl-line: #e4e1d8;          /* hairlines and borders */
+
+  --fl-radius: 6px;
+  --fl-measure: 46rem;         /* width of the article column */
+  --fl-spaced: 0.12em;         /* letter spacing of uppercase labels */
+}
+
+/* Map the palette onto Zensical's own colour variables (both schemes) */
+[data-md-color-scheme="default"],
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color: var(--fl-bg);
+  --md-default-fg-color: var(--fl-text);
+  --md-primary-fg-color: var(--fl-charcoal);
+  --md-primary-fg-color--light: var(--fl-muted);
+  --md-primary-fg-color--dark: var(--fl-charcoal-dark);
+  --md-primary-bg-color: #fff;
+  --md-primary-bg-color--light: rgba(255, 255, 255, 0.7);
+  --md-accent-fg-color: var(--fl-text);
+  --md-accent-fg-color--transparent: rgba(201, 162, 39, 0.15);
+  --md-accent-bg-color: #fff;
+  --md-typeset-a-color: var(--fl-text);
+  --md-code-bg-color: var(--fl-surface);
+}
+
+/* Dark mode: only the tokens change. The header and footer stay charcoal.
+   The homepage (body.landing) keeps its own design in both modes. */
+[data-md-color-scheme="slate"]:not(.landing) {
+  --fl-bg: #1a2026;            /* page background */
+  --fl-surface: #232b32;       /* cards, tables, embeds, menus */
+  --fl-text: #ece9e2;          /* warm off-white text (13.6:1 on --fl-bg) */
+  --fl-muted: #a8b0b7;         /* secondary text (7.5:1 on --fl-bg) */
+  --fl-line: #36414a;          /* hairlines and borders */
+}
+
+[data-md-color-scheme="slate"]:not(.landing) .fl-footer {
+  border-top: 1px solid var(--fl-line);
+}
+
+/* Keyboard focus: charcoal ring on light backgrounds, yellow on dark */
+:focus-visible {
+  outline: 2px solid var(--fl-text);
+  outline-offset: 2px;
+}
+
+.md-header :focus-visible,
+.md-tabs :focus-visible,
+.fl-footer :focus-visible {
+  outline-color: var(--fl-yellow);
+}
+
+/* --------------------------------------------------------------------------
+   Header and main menu
+   -------------------------------------------------------------------------- */
+
+.md-header,
+.md-tabs {
+  background-color: var(--fl-charcoal);
+  color: #fff;
+  box-shadow: none;
+}
+
+.md-header__inner {
+  padding-top: 0.3rem;
+  padding-bottom: 0.3rem;
+}
+
+.md-header__button.md-logo img {
+  height: 1.9rem;
+  width: auto;
+}
+
+.md-header__title {
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: var(--fl-spaced);
+  text-transform: uppercase;
+}
+
+.md-tabs {
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.md-tabs__link {
+  color: rgba(255, 255, 255, 0.78);
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: var(--fl-spaced);
+  text-transform: uppercase;
+  opacity: 1;
+}
+
+.md-tabs__link:hover {
+  color: #fff;
+}
+
+.md-tabs__item--active .md-tabs__link {
+  color: #fff;
+  box-shadow: inset 0 -3px 0 var(--fl-yellow);
+}
+
+/* Search button on the dark header */
+.md-header .md-search__button {
+  background-color: rgba(255, 255, 255, 0.12);
+  color: #fff;
+}
+
+.md-header .md-search__button:hover,
+.md-header .md-search__button:focus {
+  background-color: rgba(255, 255, 255, 0.22);
+  color: #fff;
+}
+
+.md-header .md-search__button::before {
+  background-color: #fff;
+}
+
+.md-header .md-search__button::after {
+  background: rgba(255, 255, 255, 0.15);
+  color: #fff;
+}
+
+/* --------------------------------------------------------------------------
+   Page layout and section navigation
+
+   Pages in a section use Zensical's navigation sidebar on the left. Single
+   pages have no sidebar and use the full content width.
+   -------------------------------------------------------------------------- */
+
+.md-content__inner {
+  margin-top: 1.4rem;
+  margin-bottom: 3.5rem;
+}
+
+/* Without a section, the navigation is only the slide-out menu on phones */
+@media screen and (min-width: 76.25em) {
+  .fl-drawer-only {
+    display: none;
+  }
+}
+
+/* Sidebar (wide screens): plain text links, current page marked in yellow */
+@media screen and (min-width: 76.25em) {
+  .md-sidebar--primary .md-sidebar__scrollwrap {
+    margin-top: 1.4rem;
+  }
+
+  .md-nav--primary .md-nav__item--section > .md-nav__link {
+    margin-bottom: 0.5rem;
+    color: var(--fl-muted);
+    font-size: 0.62rem;
+    font-weight: 700;
+    letter-spacing: var(--fl-spaced);
+    text-transform: uppercase;
+  }
+
+  .md-nav--primary .md-nav__link {
+    border-radius: 0;
+    background: none;
+    color: var(--fl-muted);
+    font-size: 0.72rem;
+  }
+
+  .md-nav--primary .md-nav__link:hover,
+  .md-nav--primary .md-nav__link:focus-visible {
+    background: none;
+    color: var(--fl-text);
+  }
+
+  .md-nav--primary .md-nav__link--active,
+  .md-nav--primary .md-nav__link--active:hover {
+    background: none;
+    color: var(--fl-text);
+    font-weight: 700;
+    box-shadow: inset 2px 0 0 var(--fl-yellow);
+  }
+
+  /* Expandable groups (e.g. Menntun, Pre Fab) */
+  .md-nav--primary .md-nav__item--nested:not(.md-nav__item--section) > .md-nav__link {
+    color: var(--fl-text);
+    font-weight: 600;
+  }
+
+  .md-nav--primary .md-nav[data-md-level="2"] {
+    margin-left: 0.6rem;
+    border-left: 1px solid var(--fl-line);
+  }
+}
+
+/* Contents list on course pages: quiet, without background */
+.md-sidebar--secondary .md-nav__title {
+  color: var(--fl-muted);
+  font-size: 0.6rem;
+  letter-spacing: var(--fl-spaced);
+  text-transform: uppercase;
+  background: none;
+  box-shadow: none;
+}
+
+.md-sidebar--secondary .md-nav__link {
+  color: var(--fl-muted);
+  font-size: 0.68rem;
+}
+
+.md-sidebar--secondary .md-nav__link:hover,
+.md-sidebar--secondary .md-nav__link--active {
+  color: var(--fl-text);
+  background: none;
+}
+
+/* Section menu (small screens): collapsible list above the content.
+   Built from <details>, so it resets Zensical's collapsible-block styles. */
+.md-typeset .fl-section-menu {
+  margin: -0.6rem 0 1.8rem;
+  padding: 0;
+  background-color: var(--fl-surface);
+  border: 1px solid var(--fl-line);
+  border-radius: var(--fl-radius);
+  color: var(--fl-text);
+  font-size: 0.75rem;
+}
+
+@media screen and (min-width: 76.25em) {
+  .md-typeset .fl-section-menu {
+    display: none;
+  }
+}
+
+.md-typeset .fl-section-menu details {
+  margin: 0;
+  padding: 0;
+  background: none;
+  border-radius: 0;
+  color: inherit;
+  font-size: inherit;
+}
+
+.md-typeset .fl-section-menu summary {
+  margin: 0;
+  padding: 0.6rem 2rem 0.6rem 0.9rem;
+  border-radius: 0;
+  font-weight: 600;
+}
+
+.md-typeset .fl-section-menu summary::before {
+  display: none;    /* no admonition icon */
+}
+
+.md-typeset .fl-section-menu summary::after {
+  top: 0.75rem;
+  right: 0.7rem;
+  background-color: var(--fl-muted);
+}
+
+.md-typeset .fl-section-menu details summary {
+  padding-top: 0.35rem;
+  padding-bottom: 0.35rem;
+}
+
+.md-typeset .fl-section-menu details summary::after {
+  top: 0.45rem;
+}
+
+.md-typeset .fl-section-menu > summary {
+  color: var(--fl-muted);
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: var(--fl-spaced);
+  text-transform: uppercase;
+}
+
+/* Current page name next to the section name */
+.md-typeset .fl-section-menu > summary span {
+  margin-left: 0.5rem;
+  color: var(--fl-text);
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: normal;
+  text-transform: none;
+}
+
+.md-typeset .fl-section-menu ul {
+  margin: 0;
+  padding: 0 0 0.4rem;
+  list-style: none;
+}
+
+.md-typeset .fl-section-menu li {
+  margin: 0;
+}
+
+.md-typeset .fl-section-menu ul ul {
+  margin-left: 1.2rem;
+  border-left: 1px solid var(--fl-line);
+}
+
+.md-typeset .fl-section-menu a {
+  display: block;
+  padding: 0.35rem 0.9rem;
+  color: var(--fl-muted);
+  text-decoration: none;
+}
+
+.md-typeset .fl-section-menu a.is-active {
+  color: var(--fl-text);
+  font-weight: 700;
+  box-shadow: inset 2px 0 0 var(--fl-yellow);
+}
+
+/* Previous / next links at the end of course pages */
+.fl-pager {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-top: 3rem;
+  padding-top: 1.4rem;
+  border-top: 1px solid var(--fl-line);
+}
+
+.md-typeset .fl-pager a {
+  display: block;
+  max-width: 48%;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.md-typeset .fl-pager a:hover {
+  text-decoration: underline;
+  text-decoration-color: var(--fl-yellow);
+}
+
+.fl-pager__next {
+  margin-left: auto;
+  text-align: right;
+}
+
+.fl-pager span {
+  display: block;
+  color: var(--fl-muted);
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: var(--fl-spaced);
+  text-transform: uppercase;
+}
+
+/* --------------------------------------------------------------------------
+   Content (Markdown pages)
+   -------------------------------------------------------------------------- */
+
+.md-typeset {
+  font-size: 0.85rem;
+  line-height: 1.7;
+}
+
+/* Headings: h1 is the page title, h2 for sections, h3/h4 within sections */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4 {
+  color: var(--fl-text);
+  letter-spacing: -0.01em;
+}
+
+.md-typeset h1 {
+  margin: 0 0 1.6rem;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2;
+}
+
+.md-typeset h1::after {
+  content: "";
+  display: block;
+  width: 2.5rem;
+  height: 3px;
+  margin-top: 0.75rem;
+  background-color: var(--fl-yellow);
+}
+
+.md-typeset h2 {
+  clear: both;
+  margin: 2.6rem 0 0.8rem;
+  font-size: 1.35rem;
+  font-weight: 700;
+}
+
+.md-typeset h3 {
+  margin: 1.8rem 0 0.6rem;
+  font-size: 1.05rem;
+  font-weight: 700;
+}
+
+.md-typeset h4 {
+  margin: 1.4rem 0 0.5rem;
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+/* Links: underlined; yellow underline on hover */
+.md-typeset a {
+  color: var(--fl-text);
+  text-decoration: underline;
+  text-decoration-color: color-mix(in srgb, var(--fl-text) 35%, transparent);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.2em;
+}
+
+.md-typeset a:hover,
+.md-typeset a:focus {
+  color: var(--fl-text);
+  text-decoration-color: var(--fl-yellow);
+  text-decoration-thickness: 2px;
+}
+
+.md-typeset .headerlink,
+.md-typeset .md-button,
+.md-typeset a:has(> img) {
+  text-decoration: none;
+}
+
+.md-typeset hr {
+  clear: both;
+  margin: 2.2rem 0;
+  border-bottom: 1px solid var(--fl-line);
+}
+
+.md-typeset blockquote {
+  border-left: 3px solid var(--fl-line);
+  color: var(--fl-muted);
+}
+
+/* Images and embedded content */
+.md-typeset img,
+.md-typeset iframe,
+.md-typeset embed {
+  max-width: 100%;
+  border: 0;
+  border-radius: var(--fl-radius);
+}
+
+.md-typeset img[align="left"] {
+  margin: 0.3rem 1.4rem 1rem 0;
+}
+
+.md-typeset img[align="right"] {
+  margin: 0.3rem 0 1rem 1.4rem;
+}
+
+/* YouTube and Sketchfab scale with the column */
+.md-typeset iframe[src*="youtube"],
+.md-typeset iframe[src*="sketchfab"] {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+}
+
+.md-typeset .pdf-embed {
+  width: 100%;
+  min-height: 70vh;
+  background-color: var(--fl-surface);
+  border: 1px solid var(--fl-line);
+}
+
+/* Small screens: floating images and fixed widths become full width */
+@media screen and (max-width: 44.9375em) {
+  .md-typeset img[align],
+  .md-typeset img[style] {
+    float: none;
+    display: block;
+    width: 100% !important;
+    height: auto !important;
+    margin: 1rem 0;
+  }
+}
+
+/* Buttons: charcoal outline; `.md-button--primary` is the yellow call to action */
+.md-typeset .md-button {
+  margin: 0.2rem 0.3rem 0.2rem 0;
+  padding: 0.55em 1.5em;
+  border: 2px solid var(--fl-text);
+  border-radius: var(--fl-radius);
+  color: var(--fl-text);
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: var(--fl-spaced);
+  text-transform: uppercase;
+}
+
+.md-typeset .md-button:hover,
+.md-typeset .md-button:focus {
+  background-color: var(--fl-text);
+  border-color: var(--fl-text);
+  color: var(--fl-surface);
+}
+
+.md-typeset .md-button--primary,
+.md-typeset .md-button--primary:hover,
+.md-typeset .md-button--primary:focus {
+  background-color: var(--fl-yellow);
+  border-color: var(--fl-yellow);
+  color: var(--fl-charcoal);
+}
+
+.md-typeset .md-button--primary:hover {
+  background-color: color-mix(in srgb, var(--fl-yellow) 85%, #fff);
+}
+
+/* Surfaces: cards, tables, code, content tabs */
+.md-typeset .grid.cards > ul > li,
+.md-typeset .grid > .card {
+  background-color: var(--fl-surface);
+  border: 1px solid var(--fl-line);
+  border-radius: 10px;
+}
+
+.md-typeset .grid.cards > ul > li:hover {
+  border-color: var(--fl-yellow);
+  box-shadow: none;
+}
+
+.md-typeset table:not([class]) {
+  background-color: var(--fl-surface);
+  border: 1px solid var(--fl-line);
+  border-radius: var(--fl-radius);
+  font-size: 0.8rem;
+}
+
+.md-typeset table:not([class]) th {
+  background-color: var(--fl-charcoal);
+  color: #fff;
+}
+
+.md-typeset .tabbed-labels > label {
+  color: var(--fl-muted);
+}
+
+.md-typeset .tabbed-set > input:checked + label,
+.md-typeset .tabbed-labels > label:hover {
+  color: var(--fl-text);
+}
+
+.md-typeset .tabbed-labels::before {
+  background-color: var(--fl-yellow);
+}
+
+/* --------------------------------------------------------------------------
+   Footer
+   -------------------------------------------------------------------------- */
+
+.fl-footer {
+  background-color: var(--fl-charcoal-dark);
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.fl-footer__main {
+  font-size: 0.75rem;
+  line-height: 1.7;
+}
+
+.fl-footer__grid {
+  display: grid;
+  grid-template-columns: 1.4fr 1fr 1fr;
+  gap: 2rem;
+  padding: 2.4rem 1.2rem 1.6rem;
+}
+
+@media screen and (max-width: 44.9375em) {
+  .fl-footer__grid {
+    grid-template-columns: 1fr;
+    gap: 1.4rem;
+  }
+}
+
+.fl-footer h2 {
+  margin: 0 0 0.5rem;
+  color: #fff;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+}
+
+.fl-footer ul {
+  margin: 0 0 0.5rem;
+  padding: 0;
+  list-style: none;
+}
+
+.fl-footer a {
+  color: #fff;
+}
+
+.fl-footer a:hover {
+  color: var(--fl-yellow);
+}
+
+.fl-footer__logo {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  font-weight: 700;
+  letter-spacing: var(--fl-spaced);
+  text-transform: uppercase;
+}
+
+.fl-footer__logo img {
+  width: 2rem;
+  height: 2rem;
+}
+
+.fl-footer__brand p {
+  margin: 0.6rem 0 0;
+}
+
+.fl-footer__social {
+  display: flex;
+  gap: 0.8rem;
+  margin-top: 0.6rem;
+}
+
+.fl-footer__social svg {
+  width: 1.1rem;
+  height: 1.1rem;
+  fill: currentColor;
+}
+
+.fl-footer__bottom {
+  padding: 0.9rem 1.2rem 1.4rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 0.65rem;
+}
+
+/* --------------------------------------------------------------------------
+   Homepage: keep the shared header and footer unaffected by the homepage's
+   own (Spectral) styles, which are in overrides/home.html
+   -------------------------------------------------------------------------- */
+
+body.landing .md-main {
+  display: none;
+}
+
+body.landing .md-header,
+body.landing .md-tabs,
+body.landing .fl-footer {
+  font-family: var(--md-text-font-family);
+}
+
+body.landing .md-header *,
+body.landing .fl-footer * {
+  letter-spacing: normal;
+}
+
+body.landing .md-header__title,
+body.landing .md-tabs__link,
+body.landing .fl-footer h2,
+body.landing .fl-footer__logo {
+  letter-spacing: var(--fl-spaced);
+}
+
+body.landing .fl-footer h2,
+body.landing .fl-footer p,
+body.landing .fl-footer ul {
+  margin-bottom: 0.5rem;
+  padding: 0;
+  border: 0;
+  font-size: inherit;
+}
+
+body.landing .fl-footer h2 {
+  font-size: 0.68rem;
+}
+
+body.landing .md-header .md-search__button {
+  height: 1.6rem;
+  padding: 0 1.9rem 0 2.2rem;
+  border-radius: 0.4rem;
+  box-shadow: none;
+  font-size: 0.7rem;
+  font-weight: 400;
+  line-height: 1.6rem;
+  text-transform: none;
+}
+
+body.landing .md-header .md-search__button::after {
+  line-height: normal;
+}
+
+
+/* External documentation link */
+a[href="https://fablabisafjordur.github.io/docs/"]::after {
+    content: "↗";
+    display: inline-block;
+    margin-left: 0.4em;
+    font-size: 0.85em;
+    font-weight: normal;
+    opacity: 0.7;
+}
