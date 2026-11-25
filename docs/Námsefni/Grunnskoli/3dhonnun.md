@@ -2,6 +2,8 @@
 
 Thinkercad
 
+[GÍ haust 2026](https://www.tinkercad.com/joinclass/EXVWRB3XJ)
+
 [Grunnskólinn á Ísafirði - miðstig](https://www.tinkercad.com/joinclass/TWJYPSCK2)
 
 [Grunnskólinn á Ísafirði - unglingastig](https://www.tinkercad.com/joinclass/PBV9T6MVJ)
