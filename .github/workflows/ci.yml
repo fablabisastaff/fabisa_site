@@ -1,21 +1,28 @@
 name: ci
 
-# Builds the site on every push and pull request.
+# Builds the site on pushes to main and pull requests.
 # Only pushes to main are published to www.fabisa.is (the gh-pages branch).
 on:
   push:
     branches:
       - main
-      - master
   pull_request:
   workflow_dispatch:
 
+# Read-only by default.
 permissions:
-  contents: write
+  contents: read
+
+# Prevent overlapping runs for the same branch or pull request.
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Required to publish to gh-pages.
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -25,7 +32,7 @@ jobs:
       - run: zensical build --clean
 
       - name: Publish to gh-pages
-        if: github.event_name == 'push' && (github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master')
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
