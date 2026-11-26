@@ -16,7 +16,7 @@ Svavar Konráðsson er verkefnastjóri og kemur með reynslu sína í vélaverkf
 
 ## Staðsetning, tölvupóstur og símanúmer smiðjunar
 
-|  Torfnes 400 Ísafjörður   |   info hjá fabisa.is   |   +354 450 4408  |
+Torfnes, 400 Ísafjörður · info hjá fabisa.is · [+354 450 4408](tel:+3544504408)
 
 ---
 

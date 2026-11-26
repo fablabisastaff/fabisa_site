@@ -9,60 +9,63 @@ Hinsvegar eru rukkuð efnisgjöld, verð á helstu hráefnum má sjá hér að n
 
 ## Vínyll
 
-|Efni      |tegund	|Verð|
-|:---:|:---:|:---:|
-|Vínilfilma |cast777	|1500 kr/m|
+|    Efni    | tegund  |   Verð    |
+| :--------: | :-----: | :-------: |
+| Vínilfilma | cast777 | 1500 kr/m |
 
 ---
 
 ## Laser plötur
 
-|þykt|  efni    |   verð   |       
-|:--:|:--------:|:--------:|       
-|3mm |plexyplata| 2500kr   |        
-|5mm |plexyplata| 3500kr   |  
+| þykt |    efni    |  verð  |
+| :--: | :--------: | :----: |
+| 3mm  | plexyplata | 2500kr |
+| 5mm  | plexyplata | 3500kr |
 
 ---
 
-## 3D prentun 
+## 3D prentun
 
-*50 kr start gjald*
+_50 kr start gjald_
 
-|Efni	| Verð    |
-|:-----:|:-------:|
-|PLA	| 15 kr/gr|
-|HTPLA	| 15 kr/gr|
-|PETG	| 15 kr/gr|
-|TPU	| 20 kr/gr|
-|ABS	| 10 kr/gr|
+| Efni  |   Verð   |
+| :---: | :------: |
+|  PLA  | 15 kr/gr |
+| HTPLA | 15 kr/gr |
+| PETG  | 15 kr/gr |
+|  TPU  | 20 kr/gr |
+|  ABS  | 10 kr/gr |
 
 ---
 
 ## Rafrásarfræs
 
-| Efni	|Verð|
-|:-:|:-:|
-|Koparplata	|500 kr|
+|    Efni    |  Verð  |
+| :--------: | :----: |
+| Koparplata | 500 kr |
 
-*Til að viðhalda fræsitönnum tökum við 500/klst. ef eigin fræsitennur eru nottaðar er ekkert gjald.*
+_Til að viðhalda fræsitönnum tökum við 500/klst. ef eigin fræsitennur eru nottaðar er ekkert gjald._
 
 ---
-
 
 ## Rafbúnaður / íhlutir
 
 Rafmagnsíhlutir eru ekki ókeypis. Miðað er við upprunalegt verð erlendis, að viðbættu sendingar- og umsýslugjaldi og virðisauka.
 
-Verðin er hægt að finna með eftirfarandi formúlu
+Verð er reiknað með eftirfarandi hætti:
 
-Dæmi: Xiao RP2040 örtölva
+**Dæmi: Seeed Studio XIAO RP2040**
 
-Partanúmer á Digikey: 102010428
+Partanúmer á DigiKey: 102010428
 
-Verð á Digikey: $4,7 eða ~650 ISK
+Verð á DigiKey: $4,70 eða um 650 kr.
 
-Verð á Digikey	Umsýslugjald	Virðisauki	Heildarverð
-650 ISK	x 10%	x 24%	= 890 ISK
+| Lýsing                  |        Verð |
+| ----------------------- | ----------: |
+| Verð á DigiKey          |     650 kr. |
+| Umsýslugjald (10%)      |      65 kr. |
+| Virðisaukaskattur (24%) |     172 kr. |
+| **Heildarverð**         | **887 kr.** |
 
 ---
 
