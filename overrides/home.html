@@ -16,7 +16,7 @@
   <meta property="og:site_name" content="Fab Lab Ísafjörður">
 {% endblock %}
 
-{#- No sidebars or Markdown content on the homepage -#}
+{#- No Markdown content on the homepage -#}
 {% block container %}{% endblock %}
 
 {% block tabs %}
@@ -208,6 +208,12 @@
 			position: relative;
 			text-align: center;
 		}
+
+  /* Responsive landing page heading */
+    #banner h1 {
+      font-size: min(2em, 5vw);
+      overflow-wrap: break-word;
+    }
 	
 			#banner h2 {
 				-moz-transform: scale(1);
