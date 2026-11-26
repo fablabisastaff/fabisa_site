@@ -660,8 +660,17 @@
    own (Spectral) styles, which are in overrides/home.html
    -------------------------------------------------------------------------- */
 
-body.landing .md-main {
-  display: none;
+body.landing .md-main__inner {
+  margin-top: 0;
+}
+
+body.landing .md-sidebar--primary {
+  color: var(--md-default-fg-color);
+  letter-spacing: normal;
+}
+
+body.landing[data-md-color-scheme="slate"] .md-sidebar--primary {
+  color: #e0e0e0;
 }
 
 body.landing .md-header,
